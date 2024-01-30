@@ -1,0 +1,96 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that.
+# This file is *NOT* reloaded automatically when you use 'bundle exec jekyll serve'.
+# If you change this file, please restart the server process.
+
+# Site settings
+# are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+theme: jekyll-agency
+
+url    : "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+
+title      : "Twin-Tech"
+email      : your-email@example.com #this is also the email contact forms will go to
+description: "Site description"
+author     : Twin-Tech
+logo:     #optional, defaults to site title
+   path: assets\img\logos\TwinTech.png
+   height: 60 #height in px, defaults to 52px
+
+
+# SK: HAS TO BE SET !!!
+# Removed redundancy, to increase.
+locale: "en-US" # See available languages in _data/sitetext.yml
+
+analytics:
+  google: #Google Analytics tracking code here
+
+collections:
+  portfolio:
+
+markdown: kramdown
+
+# Uncomment following line to use Formspree form ID based URL instead of email based URL
+# Details: https://help.formspree.io/hc/en-us/articles/360017735154-How-to-prevent-spam
+# formspree_form_path: "f/a_form_id"
+
+people:
+  - name: "DI Daniel Lehner"
+    role: "Chief Executive Officer"
+    image: assets/img/team/DanielLehner2.jpg
+    social:
+      - url: https://derlehner.at/
+        icon: fa fa-home
+      - url: https://se.jku.at/daniel-lehner
+        icon: fa fa-university
+      - url: https://www.linkedin.com/in/daniel-lehner-95710a71/
+        icon: fab fa-linkedin-in
+  - name: "Dr. Stefan Klikovits"
+    role: "Chief Technological Advisor"
+    image: assets/img/team/StefanKlikovits.jpg
+    social:
+      - url: https://klikovits.net
+        icon: fa fa-home
+      - url: https://se.jku.at/stefan-klikovits
+        icon: fas fa-university
+      - url: https://www.linkedin.com/in/stefan.klikovits
+        icon: fab fa-linkedin-in
+  - name: "Prof. Dr. Manuel Wimmer"
+    role: "Chief Scientific Advisor"
+    image: assets/img/team/500x500.jpg
+    social:
+      - url: https://se.jku.at/manuel-wimmer/
+        icon: fa fa-university
+
+partners:
+  section: Kunden
+  max-height: 150px
+  horizontal-scrolling: "" #"yes/no"
+  list:
+    - title: "JKU"
+      url: https://jku.at
+      logo: assets/img/partners/winse-logo.png
+    - title: "designmodo"
+      url: https://github.com/raviriley/agency-jekyll-theme
+      logo: assets/img/clients/designmodo.jpg
+    - title: "themeforest"
+      url: https://github.com/raviriley/agency-jekyll-theme
+      logo: assets/img/clients/themeforest.jpg
+    - title: "Creative Market"
+      url: https://github.com/raviriley/agency-jekyll-theme
+      logo: assets/img/clients/creative-market.jpg
+
+
+
+social:
+  - url: mailto:daniel.lehner@twin-tech.at
+    icon: "fa fa-at"
+  - url: https://instagram.com/twin-tech.at
+    icon: "fab fa-instagram"

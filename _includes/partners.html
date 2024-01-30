@@ -1,0 +1,21 @@
+<!-- Partners -->
+<section class="page-section" id="partners">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading text-uppercase">{{ site.data.sitetext[site.locale].partners.title | markdownify | default: "Portfolio" }}</h2>
+        <h3 class="section-subheading text-muted">{{ site.data.sitetext[site.locale].partners.text | markdownify }}</h3>
+      </div>
+    </div>
+    <div class="row" {% if site.partners.horizontal-scrolling == "yes" %} id="scrolling-clients" {% endif %}>
+      {% for partner in site.partners.list %}
+      <div class="col-md-3 col-sm-6">
+        <a href="{{ partner.url }}">
+          <img class="img-fluid d-block mx-auto" src="{{ partner.logo }}" alt="{{ client.title }}" style="max-height: {{ site.partners.max-height | default: "100px" }}">
+        </a>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+<!-- End Partners -->
