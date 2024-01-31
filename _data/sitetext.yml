@@ -13,25 +13,25 @@ en: &DEFAULT_EN
   header:
     title: Twin Tech
     text: |
-      <span class="highlight">Efficiently</span> connect 
-      <span class="highlight">Innovation</span> with 
-      <span class="highlight">Digitalization</span> through Digital 
-      <span class="highlight">Twins</span>
-    button:
-    buttonlink:
+      <em>Efficiently</em> connect 
+      <em>Innovation</em> with 
+      <em>Digitalization</em> through Digital 
+      <em>Twins</em>
+    button: "Contact Us"
+    buttonlink: "#contact"
 
-  services:
-    title: "Services"
-    text: "Lorem ipsum"
+  mission:
+    title: "We want to help you ... "
+    text:
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title:
+        desc: ... unlock the power of digital twins to guarantee <em>impact-driven</em> decision-making in your <em>IoT systems</em>
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title:
+        desc: ... use <em>cutting-edge</em> technologies, tailored to your <em>individual business needs</em>
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
+      - title:
+        desc: ... build <em>future-proof</em> software architectures that ensure <em>flexibility</em> in the future
         icon: fab fa-markdown
 
   portfolio:

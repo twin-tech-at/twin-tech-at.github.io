@@ -10,12 +10,12 @@
 # English (default)
 # -----------------
 en: &DEFAULT_EN
-  services: "Services"
-  portfolio: "Our Services"
-  about: "About"
-  timeline: "Timeline"
+  mission: "Mission"
+  portfolio: "Services"
+#  about: "About"
+#  timeline: "Timeline"
   team: "Team"
-  partners: "Partners"
+#  partners: "Partners"
   contact: "Contact"
 en-US:
   <<: *DEFAULT_EN
@@ -29,12 +29,12 @@ en-AU:
 # Deutsch
 # -----------------
 de: &DEFAULT_DE
-  services: "Leistungen"
-  portfolio: "Portfolio"
-  about: "Über uns"
-  timeline: "Geschichte"
+  mission: "Mission"
+  portfolio: "Services"
+#  about: "Über uns"
+#  timeline: "Geschichte"
   team: "Team"
-  partners: "Partner"
+#  partners: "Partner"
   contact: "Kontakt"
 
 de-DE:
