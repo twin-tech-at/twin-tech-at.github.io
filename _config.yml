@@ -42,8 +42,8 @@ markdown: kramdown
 # formspree_form_path: "f/a_form_id"
 
 people:
-  - name: "DI Daniel Lehner"
-    role: "Chief Executive Officer"
+  - name: DI Daniel Lehner
+    role: Chief Executive Officer
     image: assets/img/team/DanielLehner2.jpg
     social:
       - url: https://derlehner.at/
@@ -52,6 +52,10 @@ people:
         icon: fa fa-university
       - url: https://www.linkedin.com/in/daniel-lehner-95710a71/
         icon: fab fa-linkedin-in
+    cv:
+      - text: Spent the last 5 years investigating and developing <b><span class="text-primary">Digital Twin platforms</span></b>
+      - text: Organizer of the <b><span class="text-primary">Engineering Digital Twins Community</span></b>
+      - text: Articles with <b><span class="text-primary"> > 150.000 readers</span></b> in heise iX, informatik aktuell, coders kitchen, …
   - name: "Dr. Stefan Klikovits"
     role: "Chief Technological Advisor"
     image: assets/img/team/StefanKlikovits.jpg
@@ -62,12 +66,22 @@ people:
         icon: fas fa-university
       - url: https://www.linkedin.com/in/stefan.klikovits
         icon: fab fa-linkedin-in
+    cv: 
+      - text: BBC, CERN, Tokyo
+      - text: ADS, DTs, MDE
+      - text: Quantum Search-Based XX
+
   - name: "Prof. Dr. Manuel Wimmer"
     role: "Chief Scientific Advisor"
     image: assets/img/team/500x500.jpg
     social:
       - url: https://se.jku.at/manuel-wimmer/
         icon: fa fa-university
+    cv: 
+      - text: 20+ years of science
+      - text: XX € attracted research funding
+      - text: "> 10.000 Citations"
+
 
 partners:
   section: Kunden
