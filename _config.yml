@@ -43,7 +43,7 @@ markdown: kramdown
 
 people:
   - name: DI Daniel Lehner
-    role: Chief Executive Officer
+    role: Executive Officer
     image: assets/img/team/DanielLehner2.jpg
     social:
       - url: https://derlehner.at/
@@ -57,7 +57,7 @@ people:
       - text: Organizer of the <b><span class="text-primary">Engineering Digital Twins Community</span></b>
       - text: Articles with <b><span class="text-primary"> > 150.000 readers</span></b> in heise iX, informatik aktuell, coders kitchen, …
   - name: "Dr. Stefan Klikovits"
-    role: "Chief Technological Advisor"
+    role: "Technological Advisor"
     image: assets/img/team/StefanKlikovits.jpg
     social:
       - url: https://klikovits.net
@@ -66,10 +66,10 @@ people:
         icon: fas fa-university
       - url: https://www.linkedin.com/in/stefan.klikovits
         icon: fab fa-linkedin-in
-    cv: 
-      - text: BBC, CERN, Tokyo
-      - text: ADS, DTs, MDE
-      - text: Quantum Search-Based XX
+    cv:
+      - text: 17+ years of <em>V&V</em> of <em>Large, Complex & Distributed CPSs</em>
+      - text: Pushing the boundaries of <em>Digital Twins, MDE, Autonomous Driving</em> and <em>Quantum SE</em> research
+      - text: <em>12+ years of international experience</em> at CERN, BBC, and National Institute of Informatics (Tokyo)
 
   - name: "Prof. Dr. Manuel Wimmer"
     role: "Chief Scientific Advisor"

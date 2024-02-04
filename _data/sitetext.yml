@@ -13,10 +13,10 @@ en: &DEFAULT_EN
   header:
     title: Twin Tech
     text: |
-      <em>Efficiently</em> connect 
-      <em>Innovation</em> with 
-      <em>Digitalization</em> through Digital 
-      <em>Twins</em>
+      <em><i>Efficiently</i></em> connect 
+      <em><i>Innovation</i></em> with 
+      <em><i>Digitalization</i></em> through Digital 
+      <em><i>Twins</i></em>
     button: "Contact Us"
     buttonlink: "#contact"
 
