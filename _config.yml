@@ -17,9 +17,9 @@ url: https://y7kim.github.io
 baseurl: /agency-jekyll-theme/
 
 title      : "Twin Tech"
-email      : your-email@example.com #this is also the email contact forms will go to
+email      : daniel.lehner@twin-tech.at #this is also the email contact forms will go to
 description: "Site description"
-author     : Twin-Tech
+author     : Twin Tech Daniel Lehner
 logo:     #optional, defaults to site title
    path: assets\img\logos\TwinTech.png
    height: 60 #height in px, defaults to 52px
@@ -53,8 +53,8 @@ people:
       - url: https://www.linkedin.com/in/daniel-lehner-95710a71/
         icon: fab fa-linkedin-in
     cv:
-      - text: Spent the last 5 years investigating and developing <b><span class="text-primary">Digital Twin platforms</span></b>
-      - text: Organizer of the <b><span class="text-primary">Engineering Digital Twins Community</span></b>
+      - text: Spent the last 5 years <br/>investigating and developing <br/><b><span class="text-primary">Digital Twin platforms</span></b>
+      - text: Organizer of the <br/><b><span class="text-primary"><a href="https://edt.community/">Engineering Digital Twins Community</a></span></b>
       - text: Articles with <b><span class="text-primary"> > 150.000 readers</span></b> in heise iX, informatik aktuell, coders kitchen, …
   - name: "Dr. Stefan Klikovits"
     role: "Technological Advisor"

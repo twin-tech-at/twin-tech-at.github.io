@@ -12,6 +12,7 @@
 en: &DEFAULT_EN
   mission: "Mission"
   portfolio: "Services"
+  challenges: "Challenges"
 #  about: "About"
 #  timeline: "Timeline"
   team: "Team"
@@ -31,6 +32,7 @@ en-AU:
 de: &DEFAULT_DE
   mission: "Mission"
   portfolio: "Services"
+  
 #  about: "Über uns"
 #  timeline: "Geschichte"
   team: "Team"
