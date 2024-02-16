@@ -1,12 +1,12 @@
 ---
 caption:
-  title: Project Realization
+  title: Project Planning
   subtitle: 
-  thumbnail: https://place-hold.it/400x300
+  thumbnail: ./assets/img/stockimages/planning.jpg
 
-title: Project Realization
+title: Project Planning
 subtitle: 
-image: https://place-hold.it/400x300
+image: ./assets/img/stockimages/planning.jpg
 alt: 
 
 ---

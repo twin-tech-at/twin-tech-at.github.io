@@ -1,12 +1,12 @@
 ---
 caption:
-  title: Strategy Planning
+  title: Expert-led Trainings
   subtitle: 
-  thumbnail: https://place-hold.it/400x300
+  thumbnail: ./assets/img/stockimages/trainings.jpg
 
-title: Strategy Planning
+title: Expert-led Trainings
 subtitle: 
-image: https://place-hold.it/400x300
+image: ./assets/img/stockimages/trainings.jpg
 alt: 
 ---
 
