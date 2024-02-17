@@ -14,7 +14,7 @@
 #theme: jekyll-agency
 
 url: https://twin-tech.at
-baseurl: /
+baseurl:
 
 title      : "Twin Tech"
 email      : daniel.lehner@twin-tech.at #this is also the email contact forms will go to
