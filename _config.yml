@@ -72,8 +72,8 @@ people:
       - text: <b><span class="text-success">12+ years of international experience</span></b> at CERN, BBC, and National Institute of Informatics (Tokyo)
 
   - name: "Prof. Dr. Manuel Wimmer"
-    role: "Chief Scientific Advisor"
-    image: assets/img/team/500x500.jpg
+    role: "Scientific Advisor"
+    image: assets/img/team/ManuelWimmer.png
     social:
       - url: https://se.jku.at/manuel-wimmer/
         icon: fa fa-university
