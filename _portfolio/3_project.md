@@ -11,10 +11,8 @@ alt:
 
 ---
 
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+We break down your potentials into specific, realizable projects.
+For these projects, you can leverage <em>our knowledge and network</em> for
 
-{:.list-inline}
-
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+- <em>Financing innovation</em> through research projects (get a refund of up to 100 % of your expenses)
+- Hand-picked selection of <em>technology partners and tools</em> to efficiently achieve your desired goals

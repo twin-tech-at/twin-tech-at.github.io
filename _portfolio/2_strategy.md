@@ -10,10 +10,8 @@ image: ./assets/img/stockimages/trainings.jpg
 alt: 
 ---
 
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+Our customized trainings provide your teams with the knowledge you need to stay ahead of the curve
 
-{:.list-inline}
-
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+- <em>Which</em> technologies can you use to accellerate your success?
+- <em> What </em> are the tools that you should use to leverage these technologies in your business context?
+- <em>How</em> can you efficiently connect these tools to ensure long-term flexibility?
