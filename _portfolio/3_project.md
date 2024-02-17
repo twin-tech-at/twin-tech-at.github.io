@@ -12,7 +12,7 @@ alt:
 ---
 
 We break down your potentials into specific, realizable projects.
-For these projects, you can leverage <em>our knowledge and network</em> for
+For these projects, you can leverage <b><span class="text-success">our knowledge and network</span></b> for
 
-- <em>Financing innovation</em> through research projects (get a refund of up to 100 % of your expenses)
-- Hand-picked selection of <em>technology partners and tools</em> to efficiently achieve your desired goals
+- <b><span class="text-success">Financing innovation</span></b> through research projects (get a refund of up to 100 % of your expenses)
+- Hand-picked selection of <b><span class="text-success">technology partners and tools</span></b> to efficiently achieve your desired goals

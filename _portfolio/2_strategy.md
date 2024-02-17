@@ -12,6 +12,6 @@ alt:
 
 Our customized trainings provide your teams with the knowledge you need to stay ahead of the curve
 
-- <em>Which</em> technologies can you use to accellerate your success?
-- <em> What </em> are the tools that you should use to leverage these technologies in your business context?
-- <em>How</em> can you efficiently connect these tools to ensure long-term flexibility?
+- <b><span class="text-success">Which</span></b> technologies can you use to accellerate your success?
+- <b><span class="text-success"> What </span></b> are the tools that you should use to leverage these technologies in your business context?
+- <b><span class="text-success">How</span></b> can you efficiently connect these tools to ensure long-term flexibility?

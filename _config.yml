@@ -53,9 +53,9 @@ people:
       - url: https://www.linkedin.com/in/daniel-lehner-95710a71/
         icon: fab fa-linkedin-in
     cv:
-      - text: Spent the last 5 years <br/>investigating and developing <br/><b><span class="text-primary">Digital Twin platforms</span></b>
-      - text: Organizer of the <br/><b><span class="text-primary"><a href="https://edt.community/">Engineering Digital Twins Community</a></span></b>
-      - text: Articles with <b><span class="text-primary"> > 150.000 readers</span></b> in heise iX, informatik aktuell, coders kitchen, …
+      - text: Spent the last 5 years <br/>investigating and developing <br/><b><span class="text-success">Digital Twin platforms</span></b>
+      - text: Organizer of the <br/><b><a href="https://edt.community/"><span class="text-success">Engineering Digital Twins Community</span></a></b>
+      - text: Articles with <b><span class="text-success"> > 150.000 readers</span></b> in heise iX, informatik aktuell, coders kitchen, …
   - name: "Dr. Stefan Klikovits"
     role: "Technological Advisor"
     image: assets/img/team/StefanKlikovits.jpg
@@ -67,9 +67,9 @@ people:
       - url: https://www.linkedin.com/in/stefan.klikovits
         icon: fab fa-linkedin-in
     cv:
-      - text: 17+ years of <em>V&V</em> of <em>Large, Complex & Distributed CPSs</em>
-      - text: Pushing the boundaries of <em>Digital Twins, MDE, Autonomous Driving</em> and <em>Quantum SE</em> research
-      - text: <em>12+ years of international experience</em> at CERN, BBC, and National Institute of Informatics (Tokyo)
+      - text: 17+ years of <b><span class="text-success">V&V</span></b> of <b><span class="text-success">Large, Complex & Distributed CPSs</span></b>
+      - text: Pushing the boundaries of <b><span class="text-success">Digital Twins, MDE, Autonomous Driving</span></b> and <b><span class="text-success">Quantum SE</span></b> research
+      - text: <b><span class="text-success">12+ years of international experience</span></b> at CERN, BBC, and National Institute of Informatics (Tokyo)
 
   - name: "Prof. Dr. Manuel Wimmer"
     role: "Chief Scientific Advisor"
