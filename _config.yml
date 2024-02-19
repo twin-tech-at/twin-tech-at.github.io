@@ -78,9 +78,9 @@ people:
       - url: https://se.jku.at/manuel-wimmer/
         icon: fa fa-university
     cv: 
-      - text: 20+ years of science
-      - text: XX € attracted research funding
-      - text: "> 10.000 Citations"
+      - text: <b><span class="text-success">20+ years of experience</span></b> in advancing the practice of software engineering through science
+      - text: "publications with <b><span class='text-success'>> 10.000 Citations</span></b>"
+      - text: Author of <b><a href="https://mdse-book.com/"><span class="text-success">"MDSE in Practice"</span></a></b>
 
 
 partners:
