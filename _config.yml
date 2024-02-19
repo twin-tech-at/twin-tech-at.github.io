@@ -18,7 +18,7 @@ baseurl:
 
 title      : "Twin Tech"
 email      : daniel.lehner@twin-tech.at #this is also the email contact forms will go to
-description: "Site description"
+description: "Your partner to accellerate your digitalization and innovation efforts with digital twins."
 author     : Twin Tech Daniel Lehner
 logo:     #optional, defaults to site title
    path: assets\img\logos\TwinTech.png
