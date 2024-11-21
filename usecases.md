@@ -22,5 +22,7 @@ We are currently preparing case studies on the benefits of applying digital twin
     formId: "2960931d-de2a-4f49-b64f-508bd8c209a9"
   });
 </script>
+<br/>
+<br/>
 </div>
 
