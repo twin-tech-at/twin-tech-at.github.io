@@ -54,6 +54,7 @@ en: &DEFAULT_EN
   footer:
     legal: "Privacy Policy"
     impressum: "Impressum"
+    UseCases: "Use Cases"
 
 en-US:
   <<: *DEFAULT_EN
