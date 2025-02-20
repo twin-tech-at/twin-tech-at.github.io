@@ -55,6 +55,8 @@ en: &DEFAULT_EN
     legal: "Privacy Policy"
     impressum: "Impressum"
     UseCases: "Use Cases"
+    Trainings: "Trainings"
+    AI: "Artificial Intelligence"
 
 en-US:
   <<: *DEFAULT_EN
