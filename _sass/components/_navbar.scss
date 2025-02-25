@@ -23,6 +23,17 @@
   }
   .navbar-nav {
     .nav-item {
+      &:hover  {
+        .nav-link {
+          color :$primary !important;
+        }
+        .fa {
+          color: $primary !important;
+        }
+      }
+      .fa:hover {
+        color: $primary !important;
+      }
       .nav-link {
         font-size: 90%;
         font-weight: 400;

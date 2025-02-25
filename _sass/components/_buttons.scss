@@ -9,6 +9,25 @@
   padding: 20px 40px;
 }
 
+.btn-primary-rev {
+  color: #171a1d;
+  background-color: #f5f5f5;
+
+  &:hover {
+    background-color: rgba(245,245,245, .85);
+  }
+}
+
+.btn-contactus {
+  background-color: #445260;
+  color:#f5f5f5;
+}
+
+.anim-down {
+  -webkit-animation: down 4s infinite;
+  animation: down 4s infinite;
+}
+
 .btn-primary {
   background-color: $primary;
   border-color: $primary;

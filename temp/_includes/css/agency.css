@@ -10,6 +10,8 @@ body {
     color: #{{ site.data.template.color.secondary-dark }};
 }
 
+
+
 .text-muted {
     color: #{{ site.data.template.color.muted }};
 }
@@ -234,6 +236,8 @@ fieldset[disabled] .btn-xl.active {
     background-color: #{{ site.data.template.color.secondary }};
 }
 
+
+
 @media(min-width:768px) {
     .navbar-default {
         padding: 25px 0;
@@ -342,6 +346,8 @@ section h3.section-subheading {
     font-style: italic;
     font-weight: 400;
 }
+
+
 
 @media(min-width:768px) {
     section {

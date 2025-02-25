@@ -8,15 +8,58 @@ header.masthead {
   //background-attachment: scroll;
   //background-position: center center;
   //background-size: cover;
+  .action-buttons a {
+    padding: 0.5rem 1rem;
+  }
   .intro-text {
     padding-top: 150px;
-    padding-bottom: 100px;
+    padding-bottom: 60px;
+
+    .row {
+      padding-left: 4rem;
+      
+        
+
+        @media (max-width: 1199px) {
+          flex-direction:column;
+          gap: 3rem;
+          align-items:center;
+          padding: 0px 15px;
+
+          .col:nth-child(1) {
+            justify-content: center;
+            display: grid !important;
+            grid-template-rows: 1fr 1fr;
+            justify-items: center !important;
+            align-items: center !important;
+          }
+        }
+    }
+
+    .row a {
+      padding: 0.6rem 1.2rem;
+
+
+      .arrow-container {
+        transform: translateY(-12px);
+    padding: 0 0.6rem 0 0rem;
+      }
+    }
+
+
+
     .intro-lead-in {
       font-size: 22px;
       font-style: italic;
       line-height: 22px;
       margin-bottom: 25px;
       @include serif-font;
+
+      margin-bottom: 2rem;
+      
+      
+      }
+    
     }
     .intro-heading {
       font-size: 50px;
@@ -26,17 +69,17 @@ header.masthead {
       @include heading-font;
     }
   }
-}
+
 @media (min-width: 768px) {
   header.masthead {
     .intro-text {
       padding-top: 150px;
-      padding-bottom: 100px;
+      padding-bottom: 60px;
       .intro-lead-in {
         font-size: 40px;
         font-style: italic;
         line-height: 40px;
-        margin-bottom: 25px;
+        margin-bottom: 60px;
         @include serif-font;
       }
       .intro-heading {

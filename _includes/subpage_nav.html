@@ -25,11 +25,10 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarResponsive">
       <ul class="navbar-nav text-uppercase ml-auto">
-        {%- for navitem in site.data.navigation[site.locale] -%}
-        <li class="nav-item">
-          <a class="nav-link js-scroll-trigger" href="#{{ navitem[0] }}">{{ navitem[1] }}</a>
+        <li class="nav-item d-flex align-items-center">
+            <i class="fa fa-thin fa-arrow-left pl-3" style="color: white;"></i>
+          <a class="nav-link js-scroll-trigger" href="{{ site.url }}">To Homepage</a>
         </li>
-        {%- endfor -%}
       </ul>
     </div>
   </div>

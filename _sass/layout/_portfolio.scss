@@ -1,5 +1,24 @@
 // Styling for the portfolio section
 #portfolio {
+  .news-services {
+    margin-top: 80px;
+    h2 {
+      text-decoration: underline 4px solid #343a40;
+    text-underline-offset: 9px;
+    }
+    .news-details {
+      flex: 1 1 auto;
+      margin-top:1rem;
+
+      p {
+        letter-spacing: .35pt;
+      }
+
+      a.btn {
+        margin-top: auto;
+      }
+    }
+  }
   .portfolio-item {
     right: 0;
     margin: 0 0 15px;
@@ -8,7 +27,7 @@
       display: block;
       max-width: 400px;
       margin: 0 auto;
-      cursor: pointer;
+      /*cursor: pointer;*/
       .portfolio-hover {
         position: absolute;
         width: 100%;
@@ -50,10 +69,17 @@
         margin: 0;
         text-transform: none;
       }
+       ul {
+        text-align:left;
+        li {
+          padding-bottom:.6rem;
+        }
+       }
       p {
         font-size: 16px;
         font-style: italic;
-        margin: 0;
+        line-height: 1.5rem;
+        margin: 1rem 0 0.5rem;
         @include serif-font;
       }
     }

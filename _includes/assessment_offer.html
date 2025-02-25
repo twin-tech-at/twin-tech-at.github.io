@@ -1,0 +1,383 @@
+<!--<section class="page-section" id="assessment_offer">
+    <div class="container">
+        <div class="d-flex justify-content-center row">
+            <h2>Discover your potential for using digital twins</h2>
+            <p>Take our assessment with questions about your digitalization status so we can help you figure out what's next for your business - and let us get back to you by email or in a face-to-face meeting!
+            </p>
+        </div>
+        <div class="d-flex row justify-content-center">
+            <a class="btn btn-primary" data-toggle="modal" href="#p_assessment">
+                Take assessment</a>
+
+            </div>
+            
+        </div>
+
+</section>-->
+
+<div class="modal assessment-modal fade" id="p_assessment" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl"></div>
+                </div>
+            </div>
+            <div class="container">
+                <h2>Digitalization maturity level</h2>
+                <div id="surveyContainer"></div>
+                <div class="submission-message">
+                    Thank you for your answers.
+                </div>
+                <div class="next-action-container">
+                    <h3>What's next?</h3>
+                    <div class="contact-option">
+                        <div class="divider-text-box">
+                            <p>Let us contact you to take your data
+                                usage to the next level.</p>
+                        </div>
+                        <!--        Create form with name, email, message, and submit button-->
+                        <p id="my-form-status"></p>
+                        <form id="consult-me-form" action="https://formspree.io/f/mkgoarqp" method="POST">
+                            <div class="form-group">
+                                <label class="required" for="name">Name:</label>
+                                <input type="text" class="form-control" id="name" placeholder="Enter name" name="name" required>
+                            </div>
+                            <div class="form-group">
+                                <label class="required" for="email">Email:</label>
+                                <input type="email" class="form-control" id="email" placeholder="Enter email"
+                                    name="email" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="name">Company:</label>
+                                <input type="text" class="form-control" id="company" placeholder="Enter company" name="company">
+                            </div>
+                           
+                            <div class="form-group">
+                                <label for="message">Any additional thoughts, challenges, or expectations regarding digitalization and the use of data in your industry:</label>
+                                <textarea class="form-control" id="message" placeholder="Enter your message"
+                                    name="message"></textarea>
+                            </div>
+                            <div class="form-group">
+                                <label for="agree">Consent for evaluation:</label>
+                                <div class="consent-input-wrapper d-flex">
+                                <input type="checkbox" class="form-control" id="agree" name="agree">
+                                <p class="pl-2">I agree that additional information regarding my answers will be sent to me.</p>
+                            </div>
+                            </div>
+                            <button type="submit" class="btn btn-primary" disabled>Submit</button>
+                        </form>
+                    </div>
+                    <div class="option-divider"><span>OR</span></div>
+                    <div class="booking-option">
+                        <div class="divider-text-box">
+                            <p>Schedule a first (free) consultation to discover your full potential for digital
+                                transformation.</p>
+                        </div>
+                        <a class="btn btn-dark btn-xl text-uppercase" href="https://outlook.office.com/bookwithme/user/a3368793e5a549bca2d7f1589bd9873e@twin-tech.at/meetingtype/GGZK85YNjUS4k8prkHosrQ2?anonymous&ep=mlink">Book consultation</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    let mailLabels = {
+        workingWithPhysicalDevices: ""
+    }
+
+    const surveyJson = {
+
+        elements: [{
+            name: "workingWithPhysicalDevices",
+            title: "Are you working with physical devices?",
+            type: "boolean"
+        }, {
+            name: "collectingData",
+            title: "Do you collect data from these devices for further processing?",
+            type: "boolean"
+        }, {
+
+            name: "UsagePurposes",
+            title: "For what purposes or applications do you currently use this data?",
+            type: "checkbox",
+            choices: ["Predictive maintenance", "Quality control & assurance", "Process optimization", "Regulatory compliance & reporting ", "Performance monitoring & analytics", "Simulation & Testing"]
+
+        }, {
+            name: "engineeringPhases",
+            title: "In which engineering phases do you already use simulations of your physical devices?",
+            type: "checkbox",
+            choices: ["Design", "Testing", "Implementation", "Operation", "Maintenance"],
+        }, {
+            name: "Goals",
+            title: "What are you goals with respect to digitalization in the next 2-3 years?",
+            type: "text",
+        }, {
+            name: "digitalTwinBenefits",
+            title: "What benefits do you expect from using digital twins in your daily work?",
+            type: "checkbox",
+            choices: ["Easier development", "More applications", "More sustainability", "Unsure"],
+            showOtherItem: true,
+            otherText: "Other (please specify)"
+        },
+       /* {
+            name: "ExtraInfo",
+            title: "Do you have any additional thoughts, challenges, or expectations regarding digitalization and the use of data in your industry?",
+            type: "comment"
+        }*/]
+    };
+
+    const consentCheckboxHTML = `<div role="presentation" class="permission-check-container sd-item sd-checkbox sd-selectbase__item sv-q-col-1 sd-item--allowhover sd-checkbox--allowhover"><label class="sd-selectbase__label"><input type="checkbox" name="dataPermission" class="mb-3 sd-item__control sd-checkbox__control" value="other"><span class="sd-item__control-label pl-2"><span class="sv-string-viewer">I hereby consent to the processing of the answers provided in this form. </span></span></label></div>`
+
+    const survey = new Survey.Model(surveyJson);
+    survey.applyTheme({
+        "themeName": "flat",
+        "colorPalette": "light",
+        "isPanelless": false,
+        "backgroundImage": "",
+        "backgroundOpacity": 1,
+        "backgroundImageAttachment": "scroll",
+        "backgroundImageFit": "cover",
+        "cssVariables": {
+            "--sjs-corner-radius": "4px",
+            "--sjs-base-unit": "8px",
+            "--sjs-shadow-small": "0px 0px 0px 1px rgba(0, 0, 0, 0.15)",
+            "--sjs-shadow-inner": "0px 0px 0px 1px rgba(0, 0, 0, 0.12)",
+            "--sjs-border-default": "rgba(0, 0, 0, 0.12)",
+            "--sjs-border-light": "rgba(0, 0, 0, 0.12)",
+            "--sjs-general-backcolor": "rgba(246, 246, 246, 1)",
+            "--sjs-general-backcolor-dark": "rgba(235, 235, 235, 1)",
+            "--sjs-general-backcolor-dim-light": "rgba(255, 255, 255, 1)",
+            "--sjs-general-backcolor-dim-dark": "rgba(235, 235, 235, 1)",
+            "--sjs-general-forecolor": "rgba(0, 0, 0, 0.91)",
+            "--sjs-general-forecolor-light": "rgba(0, 0, 0, 0.45)",
+            "--sjs-general-dim-forecolor": "rgba(0, 0, 0, 0.91)",
+            "--sjs-general-dim-forecolor-light": "rgba(0, 0, 0, 0.45)",
+            "--sjs-secondary-backcolor": "rgba(255, 152, 20, 1)",
+            "--sjs-secondary-backcolor-light": "rgba(255, 152, 20, 0.1)",
+            "--sjs-secondary-backcolor-semi-light": "rgba(255, 152, 20, 0.25)",
+            "--sjs-secondary-forecolor": "rgba(255, 255, 255, 1)",
+            "--sjs-secondary-forecolor-light": "rgba(255, 255, 255, 0.25)",
+            "--sjs-shadow-small-reset": "0px 0px 0px 0px rgba(0, 0, 0, 0.15)",
+            "--sjs-shadow-medium": "0px 0px 0px 1px rgba(0, 0, 0, 0.1),0px 2px 6px 0px rgba(0, 0, 0, 0.1)",
+            "--sjs-shadow-large": "0px 8px 16px 0px rgba(0, 0, 0, 0.1)",
+            "--sjs-shadow-inner-reset": "0px 0px 0px 0px rgba(0, 0, 0, 0.12)",
+            "--sjs-border-inside": "rgba(0, 0, 0, 0.16)",
+            "--sjs-special-red-forecolor": "rgba(255, 255, 255, 1)",
+            "--sjs-special-green": "rgba(25, 179, 148, 1)",
+            "--sjs-special-green-light": "rgba(25, 179, 148, 0.1)",
+            "--sjs-special-green-forecolor": "rgba(255, 255, 255, 1)",
+            "--sjs-special-blue": "rgba(67, 127, 217, 1)",
+            "--sjs-special-blue-light": "rgba(67, 127, 217, 0.1)",
+            "--sjs-special-blue-forecolor": "rgba(255, 255, 255, 1)",
+            "--sjs-special-yellow": "rgba(255, 152, 20, 1)",
+            "--sjs-special-yellow-light": "rgba(255, 152, 20, 0.1)",
+            "--sjs-special-yellow-forecolor": "rgba(255, 255, 255, 1)",
+            "--sjs-article-font-xx-large-textDecoration": "none",
+            "--sjs-article-font-xx-large-fontWeight": "700",
+            "--sjs-article-font-xx-large-fontStyle": "normal",
+            "--sjs-article-font-xx-large-fontStretch": "normal",
+            "--sjs-article-font-xx-large-letterSpacing": "0",
+            "--sjs-article-font-xx-large-lineHeight": "64px",
+            "--sjs-article-font-xx-large-paragraphIndent": "0px",
+            "--sjs-article-font-xx-large-textCase": "none",
+            "--sjs-article-font-x-large-textDecoration": "none",
+            "--sjs-article-font-x-large-fontWeight": "700",
+            "--sjs-article-font-x-large-fontStyle": "normal",
+            "--sjs-article-font-x-large-fontStretch": "normal",
+            "--sjs-article-font-x-large-letterSpacing": "0",
+            "--sjs-article-font-x-large-lineHeight": "56px",
+            "--sjs-article-font-x-large-paragraphIndent": "0px",
+            "--sjs-article-font-x-large-textCase": "none",
+            "--sjs-article-font-large-textDecoration": "none",
+            "--sjs-article-font-large-fontWeight": "700",
+            "--sjs-article-font-large-fontStyle": "normal",
+            "--sjs-article-font-large-fontStretch": "normal",
+            "--sjs-article-font-large-letterSpacing": "0",
+            "--sjs-article-font-large-lineHeight": "40px",
+            "--sjs-article-font-large-paragraphIndent": "0px",
+            "--sjs-article-font-large-textCase": "none",
+            "--sjs-article-font-medium-textDecoration": "none",
+            "--sjs-article-font-medium-fontWeight": "700",
+            "--sjs-article-font-medium-fontStyle": "normal",
+            "--sjs-article-font-medium-fontStretch": "normal",
+            "--sjs-article-font-medium-letterSpacing": "0",
+            "--sjs-article-font-medium-lineHeight": "32px",
+            "--sjs-article-font-medium-paragraphIndent": "0px",
+            "--sjs-article-font-medium-textCase": "none",
+            "--sjs-article-font-default-textDecoration": "none",
+            "--sjs-article-font-default-fontWeight": "400",
+            "--sjs-article-font-default-fontStyle": "normal",
+            "--sjs-article-font-default-fontStretch": "normal",
+            "--sjs-article-font-default-letterSpacing": "0",
+            "--sjs-article-font-default-lineHeight": "28px",
+            "--sjs-article-font-default-paragraphIndent": "0px",
+            "--sjs-article-font-default-textCase": "none",
+            "--sjs-general-backcolor-dim": "rgba(255, 255, 255, 1)",
+            "--sjs-primary-backcolor": "#55B534",
+            "--sjs-primary-backcolor-dark": "rgba(75, 159, 46, 1)",
+            "--sjs-primary-backcolor-light": "rgba(85, 181, 52, 0.1)",
+            "--sjs-primary-forecolor": "rgba(255, 255, 255, 1)",
+            "--sjs-primary-forecolor-light": "rgba(255, 255, 255, 0.25)",
+            "--sjs-special-red": "rgba(229, 10, 62, 1)",
+            "--sjs-special-red-light": "rgba(229, 10, 62, 0.1)"
+        },
+        "headerView": "basic"
+    });
+
+    /*  function generateAssessmentSummary(answers) {
+          let summary = "It seems ";
+  
+          if (!answers.workingWithPhysicalDevices) {
+              return summary + " that your focus is not on physical devices, which may limit the relevance of advanced simulation and digital twin technologies for your work.";
+          }
+  
+          if (!answers.collectingData) {
+              summary += "you are working with physical devices but are not yet leveraging data collection for further processing. Integrating data-driven approaches could unlock new efficiencies and insights.";
+          } else {
+              summary += "you are actively collecting data from your physical devices, which is a key step toward digital transformation. ";
+  
+              if (answers.engineeringPhases.length === 0) {
+                  summary += "However, it seems that you are not yet utilizing simulations in your engineering phases. Introducing simulations could enhance design, testing, and optimization processes.";
+              } else if (answers.engineeringPhases.length < 3) {
+                  summary += "You are using simulations in some engineering phases, indicating a developing approach to digitalization. Expanding their use across more phases could further improve efficiency and innovation.";
+              } else {
+                  summary += "With simulations integrated across multiple engineering phases, your organization demonstrates a strong commitment to digitalization. Exploring digital twins could further enhance operational efficiency and predictive capabilities.";
+              }
+          }
+  
+          if (answers.digitalTwinBenefits.includes("don't know")) {
+              summary += " You may benefit from exploring how digital twins could provide value in your daily work.";
+          }
+  
+          return summary;
+      }*/
+
+    function makeid(length) {
+        let result = '';
+        const characters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
+        const charactersLength = characters.length;
+        let counter = 0;
+        while (counter < length) {
+            result += characters.charAt(Math.floor(Math.random() * charactersLength));
+            counter += 1;
+        }
+        return result;
+    }
+
+    var generatedFormSubmissionId = String(Date.now()) + "-" + makeid(5);
+
+    document.addEventListener("DOMContentLoaded", function () {
+        $('#consult-me-form input#agree').change(function () {
+            if (this.checked) {
+                $('#consult-me-form button[type="submit"]').prop('disabled', false)
+            } else {
+                $('#consult-me-form button[type="submit"]').prop('disabled', true)
+            }
+        });
+
+        survey.render(document.getElementById("surveyContainer"));
+
+        $('#sv-nav-complete input[type=button]').prop('disabled', true)
+
+        $('#surveyContainer .sv-components-column.sv-components-container-contentBottom').prepend(consentCheckboxHTML)  
+
+        $("input[name='dataPermission']").change(function() {
+            if(this.checked) {
+                $('#sv-nav-complete input[type=button]').prop('disabled', false)
+            } else {
+                $('#sv-nav-complete input[type=button]').prop('disabled', true)
+            }
+        });
+
+
+        $("#sv-nav-complete input[type=button]").click(function (e) {
+            e.preventDefault();
+            // let summary = generateAssessmentSummary(survey.data);
+            //  $('.sd-body.sd-completedpage').append(`<p>Thank you for your answers.</p><h3>Assessment</h3><p>${summary}</p>`)
+            $('#surveyContainer').hide();
+            $('.next-action-container, .submission-message').show();
+
+            var formData = new FormData();
+            let surveyData = survey.data;
+            let surveyElements = surveyJson.elements
+
+            const surveyElemKeyToSpec = surveyElements.reduce((acc, obj) => {
+            acc[obj.name] = obj; // Use the "name" property as the key
+            return acc;
+        }, {});
+            
+            formData.append("submissionId", generatedFormSubmissionId);
+            for (const [index, [key, value]] of Object.entries(Object.entries(surveyData))) {
+                debugger
+                let qTitle = key.endsWith("-Comment") ? surveyElemKeyToSpec[key.slice(0, -8)].title + " (Additional comment)" : surveyElemKeyToSpec[key].title;
+                if (value.constructor === Array) {
+                    formData.append(qTitle, String(value.join(', ')))
+                } else {
+                    formData.append(qTitle, String(value))
+                }
+            }
+
+                        debugger
+            fetch("https://formspree.io/f/mkgoarqp", {
+                method: "POST",
+                body: formData,
+                headers: {
+                    'Accept': 'application/json'
+                }
+            }).then(response => {
+                if (response.ok) {
+                    status.innerHTML = "Thanks for your submission!";
+                    form.reset()
+                } else {
+                    response.json().then(data => {
+                        if (Object.hasOwn(data, 'errors')) {
+                            $('.submission-message').html(data["errors"].map(error => error["message"]).join(", "))
+                        } else {
+                            $('.submission-message').html("Oops! There was a problem submitting your form")
+                        }
+                    })
+                }
+            }).catch(error => {
+                status.innerHTML = "Oops! There was a problem submitting your form"
+            });
+        });
+
+    
+        var form = document.getElementById("consult-me-form");
+
+        form.addEventListener("submit", (event) => {
+            event.preventDefault();
+            var status = document.getElementById("my-form-status");
+            var data = new FormData(event.target);
+            data.append("submissionId", generatedFormSubmissionId);
+
+            fetch(event.target.action, {
+            method: form.method,
+            body: data,
+            headers: {
+                'Accept': 'application/json'
+            }
+            }).then(response => {
+                $('#consult-me-form').hide();
+            if (response.ok) {
+                status.innerHTML = "Thanks for your submission!";
+            } else {
+                response.json().then(data => {
+                if (Object.hasOwn(data, 'errors')) {
+                    status.innerHTML = data["errors"].map(error => error["message"]).join(", ")
+                } else {
+                    status.innerHTML = "Oops! There was a problem submitting your form"
+                }
+                })
+            }
+            }).catch(error => {
+             status.innerHTML = "Oops! There was a problem submitting your form"
+            });
+        })
+    });
+
+
+
+</script>

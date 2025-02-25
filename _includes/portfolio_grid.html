@@ -1,5 +1,5 @@
 <!-- Portfolio Grid -->
-<section class="page-section" id="portfolio">
+<section class="px-4 px-md-2 page-section" id="portfolio">
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
@@ -10,22 +10,42 @@
     <div class="row">
 	{% for project in site.portfolio %}
       <div class="col-md-4 col-sm-6 portfolio-item">
-        <a class="portfolio-link" data-toggle="modal" href="#p{{ forloop.index }}">
-          <div class="portfolio-hover">
+        <a class="portfolio-link">
+         <!--<div class="portfolio-hover">
             <div class="portfolio-hover-content">
               <i class="{{ site.data.style.portfolio-icon | default: "fas fa-plus fa-3x" }}"></i>
             </div>
-          </div>
+          </div> -->
           <img class="img-fluid" src="{{ project.caption.thumbnail }}" alt="">
         </a>
         <div class="portfolio-caption">
           <h4>{{ project.caption.title }}</h4>
           <p class="text-muted">{{ project.caption.subtitle }}</p>
+          <ul class="fa-ul">
+            {% for item in project.caption.items %}
+            <li><span class="fa-li"><i class="fa fa-solid fa-long-arrow-alt-right"></i></span>{{ item }}</li>
+            {% endfor %}
+          </ul>
         </div>
       </div>
 	{% endfor %}
     </div>
-    <h2>The EU AI Act is here! Get ready with our <a href="/ai">offers on Artificial Intelligence.</a></h2>
+    <div class="row news-services">
+      <div class="d-flex flex-column align-items-center col-12 col-md-6 px-4 mb-4 pb-4 mb-md-0 pb-md-0 border-right"><h2>The AI act is here</h2>
+<div class="news-details d-flex flex-column">   
+        <p class="m-auto">Get ready with <span class="text-success">our offers on Artificial Intelligence.</span>
+    </p>
+    <a class="btn mt-4 btn-xl d-flex btn-dark align-self-center d-flex align-items-center " href="/eu_ai_act"><i class="fa fa-solid fa-arrow-right pr-3"></i>Our AI Act offering</a>
+  </div> 
+  </div>
+      <div class="d-flex flex-column align-items-center col-12 col-md-6 px-4 mt-4 pt-4 pt-md-0 mt-md-0"><h2>Training courses now available</h2>
+        <div class="news-details d-flex flex-column">   
+
+        <p class="m-auto">We offer seminars on <span class="text-success">managing the AI act for your enterprise, the advantages of digital twins, and the digital product passport.</span>
+    </p>
+    <a class="btn mt-4 btn-dark btn-xl align-self-center d-flex align-items-center" href="/trainings"><i class="fa fa-solid fa-arrow-right pr-3"></i>Our training offering </a>
+   </div> </div>
+    </div>
   </div>
 </section>
 {% include modals.html %}

@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-{% include nav.html %}
+{% include subpage_nav.html %}
+
 
 {% if page.background == "grey" or page.background == "gray" %}
 <script>
@@ -10,5 +11,7 @@ document.getElementById("page-top").className="bg-light";
 {% endif %}
 
 <div class="container" id="pagecontainer">
+    {% include breadcrumbs.html %}
+
 {{ content }}
 </div>

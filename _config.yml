@@ -34,6 +34,9 @@ analytics:
 
 collections:
   portfolio:
+  services:
+    output: true
+    permalink: /:path/
 
 markdown: kramdown
 
