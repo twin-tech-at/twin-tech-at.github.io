@@ -28,7 +28,7 @@ Available Dates in 2025:
 <li>October 28 and 29</li>
 <li>November 11 - 14 (4-day in-depth course)</li>
 </ul>
-<b>Interested? Booking will open soon! </b>
+<b>Interested? Find more information here (booking will open soon): <a href="https://tecnovy.com/de/tecnovy/eu-ai-act">https://tecnovy.com/de/tecnovy/eu-ai-act</a> </b>
 <br/>
 <br/>
 
@@ -44,7 +44,7 @@ Available Dates in 2025:
 <li>June 17 and 18</li>
 <li>October 7 and 9</li>
 </ul>
-<b>Interested? Book via: </b> <a href="https://www.comconsult.com/seminar-iot-ki-digitale-zwillinge/">https://www.comconsult.com/seminar-iot-ki-digitale-zwillinge/</a>
+<b>Interested? Book via:  <a href="https://www.comconsult.com/seminar-iot-ki-digitale-zwillinge/">https://www.comconsult.com/seminar-iot-ki-digitale-zwillinge/</a></b>
 <br/>
 <br/>
 
@@ -58,11 +58,11 @@ In our in-house prompathons, we use the well-established concept of hackathons a
 <li>Presentation of their results make sure that all participants profit from the collective creative potential unleashed in your Promptathons</li>
 </ul>
 
-Interested? Book your free 20-minute assessment (<a href="https://outlook.office.com/bookwithme/user/a3368793e5a549bca2d7f1589bd9873e%40twin-tech.at?anonymous&isanonymous=true">Book here</a>) or send us your enquiry to <a href="mailto:office@twin-tech.at">office@twin-tech.at</a>
+Interested? Book your <b>free 20-minute assessment (<a href="https://outlook.office.com/bookwithme/user/a3368793e5a549bca2d7f1589bd9873e%40twin-tech.at?anonymous&isanonymous=true">Book here</a>)</b> or send us your enquiry to <a href="mailto:office@twin-tech.at">office@twin-tech.at</a>
 <br/>
 <br/>
 <h3>AI Coachings</h3>
-Looking for a private session with AI experts to discuss your individual questions? <br/>Tell us your specific needs in a free 20-minute online session (<a href="https://outlook.office.com/bookwithme/user/a3368793e5a549bca2d7f1589bd9873e%40twin-tech.at?anonymous&isanonymous=true">Book here</a>), or send us an e-mail to <a href="mailto:office@twin-tech.at">office@twin-tech.at</a>.
+Looking for a private session with AI experts to discuss your individual questions? <br/>Tell us your specific needs in a <b>free 20-minute online session (<a href="https://outlook.office.com/bookwithme/user/a3368793e5a549bca2d7f1589bd9873e%40twin-tech.at?anonymous&isanonymous=true">Book here</a>)</b>, or send us an e-mail to <a href="mailto:office@twin-tech.at">office@twin-tech.at</a>.
 <br/>
 <br/>
 <h3>AI Strategy Consulting</h3>
@@ -73,5 +73,5 @@ Without a proper strategy, you will risk
 <li>waste money on licences for AI tools without any ROI</li>
 </ul>
 
-Set up a free 20-minute analysis meeting to see find out how we can help you build your custom AI strategy to serve your individual business needs: <a href="https://outlook.office.com/bookwithme/user/a3368793e5a549bca2d7f1589bd9873e%40twin-tech.at?anonymous&isanonymous=true">Click here</a>
+Set up a <b>free 20-minute analysis meeting</b> to see find out how we can help you build your custom AI strategy to serve your individual business needs: <b><a href="https://outlook.office.com/bookwithme/user/a3368793e5a549bca2d7f1589bd9873e%40twin-tech.at?anonymous&isanonymous=true">Click here</a></b>
 </div>
