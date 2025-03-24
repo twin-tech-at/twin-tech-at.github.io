@@ -17,7 +17,7 @@ en: &DEFAULT_EN
       <em><i>Innovation</i></em> with 
       <em><i>Digitalization</i></em> through Digital 
       <em><i>Twins</i></em>
-    button: "Contact Us"
+    button: "Book a Meeting"
     buttonlink: "#contact"
 
   mission:
