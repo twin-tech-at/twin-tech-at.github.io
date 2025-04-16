@@ -25,7 +25,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Our Services"
-    text: "tailored to your individual business needs"
+    text: "We are your one-stop training and consulting provider for innovation surrounding AI and digital twins."
     closebutton: "Close"
 
   

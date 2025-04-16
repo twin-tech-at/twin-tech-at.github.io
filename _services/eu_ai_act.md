@@ -41,7 +41,7 @@ Available Dates in 2025:
 Available Dates in 2025:
 <ul> 
 <li>March 25 and 27</li>
-<li>June 17 and 18</li>
+<li>July 2 and 3</li>
 <li>October 7 and 9</li>
 </ul>
 <b>Interested? Book via:  <a href="https://www.comconsult.com/seminar-iot-ki-digitale-zwillinge/">https://www.comconsult.com/seminar-iot-ki-digitale-zwillinge/</a></b>

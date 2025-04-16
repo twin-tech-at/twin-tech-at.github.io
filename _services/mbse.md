@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Trainings
-background: white
+title: Systems Engineering
+background: grey
 ---
 
 <div class="col-lg-12 text-center">

@@ -45,8 +45,8 @@ markdown: kramdown
 # formspree_form_path: "f/a_form_id"
 
 people:
-  - name: DI Daniel Lehner
-    role: Executive Officer
+  - name: Dr. Daniel Lehner
+    role: Owner, Digital Twin Evangelist
     image: assets/img/team/DanielLehner2.jpg
     social:
       - url: https://derlehner.at/
@@ -60,7 +60,7 @@ people:
       - text: Organizer of the <br/><b><a href="https://edt.community/"><span class="text-success">Engineering Digital Twins Community</span></a></b>
       - text: Articles with <b><span class="text-success"> > 150.000 readers</span></b> in heise iX, informatik aktuell, coders kitchen, …
   - name: "Dr. Stefan Klikovits"
-    role: "Technological Advisor"
+    role: The Tech Enthusiast
     image: assets/img/team/StefanKlikovits.jpg
     social:
       - url: https://klikovits.net
@@ -70,10 +70,44 @@ people:
       - url: https://www.linkedin.com/in/stefan.klikovits
         icon: fab fa-linkedin-in
     cv:
-      - text: 17+ years of <b><span class="text-success">V&V</span></b> of <b><span class="text-success">Large, Complex & Distributed CPSs</span></b>
+      - text: 15+ years of <b><span class="text-success">V&V</span></b> of <b><span class="text-success">Large, Complex & Distributed CPSs</span></b>
       - text: Pushing the boundaries of <b><span class="text-success">Digital Twins, MDE, Autonomous Driving</span></b> and <b><span class="text-success">Quantum SE</span></b> research
       - text: <b><span class="text-success">12+ years of international experience</span></b> at CERN, BBC, and National Institute of Informatics (Tokyo)
-
+  - name: Martin Eisenberg
+    role: The AI Guy
+    image: assets/img/team/martin_eisenberg.jpeg
+    social:
+      - url: https://se.jku.at/martin-eisenberg
+        icon: fa fa-university
+      - url: https://www.linkedin.com/in/martin-eisenberg-45b224245/
+        icon: fab fa-linkedin-in
+    cv:
+      - text: Worked the last 4 years on implementing AI use cases
+      - text: Tames Neural Networks and Genetic Algorithms for breakfast
+  - name: Edvin Herac
+    role: Systems and Complexity Manager
+    image: assets/img/team/edvin_herac.png
+    social:
+      - url: https://edvher.github.io/
+        icon: fa fa-university
+      - url: https://www.linkedin.com/in/edvin-herac-946b382bb/
+        icon: fab fa-linkedin-in
+    cv:
+      - text: 5 years of taming complex systems through version and variant management
+      - text: 10+ years of experience in software engineering with ERP, PDM and CAD systems
+      - text: Manages cross-functional teams
+  - name: Prof. Reinhold Plösch
+    role: Innovation and Funding Advisor
+    image: assets/img/team/reinhold_ploesch.jpg
+    social:
+      - url: https://se.jku.at/reinhold-ploesch/
+        icon: fa fa-home
+      - url: https://www.linkedin.com/in/reinhold-pl%C3%B6sch-2b969a41/
+        icon: fab fa-linkedin-in
+    cv:
+     - text: Combines Large Language Models with traditional Quality Assurance techniques in his daily work
+     - text: Academic director of IPO (knowledge transfer hub in Upper Austria)
+     - text: Headed multiple international projects with partners including Siemens, Capgemini, and SAP
   - name: "Prof. Dr. Manuel Wimmer"
     role: "Scientific Advisor"
     image: assets/img/team/ManuelWimmer.png
@@ -85,25 +119,21 @@ people:
       - text: "publications with <b><span class='text-success'>> 10.000 Citations</span></b>"
       - text: Author of <b><a href="https://mdse-book.com/"><span class="text-success">"MDSE in Practice"</span></a></b>
 
+memberships:
+  - name: "Open Industry 4.0 Alliance"
+    logo: assets/img/logos/oi4.png
+  - name: "Mechatronikcluster Oberösterreich"
+    logo: assets/img/logos/mc.png
+  - name: "OPC Foundation"
+    logo: assets/img/logos/opc.png
 
-partners:
-  section: Kunden
-  max-height: 150px
-  horizontal-scrolling: "" #"yes/no"
-  list:
-    - title: "JKU"
-      url: https://jku.at
-      logo: assets/img/partners/winse-logo.png
-    - title: "designmodo"
-      url: https://github.com/raviriley/agency-jekyll-theme
-      logo: assets/img/clients/designmodo.jpg
-    - title: "themeforest"
-      url: https://github.com/raviriley/agency-jekyll-theme
-      logo: assets/img/clients/themeforest.jpg
-    - title: "Creative Market"
-      url: https://github.com/raviriley/agency-jekyll-theme
-      logo: assets/img/clients/creative-market.jpg
-
+toolpartners:
+  - name: XITASO GmbH
+    logo: assets/img/logos/xitaso.png
+  - name: Digital Twin Factory
+    logo: assets/img/logos/dtf.png
+  - name: DCCX GmbH
+    logo: assets/img/logos/xitaso.png
 
 
 social:
