@@ -63,7 +63,7 @@ Außerdem wird es ausreichend Zeit für Fragen sowie individuelle Problemstellun
 <b> Mehr Infos (Buchung öffnet bald): <a href="https://tecnovy.com/de/tecnovy/eu-ai-act">https://tecnovy.com/de/tecnovy/eu-ai-act</a> </b><br/>
 </div>
 <div class="col-md-4 text-left">
-       <img src="..\assets\img\stockimages\lock.jpg" class="img-fluid" style="max-width: 100%;">
+       <img src="..\assets\img\stockimages\ai_llm.jpg" class="img-fluid" style="max-width: 100%;">
       </div>
 </div>
 
