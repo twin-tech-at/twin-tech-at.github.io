@@ -10,8 +10,7 @@ background: white
 </div>
 
 <div class="col-md-12">
-        <br/><br/><br/>
-        <img src="..\assets\img\workshops.png" class="img-fluid" style="max-width: 100%;">
+        <img src="..\assets\img\eigene\trainings_de.jpg" class="img-fluid" style="max-width: 100%;">
        </div>
 <br/>
 

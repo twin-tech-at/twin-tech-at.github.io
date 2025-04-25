@@ -1,15 +1,18 @@
 ---
 layout: page
 title: ArtificialIntelligence
-background: grey
+background: white
 ---
 
 <div class="col-lg-12 text-center">
-	<h2 class="section-heading text-uppercase">Our offers on Artificial Intelligence</h2>
+	<h2 class="section-heading text-uppercase">Our Trainings and Consulting Packages on Artificial Intelligence</h2>
 	<i>Note: all offers are available in both German and English, online and on-site</i>
 </div>
-
-
+<div class="col-md-12">
+        <br/>
+        <img src="..\assets\img\eigene\services_ai.jpg" class="img-fluid" style="max-width: 100%;">
+       </div>
+<br/>
 <div class="col-lg-12">
 
 <h3>Trainings</h3>
