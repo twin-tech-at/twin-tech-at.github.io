@@ -11,7 +11,7 @@ background: white
 
 <div class="col-md-12">
         <br/><br/><br/>
-        <img src="..\assets\img\services_digitaltwins.jpg" class="img-fluid" style="max-width: 100%;">
+        <img src="..\assets\img\eigene\services_digitaltwins.jpg" class="img-fluid" style="max-width: 100%;">
        </div>
 <br/>
 
