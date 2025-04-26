@@ -10,7 +10,6 @@ caption:
 
 buttons:
   items: [
-    
+    '<a class="btn mt-4 btn-dark align-self-center d-flex align-items-center" href="digitaltwins"><i class="fa fa-solid fa-arrow-right pr-3"></i>Our Digital Twin Offers</a>'
   ]
 ---
-'<a class="btn mt-4 btn-dark align-self-center d-flex align-items-center" href="digitaltwins"><i class="fa fa-solid fa-arrow-right pr-3"></i>Our Digital Twin Offers</a>'

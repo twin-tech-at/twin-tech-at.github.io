@@ -38,7 +38,7 @@
                         </div>
                         <!--        Create form with name, email, message, and submit button-->
                         <p id="my-form-status"></p>
-                        <form id="consult-me-form" action="https://formspree.io/f/mkgoarqp" method="POST">
+                        <form id="consult-me-form" action="https://formspree.io/f/manewqze" method="POST">
                             <div class="form-group">
                                 <label class="required" for="name">Name:</label>
                                 <input type="text" class="form-control" id="name" placeholder="Enter name" name="name" required>
@@ -121,11 +121,11 @@
             showOtherItem: true,
             otherText: "Other (please specify)"
         },
-       /* {
+        {
             name: "ExtraInfo",
-            title: "Do you have any additional thoughts, challenges, or expectations regarding digitalization and the use of data in your industry?",
+            title: "Do you have any additional thoughts, challenges, or expectations regarding digitalization and the use of data in your organization?",
             type: "comment"
-        }*/]
+        }]
     };
 
     const consentCheckboxHTML = `<div role="presentation" class="permission-check-container sd-item sd-checkbox sd-selectbase__item sv-q-col-1 sd-item--allowhover sd-checkbox--allowhover"><label class="sd-selectbase__label"><input type="checkbox" name="dataPermission" class="mb-3 sd-item__control sd-checkbox__control" value="other"><span class="sd-item__control-label pl-2"><span class="sv-string-viewer">I hereby consent to the processing of the answers provided in this form. </span></span></label></div>`
@@ -320,7 +320,7 @@
             }
 
                         debugger
-            fetch("https://formspree.io/f/mkgoarqp", {
+            fetch("https://formspree.io/f/manewqze", {
                 method: "POST",
                 body: formData,
                 headers: {
