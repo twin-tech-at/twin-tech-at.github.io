@@ -28,7 +28,6 @@ background: white
         <h4>Besser und Schneller im IoT mit KI und digitalen Zwillingen</h4>
 <b>Termine:</b>
 <ul>
-<li>25. und 27. März 2025</li>
 <li>2. und 3. Juli 2025</li>
 <li>07 und 09. Oktober 2025</li>
 </ul>
@@ -50,28 +49,46 @@ Außerdem wird es ausreichend Zeit für Fragen sowie individuelle Problemstellun
 <br/><br/>
 <div class="row align-left">
       <div class="col-md-8 align-middle">
-<h4>Künstliche Intelligenz und AI Act verstehen und anwenden</h4>
-<b>Termine:</b>
-<ul> 
-<li>19. und 20. Mai 2025</li>
-<li>7. - 10. Juli 2025 (4 Tage Intensivschulung)</li>
-<li>29. und 30. September 2025</li>
-<li>28. und 29. Oktober 2025</li>
-<li>11. - 14. November 2025 (4 TAge Intensivschulung)</li>
-</ul>
-<b> Mehr Infos (Buchung öffnet bald): <a href="https://tecnovy.com/de/tecnovy/eu-ai-act">https://tecnovy.com/de/tecnovy/eu-ai-act</a> </b><br/>
+<h4>KI Projekte erfolgreich managen (inkl. ISO Zertifikat)</h4>
+Der Einsatz von Künstlicher Intelligenz (KI) bietet Unternehmen enorme Chancen – von Prozessautomatisierung bis zur datengetriebenen Entscheidungsfindung. Doch mit der zunehmenden Nutzung wachsen auch die rechtlichen und ethischen Herausforderungen. Der EU AI Act, der ab 2025 in Kraft tritt, setzt strenge Regeln für KI-Anwendungen und droht bei Verstößen mit erheblichen Strafen.
+Dieses Training vermittelt praxisnah, wie du KI-Technologien sicher und rechtskonform in dein Unternehmen integrierst.
+
+Als Bonus gibt es nach Abschluss der 4-tägigen Schulung die Möglichkeit, eine <b>Prüfung zum/r zertifizierten KI-Manager:in abzulegen (inkl. ISO-Zertifikat von Austrian Standards).</b>
+<br/><br/>
+<b>Zur Buchung: <a href="https://tecnovy.com/de/tecnovy/eu-ai-act">https://tecnovy.com/de/tecnovy/eu-ai-act</a> </b><br/>
 </div>
 <div class="col-md-4 text-left">
        <img src="..\assets\img\stockimages\ai_llm.jpg" class="img-fluid" style="max-width: 100%;">
-      </div>
+</div>
+</div>
+<div class="row align-left">
+      <div class="col-md-6 align-middle">
+<br/><b>Termine 4-Tages-Schulung (mit Option zertifizierte:r KI Manager:in):</b>
+<ul> 
+<li>7. bis 10. Juli</li>
+<li>29. September - 2. Oktober</li>
+<li>27. bis 30. Oktober</li>
+<li>10. - 13. November</li>
+</ul>
+</div>
+<div class="col-md-6 align-middle">
+<br/><b>Termine 2-Tages-Schulung (ohne Zertifizierung):</b>
+<ul> 
+<li>19. und 20. Mai</li>
+<li>16. und 17. Juni</li>
+<li>7. und 8. Juli</li>
+<li>29. und 30. September</li>
+<li>27. und 28. Oktober</li>
+<li>10. und 11. November</li>
+</ul>
+</div>
 </div>
 
-<div class="row align-left">
-<div class="col-md-12 text-left">
+
+
+
 <br/>
-Künstliche Intelligenz (KI) revolutioniert bereits seit Jahren nach und nach bestehende Geschäftsmodelle. Die meisten Unternehmen haben bereits den maßgeblichen Wettbewerbsvorteil entdeckt, den ihnen der Einsatz von KI bietet. Der AI Act der EU gibt nun ab 2025 regulatorische Vorgaben für Unternehmen, die KI einsetzen – ansonsten drohen Strafen in Millionenhöhe.
-In diesem Workshop erfahren Sie hautnah, wie Sie die Potenziale von KI im eigenen Unternehmen konkret nutzen, und dabei die Regulierungen des AI Act erfolgreich erfüllen. Sie lernen verschiedene KI-Techniken kennen und erhalten konkrete Methoden an die Hand, um KI-Projekte systematisch zum Erfolg zu führen. Die zahlreichen Praxisbeispiele haben das Ziel, dass Sie nach dem Workshop direkt mit Ihrem eigenen KI-Projekt starten können.
-<br/><br/>
+
 
 <div class="row align-left">
       <div class="col-md-8 align-middle">
