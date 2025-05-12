@@ -55,14 +55,22 @@ Dieses Training vermittelt praxisnah, wie du KI-Technologien sicher und rechtsko
 
 Als Bonus gibt es nach Abschluss der 4-tägigen Schulung die Möglichkeit, eine <b>Prüfung zum/r zertifizierten KI-Manager:in abzulegen (inkl. ISO-Zertifikat von Austrian Standards).</b>
 <br/><br/>
-<b>Zur Buchung: <a href="https://tecnovy.com/de/tecnovy/eu-ai-act" target="_blank">https://tecnovy.com/de/tecnovy/eu-ai-act</a> </b><br/>
+
+
+
 </div>
 <div class="col-md-4 text-left">
        <img src="..\assets\img\stockimages\ai_llm.jpg" class="img-fluid" style="max-width: 100%;">
 </div>
 </div>
 <div class="row align-left">
+<div class="col-md-12 align-middle">
+<b>Zur Buchung der 4-Tages-Schulung (mit Option zertifizierte:r KI Manager:in): <a href="https://tecnovy.com/de/tecnovy/certified-ai-manager" target="_blank">https://tecnovy.com/de/tecnovy/certified-ai-manager</a> </b><br/>
+<b>Zur Buchung der 2-Tages-Schulung (ohne Zertifizierung): <a href="https://tecnovy.com/de/tecnovy/eu-ai-act" target="_blank">https://tecnovy.com/de/tecnovy/eu-ai-act</a> </b><br/>
+</div></div>
+<div class="row align-left">
       <div class="col-md-6 align-middle">
+
 <br/><b>Termine 4-Tages-Schulung (mit Option zertifizierte:r KI Manager:in):</b>
 <ul> 
 <li>7. bis 10. Juli</li>
