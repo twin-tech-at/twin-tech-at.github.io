@@ -48,7 +48,7 @@ These trainings offer you the knowledge you need to
 <li>Adhere to relevant regulations and laws such as EU AI Act, GDPR, copyright or indemnity law</li>
 As a bonus, you will get the opportunity to become a certified AI Manager (ISO certificate from Austrian Standards) after completion of this course.
 </ul>
-<b>Interested? <a href="https://tecnovy.com/de/tecnovy/eu-ai-act" target="_blank">Book here: https://tecnovy.com/de/tecnovy/eu-ai-act</a> </b>
+<b>Interested? <a href="https://tecnovy.com/de/tecnovy/certified-ai-manager" target="_blank">Book here: https://tecnovy.com/de/tecnovy/certified-ai-manager</a> </b>
 </div>
 <div class="col-md-4 text-left">
        <img src="..\assets\img\stockimages\ai_llm.jpg" class="img-fluid" style="max-width: 100%;">
