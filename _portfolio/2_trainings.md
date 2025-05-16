@@ -1,7 +1,7 @@
 ---
 caption:
   title: Expert-led Trainings
-  thumbnail: ./assets/img/stockimages/trainings.jpg
+  thumbnail: ./assets/img/stockimages/workshops.jpg
   items: [
     '<b><span class="text-success">Which</span></b> technologies can you use to accellerate your success?',
     '<b><span class="text-success"> What </span></b> are the tools you should use to leverage these technologies in your business context?',
