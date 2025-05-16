@@ -34,7 +34,7 @@ In our in-house prompathons, we use the well-established concept of hackathons a
 <b>Interested?</b> Book your <b>free 20-minute assessment (<a href="https://outlook.office.com/bookwithme/user/a3368793e5a549bca2d7f1589bd9873e%40twin-tech.at?anonymous&isanonymous=true" target="_blank">Book here</a>)</b> or send us your enquiry to <a href="mailto:office@twin-tech.at">office@twin-tech.at</a>
 </div>
 <div class="col-md-4 text-left">
-       <img src="..\assets\img\stockimages\trainings.jpg" class="img-fluid" style="max-width: 100%;">
+       <img src="..\assets\img\stockimages\promptathon.jpg" class="img-fluid" style="max-width: 100%;">
 </div>
 </div>
 <br/>
