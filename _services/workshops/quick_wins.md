@@ -7,6 +7,7 @@ background: white
 
 <div class="col-lg-12 text-center">
 	<h2 class="section-heading text-uppercase">Erste Schritte mit digitalen Zwillingen: Quick Wins mit der AAS zum Aufbau einer skalierbaren Dateninfrastruktur</h2>
+</div>
 <br/>
 <div class="container">
 <div class="row align-left">     
