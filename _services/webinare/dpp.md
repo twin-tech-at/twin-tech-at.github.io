@@ -1,12 +1,12 @@
 ---
 layout: page
-title: workshop_quickwins
+title: workshop_maschinenbau
 background: white
 ---
 
 
 <div class="col-lg-12 text-center">
-	<h2 class="section-heading text-uppercase">Erste Schritte mit digitalen Zwillingen: Quick Wins mit der AAS zum Aufbau einer skalierbaren Dateninfrastruktur</h2>
+<h2 class="section-heading text-uppercase">Digitale Zwillinge als #1 Wettbewerbsvorteil im Maschinenbau</h2>
 <br/>
 <div class="container">
 <div class="row align-left">     
@@ -20,5 +20,4 @@ Erstellen Sie in einem Halbtag Ihr erstes Projekt mit der Asset Administration S
 <br/>
 <h5>Kein passender Termin dabei?</h5>
 <p>Kontaktiere uns gerne für deinen individuellen Inhouse-Termin!</p>
-</div>
 </div>
