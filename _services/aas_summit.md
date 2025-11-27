@@ -33,17 +33,16 @@ Die LIT Factory zeigt, wie Datenräume und die AAS in der Praxis zusammenspielen
 <div class="col-md-12">
 <h5>Agenda Tag 2 (26. März) @ LCM Linz</h5>
 <b>08:30 - 09:00: Anmeldung</b><br/>
-<b>09:00 - 10:00: Begrüßung und Keynote</b><br/>
+<b>09:00 - 10:00: Begrüßung und Keynote (TBA)</b><br/>
 <b>10:00 - 10:30 Kaffeepause + Networking</b><br/>
-<b>10:30 - 11:00: DPP: Andreas Herbst</b><br/>
-<b>11:00 - 11:30: Collaborative Engineering mit der AAS: Twindustrial</b><br/>
+<b>10:30 - 11:00: DPP - Aktueller Stand und Umsetzung mit der AAS (Andreas Herbst - Plattform Industrie 4.0)</b><br/>
+<b>11:00 - 11:30: Collaborative Engineering mit der AAS (Markus Kiele-Dunsche, Twindustrial)</b><br/>
 <b>11:30 - 12:00: Kaffeepause + Networking</b><br/>
-<b>12:00 - 12:30: Vom Design-Modell zum Zwilling: Fraunhofer IESE</b><br/>
-<b>12:30 - 13:00: LCM</b><br/>
+<b>12:00 - 12:30: Vom Design-Modell zum Zwilling: (Philippe Barbie - Fraunhofer IESE)</b><br/>
+<b>12:30 - 13:00: 3D-Modellierung und die AAS (Thomas Gross - Linz Center of Mechatronics)</b><br/>
 <b>13:00 - 14:00: Mittagessen + Networking</b><br/>
 <b>14:00 - 16:00: Workshop 1 - AAS Potenzialanalyse im Lebenszyklus einer Maschine (Twindustrial)</b><br/>
-<b>14:00 - 16:00: Workshop 2 - DPP (MetaLevel)</b><br/>
-<b>14:00 - 16:00: Workshop 3 - AAS Umsetzung (M&M)</b><br/>
+<b>14:00 - 16:00: Workshop 2 - Stragegieworkshop End-to-End Prozess für den DPP (MetaLevel)</b><br/>
 <b>16:00 - 16:30 Wrap-Up</b><br/>
 </div>
 <div class="row">
