@@ -64,7 +64,7 @@ Erstellen Sie in einem Halbtag Ihr erstes Projekt mit der Asset Administration S
 <div class="row align-middle">
 <div class="col-md-4"> <img src="..\assets\img\stockimages\workshops.jpg" class="img-fluid" style="max-width: 100%;"></div>
 <div class="col-md-8">
-	<h5>Wie kommen wir zum digitalen Produktpass?</h5>
+	<h5>Strategieworkshop zur Entwicklung eines effizienten End-to-End Prozesses für den digitalen Produktpass</h5>
       
 
 Der European Green Deal erfordert von Unternehmen die Erfüllung der Voraussetzungen für eine Kreislaufwirtschaft, um ab 2030 ihre Produkte weiterhin im EU-Raum verkaufen zu dürfen. Grundlage bildet dabei der digitale Produktpass (DPP), mit dem Unternehmen über einen QR-Code nötige Daten zu ihrem Produkt bereitstellen.
