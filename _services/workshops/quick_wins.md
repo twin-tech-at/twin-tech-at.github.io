@@ -16,8 +16,8 @@ Erstellen Sie in einem Halbtag Ihr erstes Projekt mit der Asset Administration S
 </div>
 <div class="col-md-6">
 <h5>Termine 2026</h5>
-<a class="btn mt-4 btn-dark align-self-center d-flex align-items-center" href="/forms/quickwins_feb2026"><i class="fa fa-solid fa-arrow-right pr-3"></i>Zur Anmeldung für 25. Februar 2026</a>
-<a class="btn mt-4 btn-dark align-self-center d-flex align-items-center" href="/forms/quickwins_apr2026"><i class="fa fa-solid fa-arrow-right pr-3"></i>Zur Anmeldung für 25. Februar 2026</a>
+<a class="btn mt-4 btn-dark align-self-center d-flex align-items-center" href="/forms/quickwins_feb2026"><i class="fa fa-solid fa-arrow-right pr-3"></i>Zur Anmeldung für 10. Februar 2026</a>
+<a class="btn mt-4 btn-dark align-self-center d-flex align-items-center" href="/forms/quickwins_apr2026"><i class="fa fa-solid fa-arrow-right pr-3"></i>Zur Anmeldung für 28. April 2026</a>
 <br/>
 <h5>Kein passender Termin dabei?</h5>
 <p>Kontaktiere uns gerne für deinen individuellen Inhouse-Termin!</p>
