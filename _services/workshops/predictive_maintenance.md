@@ -21,7 +21,7 @@ Sie erarbeiten Ihr eigenes Beispielprojekt, mit dem Sie im Anschluss an die Schu
 <div class="col-md-6">
 <h5>Termine 2026</h5>
 <a class="btn mt-4 btn-dark align-self-center d-flex align-items-center" href="/forms/pm_feb2026"><i class="fa fa-solid fa-arrow-right pr-3"></i>Zur Anmeldung für 25. Februar 2026</a>
-<a class="btn mt-4 btn-dark align-self-center d-flex align-items-center" href="/forms/pm_jun2026"><i class="fa fa-solid fa-arrow-right pr-3"></i>Zur Anmeldung für 25. Februar 2026</a>
+<a class="btn mt-4 btn-dark align-self-center d-flex align-items-center" href="/forms/pm_jun2026"><i class="fa fa-solid fa-arrow-right pr-3"></i>Zur Anmeldung für 23. Juni 2026</a>
 <br/>
 </div>
 <div class="col-md-6">
