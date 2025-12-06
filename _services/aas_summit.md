@@ -5,7 +5,7 @@ background: white
 ---
 
 <div class="col-lg-12 text-center">
-	<h2 class="section-heading text-uppercase">Interoperabilät in der Produktion der Zukunft: 1. AAS Summit Österreich</h2>
+	<h2 class="section-heading text-uppercase">Interoperabilät in der Produktion der Zukunft:<br/> 1. AAS Summit Österreich</h2>
 </div>
 
 <div class="row">
@@ -67,31 +67,10 @@ Agenda
 <div class="row">
 <div class="col-md-12">
 <h2>Preise</h2>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
-</style>
-<table class="tg">
-  <tr>
-    <th class="tg-031e"><br></th>
-    <th class="tg-031e">Regulär</th>
-    <th class="tg-031e">Mitglieder des Mechatronikclusters<br>Mitglieder der Plattform Industrie 4.0</th>
-    <th class="tg-031e">Mitglieder der Open<br>Industry 4.0 Alliance</th>
-  </tr>
-  <tr>
-    <td class="tg-031e">Tag 1 + 2</td>
-    <td class="tg-031e">€ 200</td>
-    <td class="tg-031e">€ 150</td>
-    <td class="tg-031e">€ 0</td>
-  </tr>
-  <tr>
-    <td class="tg-031e">Tag 2</td>
-    <td class="tg-031e">€ 150</td>
-    <td class="tg-031e">€ 100</td>
-    <td class="tg-031e">€ 0</td>
-  </tr>
-</table>
+<b>Regulärer Preis für beide Tage: € 250</b><br/>
+Sonderpreis für Mitglieder des Mechatronikclusters OÖ/NÖ oder der Plattform Industrie 4.0 € 200<br/>
+Teilnahme für Mitglieder der Open Industry 4.0 Alliance kostenlos<br/>
+
 
 <a class="btn mt-4 btn-dark align-self-center d-flex align-items-center"  style="width:50%" href="/forms/aas_summit_registration"><i class="fa fa-solid fa-arrow-right pr-3"></i>Jetzt registrieren (Plätze sind begrenzt)</a>
 </div>
