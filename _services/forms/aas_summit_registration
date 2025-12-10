@@ -91,7 +91,7 @@ background: white
               <p>Datum: 25. + 26. März 2026</p>
               <p>Kosten: € 250 regulär</p>
               <ul>
-                <li>Spezialpreis € 200 für Mitglieder des Mechatronikclusters OÖ/NÖ oder der Platttform Industrie 4.0</li>
+                <li>Spezialpreis € 200 für Mitglieder des Mechatronik-Clusters OÖ/NÖ oder der Plattform Industrie 4.0</li>
                 <li>Teilnahme für Mitglieder der Open Industry 4.0 Alliance kostenlos</li>
               </ul>
             </div>
@@ -111,7 +111,7 @@ background: white
               <label class="entry__error entry__error--primary" style="font-size:16px; text-align:left; font-family:Helvetica, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;">
               </label>
               <label class="entry__specification" style="font-size:12px; text-align:left; font-family:Helvetica, sans-serif; color:#8390A4; text-align:left">
-                Passe diesen optionalen Hilfetext an, bevor du dein Formular veröffentlichen.
+                Gib deinen vollständigen Namen an (wie er auf dem Badge gedruckt werden soll)
               </label>
             </div>
           </div>
@@ -160,7 +160,7 @@ background: white
           <div class="sib-input sib-form-block">
             <div class="form__entry entry_block">
               <div class="form__label-row ">
-                <label class="entry__label" style="font-weight: 700; text-align:left; font-size:16px; text-align:left; font-weight:700; font-family:Helvetica, sans-serif; color:#3c4858;" for="UNTERNEHMEN">Name deines Unternehmens, auf das die Rechnung ausgestellt werden soll</label>
+                <label class="entry__label" style="font-weight: 700; text-align:left; font-size:16px; text-align:left; font-weight:700; font-family:Helvetica, sans-serif; color:#3c4858;" for="UNTERNEHMEN">Unternehmen</label>
 
                 <div class="entry__field">
                   <input class="input " maxlength="200" type="text" id="UNTERNEHMEN" name="UNTERNEHMEN" autocomplete="off" placeholder="UNTERNEHMEN" />
@@ -170,7 +170,7 @@ background: white
               <label class="entry__error entry__error--primary" style="font-size:16px; text-align:left; font-family:Helvetica, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;">
               </label>
               <label class="entry__specification" style="font-size:12px; text-align:left; font-family:Helvetica, sans-serif; color:#8390A4; text-align:left">
-                Passe diesen optionalen Hilfetext an, bevor du dein Formular veröffentlichen.
+                Name deines Unternehmens, auf das die Rechnung ausgestellt werden soll
               </label>
             </div>
           </div>
@@ -179,7 +179,7 @@ background: white
           <div class="sib-input sib-form-block">
             <div class="form__entry entry_block">
               <div class="form__label-row ">
-                <label class="entry__label" style="font-weight: 700; text-align:left; font-size:16px; text-align:left; font-weight:700; font-family:Helvetica, sans-serif; color:#3c4858;" for="UNTERNEHMENSADRESSE">Gib die Adresse deines Unternehmens ein, auf das die Rechnung ausgestellt werden soll</label>
+                <label class="entry__label" style="font-weight: 700; text-align:left; font-size:16px; text-align:left; font-weight:700; font-family:Helvetica, sans-serif; color:#3c4858;" for="UNTERNEHMENSADRESSE">Adresse</label>
 
                 <div class="entry__field">
                   <input class="input " maxlength="200" type="text" id="UNTERNEHMENSADRESSE" name="UNTERNEHMENSADRESSE" autocomplete="off" placeholder="UNTERNEHMENSADRESSE" />
@@ -189,7 +189,7 @@ background: white
               <label class="entry__error entry__error--primary" style="font-size:16px; text-align:left; font-family:Helvetica, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;">
               </label>
               <label class="entry__specification" style="font-size:12px; text-align:left; font-family:Helvetica, sans-serif; color:#8390A4; text-align:left">
-                Passe diesen optionalen Hilfetext an, bevor du dein Formular veröffentlichen.
+                Gib die Adresse deines Unternehmens ein, auf das die Rechnung ausgestellt werden soll
               </label>
             </div>
           </div>
@@ -198,7 +198,7 @@ background: white
           <div class="sib-input sib-form-block">
             <div class="form__entry entry_block">
               <div class="form__label-row ">
-                <label class="entry__label" style="font-weight: 700; text-align:left; font-size:16px; text-align:left; font-weight:700; font-family:Helvetica, sans-serif; color:#3c4858;" for="UID">Gib die Umsatzsteuer-Identifikationsnummer (UID) des Unternehmens ein, auf das die Rechnung ausgestellt werden soll</label>
+                <label class="entry__label" style="font-weight: 700; text-align:left; font-size:16px; text-align:left; font-weight:700; font-family:Helvetica, sans-serif; color:#3c4858;" for="UID">Umsatzsteuer-Identifikationsnummer</label>
 
                 <div class="entry__field">
                   <input class="input " maxlength="200" type="text" id="UID" name="UID" autocomplete="off" placeholder="UID" />
@@ -208,7 +208,7 @@ background: white
               <label class="entry__error entry__error--primary" style="font-size:16px; text-align:left; font-family:Helvetica, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;">
               </label>
               <label class="entry__specification" style="font-size:12px; text-align:left; font-family:Helvetica, sans-serif; color:#8390A4; text-align:left">
-                Passe diesen optionalen Hilfetext an, bevor du dein Formular veröffentlichen.
+                Gib die Umsatzsteuer-Identifikationsnummer (UID) des Unternehmens ein, auf das die Rechnung ausgestellt werden soll
               </label>
             </div>
           </div>
@@ -217,7 +217,7 @@ background: white
           <div class="sib-input sib-form-block">
             <div class="form__entry entry_block">
               <div class="form__label-row ">
-                <label class="entry__label" style="font-weight: 700; text-align:left; font-size:16px; text-align:left; font-weight:700; font-family:Helvetica, sans-serif; color:#3c4858;" for="RABATTCODE">Gib deinen Rabattcode ein, den du als Mitglieder des Mechatronikclusters OÖ/NÖ, der Plattform Industrie 4.0, oder der Open Industry 4.0 Alliance erhalten hast</label>
+                <label class="entry__label" style="font-weight: 700; text-align:left; font-size:16px; text-align:left; font-weight:700; font-family:Helvetica, sans-serif; color:#3c4858;" for="RABATTCODE">Rabattcode</label>
 
                 <div class="entry__field">
                   <input class="input " maxlength="200" type="text" id="RABATTCODE" name="RABATTCODE" autocomplete="off" placeholder="RABATTCODE" />
@@ -227,7 +227,7 @@ background: white
               <label class="entry__error entry__error--primary" style="font-size:16px; text-align:left; font-family:Helvetica, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;">
               </label>
               <label class="entry__specification" style="font-size:12px; text-align:left; font-family:Helvetica, sans-serif; color:#8390A4; text-align:left">
-                Passe diesen optionalen Hilfetext an, bevor du dein Formular veröffentlichen.
+                Gib deinen Rabattcode ein, den du als Mitglieder des Mechatronikclusters OÖ/NÖ, der Plattform Industrie 4.0, oder der Open Industry 4.0 Alliance erhalten hast
               </label>
             </div>
           </div>
