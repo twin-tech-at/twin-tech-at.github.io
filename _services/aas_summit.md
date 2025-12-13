@@ -30,7 +30,7 @@ Agenda
 <li>14:45 - 15:00 Uhr: Get-Together + Anmeldung</li>
 <li>15:00 - 15:30 Uhr: Begrüßung und Keynote (TBA)</li>
 <li>15:30 - 15:50 Uhr: Tool-Vorstellung AAS (TBA)</li>
-<li>16:50 - 16:20 Uhr: Datenraum AMIDS</li>
+<li>15:50 - 16:20 Uhr: Datenraum AMIDS</li>
 <li>16:20 - 16:30 Uhr: Teilnahmemöglichkeiten am Datenraum AMIDS</li>
 <li>16:30 - 16:50 Uhr: Kaffee und Netzwerken</li>
 <li>16:50 - 17:15 Uhr: Use Case I: Co-Design und Co-Development</li>
