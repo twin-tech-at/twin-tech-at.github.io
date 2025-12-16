@@ -9,11 +9,12 @@ background: white
 <div class="col-md-9">
 <h2 class="section-heading text-uppercase">Interoperabilät in der Produktion der Zukunft: 1. AAS Summit Österreich</h2>
 
-Vom digitalen Produktpass bis zu Datenräumen: 
+Vom digitalen Produktpass über Predictive Maintenance bis zur digitalen Betriebsanleitung: die Asset Administration Shell (AAS) ist die Basis für effiziente Digitalisierung in der Produktion und im Maschinenbau. <br/><br/>
 
-Der AAS Summit liefert an 1.5 Tagen einen Überblick über die Möglichkeiten, die die Asset Administration Shell (AAS) schon heute bietet, um die interoperable Produktion von Morgen zu ermöglichen. Neben Live-Demos in der LIT Factory wird es Vorträge von führenden Expert:innen und Hands-On Workshops geben.
-Das Event wird organisiert von TwinTech, mit der Unterstützung der LIT Factory und des Linz Center of Mechatronics.<br/>
-<a class="btn mt-4 align-self-center d-flex align-items-center" href="/forms/aas_summit_registration" style="background:#28a745!important; color:black; width:50%"><i class="fa fa-solid fa-arrow-right pr-3"></i><span class="text">Zur Registrierung</span></a></div>
+Der AAS Summit liefert an 1 1/2 Tagen einen Überblick über die Möglichkeiten, die die Asset Administration Shell (AAS) schon heute bietet, um die interoperable Produktion von Morgen zu ermöglichen. Neben Live-Demos in der LIT Factory wird es Vorträge von führenden Expert:innen und Hands-On Workshops geben. <br/>
+
+<a class="btn mt-4 align-self-center d-flex align-items-center" href="/forms/aas_summit_registration" style="background:#28a745!important; color:black; width:50%"><i class="fa fa-solid fa-arrow-right pr-3"></i><span class="text">Zur Registrierung</span></a><br/>
+Das Event wird organisiert von <b><span class="text-success"><a href="https:twin-tech.at">TwinTech</a></span></b> und der <b><span class="text-success"><a href="https:twin-tech.at">Open Industry 4.0 Alliance</a></span></b>, mit der Unterstützung der <b><span class="text-success"><a href="https:twin-tech.at">LIT Factory</a></span></b>, des <b><span class="text-success"><a href="https:twin-tech.at">Linz Center of Mechatronics</a></span></b>, und des <b><span class="text-success"><a href="https:twin-tech.at">Mechatronik-Clusters OÖ/NÖ</a></span></b>.</div>
 <div class="col-md-3"><img alt="Beschreibungsbild AAS Summit" src="..\assets\img\aas_summit_bild.png" class="img-fluid" style="max-width: 100%;"/></div>
 
 </div>
