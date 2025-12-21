@@ -64,7 +64,7 @@ Der zweite Tag startet mit einer Reihe an Vorträgen, die zeigen, welche Möglic
 <li>13:00 - 14:00 Uhr: Mittagessen + Networking</li>
 <li>14:00 - 16:00 Uhr: Workshop 1 - AAS Potenzialanalyse im Lebenszyklus einer Maschine (Twindustrial)</li>
 <li>14:00 - 16:00 Uhr: Workshop 2 - Stragegieworkshop End-to-End Prozess für den DPP (MetaLevel)</li>
-<li>14:00 - 16:00 Uhr: Workshop 3 - In 2 Stunden zum ersten digitalen Zwilling - das richtige Tooling machts möglich (Daniel Lehner - TwinTech)!</li>
+<li>14:00 - 16:00 Uhr: Workshop 3 - In 2 Stunden zum intelligenten Geschäftsprozess: die AAS macht's möglich (Rüdiger Fritz - Open Industry 4.0 Alliance)!</li>
 <li>16:00 - 16:30 Wrap-Up</li>
 </ul><br/>
 </div>
