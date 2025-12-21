@@ -89,9 +89,10 @@ background: white
           <div class="sib-form-block" style="font-size:16px; text-align:left; font-family:Helvetica, sans-serif; color:#3C4858; background-color:transparent; text-align:left">
             <div class="sib-text-form-block">
               <p>Datum: 25. + 26. März 2026</p>
-              <p>Kosten: € 250 regulär</p>
+              <p>Kosten (Preise exkl. USt):&nbsp;</p>
               <ul>
-                <li>Spezialpreis € 200 für Mitglieder des Mechatronik-Clusters OÖ/NÖ oder der Plattform Industrie 4.0</li>
+                <li>€ 250 regulär</li>
+                <li>€ 200 für Mitglieder des Mechatronik-Clusters OÖ/NÖ oder der Plattform Industrie 4.0</li>
                 <li>Teilnahme für Mitglieder der Open Industry 4.0 Alliance kostenlos</li>
               </ul>
             </div>
@@ -272,7 +273,7 @@ background: white
                   <div class="entry__choice" style="">
                     <label>
                       <input /type="radio" name="WORKSHOP_AUSWAHL" class="input_replaced" value="3" required>
-                      <span class="radio-button" style="margin-left: "></span><span style="font-size:16px; text-align:left; font-family:Helvetica, sans-serif; color:#3C4858; background-color:transparent;">Workshop 3 - In 2 Stunden zum ersten digitalen Zwilling - das richtige Tooling machts möglich</span> </label>
+                      <span class="radio-button" style="margin-left: "></span><span style="font-size:16px; text-align:left; font-family:Helvetica, sans-serif; color:#3C4858; background-color:transparent;">Workshop 3 - In 2 Stunden zum intelligenten Geschäftsprozess: die AAS macht&#039;s möglich</span> </label>
                   </div>
                   <div class="entry__choice" style="">
                     <label>

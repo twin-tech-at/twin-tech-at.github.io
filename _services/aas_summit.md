@@ -7,7 +7,7 @@ background: white
 <div class="container">
 <div class="row">
 <div class="col-md-7">
-<h2 class="section-heading text-uppercase">Interoperabilät in der Produktion der Zukunft: 1. AAS Summit Österreich</h2>
+<h2 class="section-heading text-uppercase">Interoperabilät in der Produktion der Zukunft: <br/>1. AAS Summit Österreich</h2>
 
 Vom digitalen Produktpass über Predictive Maintenance bis zur digitalen Betriebsanleitung: die Asset Administration Shell (AAS) ist die Basis für effiziente Digitalisierung in der Produktion und im Maschinenbau. <br/><br/>
 
@@ -77,13 +77,13 @@ Der zweite Tag startet mit einer Reihe an Vorträgen, die zeigen, welche Möglic
 <div class="col-md-3"><img alt="Spritzgussmaschinen in der LIT Factory" src="..\assets\img\jku_1.png" class="img-fluid" style="max-width: 100%;"/></div>
 <div class="col-md-3"><img alt="Spritzgussmaschinen in der LIT Factory" src="..\assets\img\jku_2.png" class="img-fluid" style="max-width: 100%;"/></div>
 </div>
-<div class="row">Pictures Credit: JKU<br/><br/></div>
+<div class="row"><div class="col-md-12">Pictures Credit: JKU<br/><br/></div></div>
 
 
 
 <div class="row">
 <div class="col-md-12">
-<h2>Teilnahmegebühr</h2>
+<h2><span class="text-success">Teilnahmegebühr</span></h2>
 <b>Regulärer Preis für beide Tage: € 250</b><br/>
 Sonderpreis für Mitglieder des Mechatronikclusters OÖ/NÖ oder der Plattform Industrie 4.0 € 200<br/>
 Teilnahme für Mitglieder der Open Industry 4.0 Alliance kostenlos<br/>
