@@ -41,14 +41,14 @@ Die LIT Factory zeigt, wie Datenräume und die AAS in der Praxis zusammenspielen
 <li>16:50 - 17:15 Uhr: Use Case I: Co-Design und Co-Development</li>
 <li>17:15 - 18:00 Uhr: Use Case II: Datenaustausch entlang der Wertschöpfungskette (Demos in LIT Factory)</li>
 </ul>
-<b><span class="text-success">19:00 - 23:00: Gemeinsames Abendessen</span></b> Wir reservieren einen Tisch für alle Teilnehmer:innen von Tag 1 oder Tag 2 des Events in der "Grünen Papaya" (ca. 5 Minuten Fußweg von der LIT Factory). Das Essen ist von allen Teilnehmer:innen selbst zu bezahlen.<br/><br/>
+<b><span class="text-success">19:00 - 23:00: Gemeinsames Abendessen</span></b> Wir reservieren einen Tisch für alle Teilnehmer:innen des AAS Summits in der "Grünen Papaya" (ca. 5 Minuten Fußweg von der LIT Factory). Das Essen ist von allen Teilnehmer:innen selbst zu bezahlen.<br/><br/>
 
 
 </div>
 
 <div class="col-md-6">
 <h5><span class="text-success">Tag 2 (26. März) @ LCM Linz</span></h5>
-Der zweite Tag startet mit einer Reihe an Vorträgen, die zeigen, welche Möglichkeiten sich heute schon durch die Interoperabilität in der Produktion mit der AAS ergeben. Am Nachittag erarbeiten Teilnehmer:innen in 3 parallelen Workshops selbst erste Ergebnisse im Rahmen der AAS.<br/>
+Der zweite Tag startet mit einer Reihe an Vorträgen, die zeigen, welche Möglichkeiten sich heute schon durch die Interoperabilität in der Produktion mit der AAS ergeben. Am Nachmittag erarbeiten Teilnehmer:innen in 3 parallelen Workshops selbst erste Ergebnisse im Rahmen der AAS.<br/>
 <br/>
 <br/>
 <b><span class="text-success">Agenda</span></b>
