@@ -31,6 +31,19 @@ Sie erarbeiten Ihr eigenes Beispielprojekt, mit dem Sie im Anschluss an die Schu
 </div>
 <div class="row">
 <div class="col-md-12">
+<h5>Verwendete Technologien und Tools</h5>
+<ul>
+<li>Digitale Zwillinge</li>
+<ul>
+  <li>OPC UA und das OPC UA SDK von Träger für das Konsumieren von Maschinendaten</li>
+  <li>Asset Administration Shell (AAS) und die AAS Suite von MetaLevel für die Repräsentation semantischer Daten in der Cloud</li>
+</ul>
+<li>Künstliche Intelligenz</li>
+<ul>
+  <li>Unüberwachtes Maschinelles Lernen für Anomalieerkennung</li>
+</ul>
+</ul>
+
 <h5>Inhalte</h5>
 <ul>
 <li>Einführung Predictive Maintenance</li>
@@ -51,6 +64,11 @@ Sie erarbeiten Ihr eigenes Beispielprojekt, mit dem Sie im Anschluss an die Schu
 </ul>
 <li>Entwicklung eines Predictive Maintenance Service in Python</li>
 <li>Einführung digitale Zwillinge</li>
+<ul>
+  <li>Was ist ein digitaler Zwilling, und warum sollte ich mich damit beschäftigen?</li>
+  <li>Asset Administration Shell zur interoperablen Repräsentation semantischer Daten im digitalen Zwilling</li>
+  <li>OPC UA zur standardisierten Interaktion mit Maschinen</li>
+</ul>
 <li>Entwicklung von digitalen Zwillingen für unser Predictive Maintenance Service</li>
 <li>Anbindung der Predictive Maintenance Service an die digitalen Zwillinge</li>
 </ul>

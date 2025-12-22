@@ -7,7 +7,7 @@ background: white
 <div class="container">
 <div class="row">
 <div class="col-md-7">
-<h2 class="section-heading text-uppercase">Interoperabilät in der Produktion der Zukunft: <br/>1. AAS Summit Österreich</h2>
+<h2 class="section-heading text-uppercase">Interoperabilität in der Produktion der Zukunft: <br/>1. AAS Summit Österreich</h2>
 
 Vom digitalen Produktpass über Predictive Maintenance bis zur digitalen Betriebsanleitung: die Asset Administration Shell (AAS) ist die Basis für effiziente Digitalisierung in der Produktion und im Maschinenbau. <br/><br/>
 
