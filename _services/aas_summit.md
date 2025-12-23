@@ -14,7 +14,7 @@ Vom digitalen Produktpass über Predictive Maintenance bis zur digitalen Betrieb
 Der AAS Summit liefert an 1 1/2 Tagen einen Überblick über die Möglichkeiten, die die Asset Administration Shell (AAS) schon heute bietet, um die interoperable Produktion von Morgen zu ermöglichen. Neben Live-Demos in der LIT Factory wird es Vorträge von führenden Expert:innen und Hands-On Workshops geben. <br/>
 
 <a class="btn mt-4 align-self-center d-flex align-items-center" href="/forms/aas_summit_registration" style="background:#28a745!important; color:white; width:50%"><i class="fa fa-solid fa-arrow-right pr-3"></i><span class="text">Zur Registrierung</span></a><br/>
-Das Event wird organisiert von <b><span class="text-success"><a href="https:twin-tech.at">TwinTech</a></span></b> und der <b><span class="text-success"><a href="https://openindustry4.com/">Open Industry 4.0 Alliance</a></span></b>, mit der Unterstützung der <b><span class="text-success"><a href="https://www.jku.at/lit-factory/">LIT Factory</a></span></b>, des <b><span class="text-success"><a href="https://www.lcm.at/">Linz Center of Mechatronics</a></span></b>, und des <b><span class="text-success"><a href="https://www.biz-up.at/cluster-kooperationen/mechatronik-cluster">Mechatronik-Clusters OÖ/NÖ</a></span></b>.</div>
+Das Event wird organisiert von <b><span class="text-success"><a href="https:twin-tech.at">TwinTech</a></span></b> und der <b><span class="text-success"><a href="https://openindustry4.com/">Open Industry 4.0 Alliance</a></span></b>, mit der Unterstützung der <b><span class="text-success"><a href="https://www.jku.at/lit-factory/">LIT Factory</a></span></b>, des <b><span class="text-success"><a href="https://www.lcm.at/">Linz Center of Mechatronics</a></span></b>, und des <b><span class="text-success"><a href="https://www.biz-up.at/cluster-kooperationen/mechatronik-cluster">Mechatronik-Clusters</a></span></b>.</div>
 
 
 <div class="col-md-5"><img alt="Beschreibungsbild AAS Summit" src="..\assets\img\aas_summit_bild.png" class="img-fluid" style="max-width: 100%;"/></div>
@@ -47,7 +47,7 @@ Die LIT Factory zeigt, wie Datenräume und die AAS in der Praxis zusammenspielen
 </div>
 
 <div class="col-md-6">
-<h5><span class="text-success">Tag 2 (26. März) @ LCM Linz</span></h5>
+<h5><span class="text-success">Tag 2 (26. März) @ Linz Center of Mechatronics</span></h5>
 Der zweite Tag startet mit einer Reihe an Vorträgen, die zeigen, welche Möglichkeiten sich heute schon durch die Interoperabilität in der Produktion mit der AAS ergeben. Am Nachmittag erarbeiten Teilnehmer:innen in 3 parallelen Workshops selbst erste Ergebnisse im Rahmen der AAS.<br/>
 <br/>
 <br/>
@@ -84,10 +84,12 @@ Der zweite Tag startet mit einer Reihe an Vorträgen, die zeigen, welche Möglic
 <div class="row">
 <div class="col-md-12">
 <h2><span class="text-success">Teilnahmegebühr</span></h2>
-<i>Hinweis: alle Preisangaben exkl. USt.</i>
-<b>Regulärer Preis für beide Tage: € 250</b><br/>
-Sonderpreis für Mitglieder des Mechatronik-Clusters oder der Plattform Industrie 4.0 € 200<br/>
-Teilnahme für Mitglieder der Open Industry 4.0 Alliance kostenlos<br/>
+<i>Hinweis: alle Preisangaben exkl. USt.</i><br/>
+<ul>
+<li><b>Regulärer Preis für beide Tage: € 250</b><br/></li>
+<li>Sonderpreis für Mitglieder des Mechatronik-Clusters oder der Plattform Industrie 4.0 € 200<br/></li>
+<li>Teilnahme für Mitglieder der Open Industry 4.0 Alliance kostenlos<br/></li>
+</ul>
 
 
 <a class="btn mt-4 align-self-center d-flex align-items-center" href="/forms/aas_summit_registration" style="background:#28a745!important;max-width: 50%;color:white"><i class="fa fa-solid fa-arrow-right pr-3"></i>Jetzt registrieren (Plätze sind begrenzt)</a>

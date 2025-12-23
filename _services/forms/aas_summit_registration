@@ -89,10 +89,10 @@ background: white
           <div class="sib-form-block" style="font-size:16px; text-align:left; font-family:Helvetica, sans-serif; color:#3C4858; background-color:transparent; text-align:left">
             <div class="sib-text-form-block">
               <p>Datum: 25. + 26. März 2026</p>
-              <p>Kosten (Preise exkl. USt):&nbsp;</p>
+              <p>Teilnahmegebühr (Preise exkl. USt):&nbsp;</p>
               <ul>
                 <li>€ 250 regulär</li>
-                <li>€ 200 für Mitglieder des Mechatronik-Clusters OÖ/NÖ oder der Plattform Industrie 4.0</li>
+                <li>€ 200 für Mitglieder des Mechatronik-Clusters oder der &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Plattform Industrie 4.0</li>
                 <li>Teilnahme für Mitglieder der Open Industry 4.0 Alliance kostenlos</li>
               </ul>
             </div>
