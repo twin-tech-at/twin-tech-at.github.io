@@ -112,7 +112,7 @@ background: white
           <div class="sib-form-block" style="font-size:16px; text-align:left; font-family:Helvetica, sans-serif; color:#3C4858; background-color:transparent; text-align:left">
             <div class="sib-text-form-block">
               <p>🧑‍💻Format: Online-Workshop</p>
-              <p>📅Datum: 11. Juni 2026</p>
+              <p>📅Datum: 10. März 2026</p>
               <p>🕧Uhrzeit: 09.30 - 12.00 Uhr</p>
               <p>💰Teilnahme kostenlos für Mitglieder der Plattform Industrie 4.0</p>
             </div>
@@ -202,7 +202,7 @@ background: white
                     <input type="checkbox" class="input_replaced" value="1" id="NEWSLETTER_ANMELDUNG" name="NEWSLETTER_ANMELDUNG" />
                     <span class="checkbox checkbox_tick_positive"
             style="margin-left:"
-            ></span><span style="font-size:14px; text-align:left; font-family:Helvetica, sans-serif; color:#3C4858; background-color:transparent;"><p>Ich willige dazu ein, dass Unternehmen der Meta-Level Software AG meine Daten entsprechend der <a href="https://meta-level.de/datenschutzhinweis" target="_blank">Datenschutzerklärung</a> verwenden, um mir über diese konkrete Anfrage hinausgehende Informationen zu Veranstaltungen, im Rahmen personalisierter Werbung (per E-Mail) zur Verfügung zu stellen. Diese Einwilligung kann ich jederzeit widerrufen.</p></span> </label>
+            ></span><span style="font-size:14px; text-align:left; font-family:Helvetica, sans-serif; color:#3C4858; background-color:transparent;"><p>Ich willige dazu ein, dass Unternehmen der Meta-Level Software AG meine Daten entsprechend der <a target="_blank" href="https://meta-level.de/datenschutzhinweis">Datenschutzerklärung</a> verwenden, um mir über diese konkrete Anfrage hinausgehende Informationen zu Veranstaltungen, im Rahmen personalisierter Werbung (per E-Mail) zur Verfügung zu stellen. Diese Einwilligung kann ich jederzeit widerrufen.</p></span> </label>
                 </div>
               </div>
               <label class="entry__error entry__error--primary" style="font-size:16px; text-align:left; font-family:Helvetica, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;">

@@ -19,19 +19,20 @@ Sie erarbeiten Ihr eigenes Beispielprojekt, mit dem Sie im Anschluss an die Schu
 </div></div>
 <div class="row">
 <div class="col-md-6">
-<h5>Termine 2026</h5>
-<a class="btn mt-4 btn-dark align-self-center d-flex align-items-center" href="/forms/pm_feb2026"><i class="fa fa-solid fa-arrow-right pr-3"></i>Zur Anmeldung für 25. Februar 2026</a>
-<a class="btn mt-4 btn-dark align-self-center d-flex align-items-center" href="/forms/pm_jun2026"><i class="fa fa-solid fa-arrow-right pr-3"></i>Zur Anmeldung für 23. Juni 2026</a>
+<h5><span class="text-success">Termine 2026</span></h5>
+<a class="btn mt-4 align-self-center d-flex align-items-center" href="/forms/pm_feb2026" style="background:#28a745!important;color:white"><i class="fa fa-solid fa-arrow-right pr-3"></i>Zur Anmeldung für 25. Februar 2026</a>
+<a class="btn mt-4 align-self-center d-flex align-items-center" href="/forms/pm_jun2026" style="background:#28a745!important;color:white"><i class="fa fa-solid fa-arrow-right pr-3"></i>Zur Anmeldung für 23. Juni 2026</a>
 <br/>
 </div>
 <div class="col-md-6">
-<h5>Kein passender Termin dabei?</h5>
+<h5><span class="text-success">Kein passender Termin dabei?</span></h5>
 <p>Kontaktiere uns gerne für deinen individuellen Inhouse-Termin!</p>
-<p><a href="mailto:office@twin-tech.at">office@twin-tech.at</a></p>
+<p><a href="mailto:office@twin-tech.at"><span class="text-success">office@twin-tech.at</span></a></p>
+</div>
 </div>
 <div class="row">
 <div class="col-md-12">
-<h5>Verwendete Technologien und Tools</h5>
+<h5><span class="text-success">Verwendete Technologien und Tools</span></h5>
 <ul>
 <li>Digitale Zwillinge</li>
 <ul>
@@ -44,7 +45,7 @@ Sie erarbeiten Ihr eigenes Beispielprojekt, mit dem Sie im Anschluss an die Schu
 </ul>
 </ul>
 
-<h5>Inhalte</h5>
+<h5><span class="text-success">Inhalte</span></h5>
 <ul>
 <li>Einführung Predictive Maintenance</li>
 <ul>
@@ -73,7 +74,7 @@ Sie erarbeiten Ihr eigenes Beispielprojekt, mit dem Sie im Anschluss an die Schu
 <li>Anbindung der Predictive Maintenance Service an die digitalen Zwillinge</li>
 </ul>
 
-<h5>Als Ergebnis...</h5>
+<h5><span class="text-success">Als Ergebnis...</span></h5>
 <ul>
 <li>Verstehen Teilnehmer:innen, was Predictive Maintenance ist, wie sie es in ihrem Kontext verwenden können, und was sie dafür brauchen </li>
 <li>Haben einen Überblick über relevante Methoden (vor allem aus der künstlichen Intelligenz, aber auch für die nötige Skalierung in der Praxis)</li>
