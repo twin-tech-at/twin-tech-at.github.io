@@ -84,8 +84,9 @@ Der zweite Tag startet mit einer Reihe an Vorträgen, die zeigen, welche Möglic
 <div class="row">
 <div class="col-md-12">
 <h2><span class="text-success">Teilnahmegebühr</span></h2>
+<i>Hinweis: alle Preisangaben exkl. USt.</i>
 <b>Regulärer Preis für beide Tage: € 250</b><br/>
-Sonderpreis für Mitglieder des Mechatronikclusters OÖ/NÖ oder der Plattform Industrie 4.0 € 200<br/>
+Sonderpreis für Mitglieder des Mechatronik-Clusters oder der Plattform Industrie 4.0 € 200<br/>
 Teilnahme für Mitglieder der Open Industry 4.0 Alliance kostenlos<br/>
 
 
