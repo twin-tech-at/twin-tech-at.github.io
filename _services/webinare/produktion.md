@@ -21,5 +21,5 @@ background: white
 ▶️  Typische Fallstricke von Digitalisierungsprojekten in der Produktion<br/>
 ▶️  Digitalisierung erfolgreich umsetzen mit der Asset Administration Shell<br/>
 </p>
-</div>
-<a class="btn mt-4 btn-dark align-self-center d-flex align-items-center" href="/forms/quickwins_feb2026"><i class="fa fa-solid fa-arrow-right pr-3"></i>Hier geht's zur Anmeldung für unseren nächten Termin (19.01.2026 11:00)</a>
+<a class="btn mt-4 btn-dark align-self-center d-flex align-items-center" href="/forms/quickwins_feb2026" style="width:50%"><i class="fa fa-solid fa-arrow-right pr-3"></i>Hier geht's zur Anmeldung für unseren nächten Termin (19.01.2026 11:00)</a>
+</div></div></div>

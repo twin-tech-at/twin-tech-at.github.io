@@ -12,7 +12,7 @@ background: white
 <div class="container">
 <div class="row align-left">
 <div class="col-md-12">
-Interessiert an unseren Workshops? Melde dich hier zu unserem Newsletter an, um als Erstes informiert zu werden, sobald die Termine für 2026 stehen!
+Interessiert an unseren Webinaren und Workshops? Melde dich hier zu unserem Newsletter an und erhalte als Erstes Infos zu neuen Inhalten!
 <a class="btn mt-4 btn-dark align-self-top d-flex align-items-center"  style="width:40%" href="/forms/newsletter"><i class="fa fa-solid fa-arrow-right pr-3"></i>Hier geht's zur Newsletter-Registrierung</a>
 </div>
 <div class="col-md-6">
