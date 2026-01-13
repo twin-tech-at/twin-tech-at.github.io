@@ -114,7 +114,7 @@ background: white
               <p>🧑‍💻Format: Online-Workshop</p>
               <p>📅Datum: 10. März 2026</p>
               <p>🕧Uhrzeit: 09.30 - 12.00 Uhr</p>
-              <p>💰Teilnahme kostenlos für Mitglieder der Plattform Industrie 4.0</p>
+              <p>💰Teilnahme kostenlos für Mitglieder des Stakeholder-Netzwerkes des Projektes PASSAT – Digital Product Passport Austria &amp; Beyond</p>
             </div>
           </div>
         </div>
@@ -202,7 +202,7 @@ background: white
                     <input type="checkbox" class="input_replaced" value="1" id="NEWSLETTER_ANMELDUNG" name="NEWSLETTER_ANMELDUNG" />
                     <span class="checkbox checkbox_tick_positive"
             style="margin-left:"
-            ></span><span style="font-size:14px; text-align:left; font-family:Helvetica, sans-serif; color:#3C4858; background-color:transparent;"><p>Ich willige dazu ein, dass Unternehmen der Meta-Level Software AG meine Daten entsprechend der <a target="_blank" href="https://meta-level.de/datenschutzhinweis">Datenschutzerklärung</a> verwenden, um mir über diese konkrete Anfrage hinausgehende Informationen zu Veranstaltungen, im Rahmen personalisierter Werbung (per E-Mail) zur Verfügung zu stellen. Diese Einwilligung kann ich jederzeit widerrufen.</p></span> </label>
+            ></span><span style="font-size:14px; text-align:left; font-family:Helvetica, sans-serif; color:#3C4858; background-color:transparent;"><p>Ich willige dazu ein, dass Unternehmen der Meta-Level Software AG meine Daten entsprechend der <a href="https://meta-level.de/datenschutzhinweis" target="_blank">Datenschutzerklärung</a> verwenden, um mir über diese konkrete Anfrage hinausgehende Informationen zu Veranstaltungen, im Rahmen personalisierter Werbung (per E-Mail) zur Verfügung zu stellen. Diese Einwilligung kann ich jederzeit widerrufen.</p></span> </label>
                 </div>
               </div>
               <label class="entry__error entry__error--primary" style="font-size:16px; text-align:left; font-family:Helvetica, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;">
@@ -242,7 +242,7 @@ background: white
               </svg>
             </div>
             <div style="font-size:14px; text-align:left; font-family:Helvetica, sans-serif; color:#687484; background-color:transparent;">
-              <p>Wir verwenden Brevo als unsere Marketing-Plattform. Indem du das Formular absendest, erklärst du dich einverstanden, dass die von dir angegebenen persönlichen Informationen an Brevo zur Bearbeitung übertragen werden gemäß den <a target="_blank" href="https://www.brevo.com/de/legal/privacypolicy/">Datenschutzrichtlinien von Brevo.</a></p>
+              <p>Wir verwenden Brevo als unsere Marketing-Plattform. Indem du das Formular absendest, erklärst du dich einverstanden, dass die von dir angegebenen persönlichen Informationen an Brevo zur Bearbeitung übertragen werden gemäß den <a href="https://www.brevo.com/de/legal/privacypolicy/" target="_blank">Datenschutzrichtlinien von Brevo.</a></p>
             </div>
           </div>
         </div>
@@ -252,7 +252,7 @@ background: white
               <svg class="icon clickable__icon progress-indicator__icon sib-hide-loader-icon" viewBox="0 0 512 512" style="">
                 <path d="M460.116 373.846l-20.823-12.022c-5.541-3.199-7.54-10.159-4.663-15.874 30.137-59.886 28.343-131.652-5.386-189.946-33.641-58.394-94.896-95.833-161.827-99.676C261.028 55.961 256 50.751 256 44.352V20.309c0-6.904 5.808-12.337 12.703-11.982 83.556 4.306 160.163 50.864 202.11 123.677 42.063 72.696 44.079 162.316 6.031 236.832-3.14 6.148-10.75 8.461-16.728 5.01z" />
               </svg>
-              JETZT KOSTENPFLICHTIG BUCHEN
+              JETZT KOSTENLOS BUCHEN
             </button>
           </div>
         </div>
