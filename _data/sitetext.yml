@@ -54,6 +54,7 @@ en: &DEFAULT_EN
   footer:
     legal: "Privacy Policy"
     impressum: "Impressum"
+    agb: "AGB"
     UseCases: "Use Cases"
     Trainings: "Trainings"
     AI: "ArtificialIntelligence"
