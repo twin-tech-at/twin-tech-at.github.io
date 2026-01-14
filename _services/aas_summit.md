@@ -54,7 +54,7 @@ Der zweite Tag startet mit einer Reihe an Vorträgen, die zeigen, welche Möglic
 <b><span class="text-success">Agenda</span></b>
 <ul>
 <li>08:30 - 09:00 Uhr: Get-Together + Anmeldung</li>
-<li>09:00 - 09:55 Uhr: Begrüßung und Keynote (TBA)</li>
+<li>09:00 - 09:55 Uhr: Begrüßung und Keynote Thomas Sievers (Uhlmann) - Titel TBA</li>
 <li>09:55 - 10:10 Uhr: Tool-Vorstellung AAS (TBA)</li>
 <li>10:10 - 10:30 Uhr: Collaborative Engineering mit der AAS (Markus Kiele-Dunsche, Twindustrial, ehem. Lenze)</li>
 <li>10:30 - 11:00 Uhr: Kaffeepause + Networking</li>
