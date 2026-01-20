@@ -20,6 +20,6 @@ Die letzten Jahre haben uns gezeigt, dass Digitalisierung mittlerweile ein Muss 
 ▶️  Aktueller Stand Digitalisierung im Maschinenbau<br/>
 ▶️  Digitalisierung erfolgreich umsetzen mit der Asset Administration Shell<br/>
 </p>
-<a class="btn mt-4 btn-dark align-self-center d-flex align-items-center" href="/forms/quickwins_feb2026"><i class="fa fa-solid fa-arrow-right pr-3"></i>Hier geht's zur Anmeldung für unseren nächten Termin (11.01.2026 11:00)</a>
+<a class="btn mt-4 align-self-center d-flex align-items-center" href="/forms/webinar_maschinenbau" style="background:#28a745!important;max-width: 50%;color:white"><i class="fa fa-solid fa-arrow-right pr-3"></i>Jetzt Anmelden!</a>
 </div>
-</div>
+</div></div>
