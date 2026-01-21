@@ -12,7 +12,7 @@ background: white
 <div class="row">     
 <div class="col-md-8">
 <p>
-Unternehmen müssen heute intelligent und nachhaltig in Digitalisierung investieren, um im Zukunft am Markt bestehen zu können. Technologien wie die Asset Administration Shell sollten dabei die Basis jeder Digitalisierungs-Strategie sein.<br/><br/>
+Unternehmen müssen heute intelligent und nachhaltig in Digitalisierung investieren, um in Zukunft am Markt bestehen zu können. Technologien wie die Asset Administration Shell sollten dabei die Basis jeder Digitalisierungs-Strategie sein.<br/><br/>
 
 	  In diesem Webinar zeigen wir, wie du den Nutzen dieser Technologien für dein Unternehmen entlang des Lebenszykus eures Produktes systematisch erhebst - von der digitalen Betriebsanleitung über Kollaborative Entwicklung bis zum digitalen Produktpass. Neben dem allgemeinen Vorgehen teilen wir auch unsere Erfahrungen aus 2 konkreten Projekten.
 </p>
