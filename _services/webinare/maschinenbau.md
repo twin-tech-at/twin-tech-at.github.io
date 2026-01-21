@@ -10,11 +10,15 @@ background: white
 <br/>
 <div class="container">
 <div class="row">     
-<div class="col-md-12">
+<div class="col-md-8">
 <p>
 Die letzten Jahre haben uns gezeigt, dass Digitalisierung mittlerweile ein Muss im Maschinenbau ist. Ohne Digitalisierung verlieren wir die Geschwindigkeit, um mit den wachsenden Anforderungen des Marktes mitzuhalten. Regulierungen wie die Maschinenverordnung und der Digitale Produktpass (DPP) fordern gleichzeitig, dass wir unsere bestehenden Prozesse radikal umkrempeln.</p>
 <p>In diesem Webinar zeigen wir anhand konkreter Use Cases, wie Maschinenbauer Digitalisierung als Hebel zur Kostenreduktion, sowie als Einkommensquelle durch Zusatzservices, nutzen. Wir veranschaulichen außerdem, wo Digitalisierungs-Projekte aktuell in Unternehmen scheitern, und Sie diese dank der Asset Administration Shell (AAS) als standardisierter digitaler Zwilling zum Erfolg führen.</p>
-
+</div>
+<div class="col-md-4"><img src="..\..\assets\img\stockimages\webinar_maschinenbau.png" class="img-fluid" style="max-width: 100%;">
+</div>
+</div>
+<div class="row"><div class="col-md-12">
 <p><b>Agenda</b><br/>
 ▶️  Digitalisierung Use Cases im Maschinenbau<br/>
 ▶️  Aktueller Stand Digitalisierung im Maschinenbau<br/>
