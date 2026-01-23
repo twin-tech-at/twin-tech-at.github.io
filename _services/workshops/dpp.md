@@ -5,17 +5,18 @@ background: white
 ---
 
 
-<div class="col-lg-12 text-center">
-<h2 class="section-heading text-uppercase">Strategieworkshop zur Entwicklung eines effizienten End-to-End Prozesses für den digitalen Produktpass</h2>
-</div>
 <br/>
 <div class="container">
+<h2 class="section-heading">Strategieworkshop zur Entwicklung eines effizienten <br/> End-to-End Prozesses für den digitalen Produktpass</h2>
+<br/>
 <div class="row align-left">     
-<div class="col-md-12">
-Der Digitale Produktpass wird für viele Branchen zum verbindlichen Standard – und damit zum entscheidenden Faktor für Marktzugang, Compliance und Wettbewerbsfähigkeit. Dieser Strategieworkshop hilft Ihrem Führungsteam, frühzeitig Klarheit zu gewinnen und die komplexen Anforderungen in einen strukturierten, machbaren End-to-End-Prozess zu übersetzen.
+<div class="col-md-8">
+
+Der Digitale Produktpass wird für viele Branchen zum verbindlichen Standard – und damit zum entscheidenden Faktor für Marktzugang, Compliance und Wettbewerbsfähigkeit. Dieser Strategieworkshop hilft Ihrem Führungsteam, frühzeitig Klarheit zu gewinnen und die komplexen Anforderungen in einen strukturierten, machbaren End-to-End-Prozess zu übersetzen.<br/><br/>
 Sie erhalten eine klare Entscheidungsgrundlage: Welche Daten notwendig sind, welche Prozesse angepasst werden müssen und welche Schritte jetzt Priorität haben. So schaffen Sie nicht nur die Basis für eine rechtssichere Umsetzung, sondern sichern sich zugleich einen Vorsprung gegenüber Wettbewerbern, die erst reagieren, wenn es verpflichtend wird.
 <br/>
-</div></div>
+</div>
+<div class="col-md-4"> <img src="..\..\assets\img\stockimages\workshops.jpg" class="img-fluid" style="max-width: 100%;"></div>
 <div class="row">
 <div class="col-md-6">
 <br/>

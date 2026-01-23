@@ -5,21 +5,19 @@ background: white
 ---
 
 
-<div class="col-lg-12 text-center">
-	<h2 class="section-heading text-uppercase">Predictive Maintenance skalieren mit digitalen Zwillingen</h2>
-  </div>
 <br/>
 <div class="container">
 <div class="row align-left">
 <div class="col-md-8 align-left">
+<h2 class="section-heading">Predictive Maintenance skalieren mit digitalen Zwillingen</h2><br/>
 Dieses Training bringt dir praxisnah das Thema Predictive Maintenance näher. Neben einer Einführung in das Thema Predictive Maintenance und die nötigen KI-Grundlagen lernen Sie auch, wie Sie mit digitalen Zwillingen Innovationen wie Predictive Maintenance skalierbar betreiben. 
 Sie erarbeiten Ihr eigenes Beispielprojekt, mit dem Sie im Anschluss an die Schulung direkt mit dem Einsatz im eigenen Unternehmen starten können.<br/>
-
-<br/>
 </div>
 <div class="col-md-4">
+<img src="..\..\assets\img\stockimages\chess.jpg" class="img-fluid" style="max-width: 100%;">
 </div>
 </div>
+<br/>
 <div class="row">
 <div class="col-md-6">
 <h5><span class="text-success">Termine 2026</span></h5>

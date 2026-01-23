@@ -3,21 +3,22 @@ layout: page
 title: workshop_quickwins
 background: white
 ---
-
-
-<div class="col-lg-12 text-center">
-	<h2 class="section-heading text-uppercase">Erste Schritte mit digitalen Zwillingen: Quick Wins mit der AAS zum Aufbau einer skalierbaren Dateninfrastruktur</h2>
-</div>
 <br/>
+
+<div class="col-lg-12">
+	<h2 class="section-heading">Erste Schritte mit digitalen Zwillingen:</h2><h3>Quick Wins mit der AAS zum Aufbau einer skalierbaren Dateninfrastruktur</h3>
+</div>
+
 <div class="container">
 <div class="row align-left">     
-<div class="col-md-12">
+<div class="col-md-8">
 Vom digitalen Produktpass bis zur KI-Skalierung, vom Maschinenbau zur Produktion von Konsumgütern: die Asset Administration Shell ist die Basis effizienter Digialisierung in der Industrie. Sie ermöglicht uns, bei der Digitalisierung auf einem bestehenden Ökosystem aufzubauen, anstatt bei 0 zu starten. Außerdem können wir Dank der AAS eine standardisierte, interoperable Infrastruktur bauen und diese für alle unsere Digitalisierungs Use Cases wiederverwenden.
  <br/><br/>
 In diesem Workshop starten wir gemeinsam mit der Erstellung der ersten AAS. Neben einem Überblick über die AAS an sich, sowie das bestehende Software-Ökosystem rund um die AAS, diskutieren wir konkrete Anwendungen, die Unternehmen schnell und einfach realisieren können.  Als Ergebnis sollen Teilnehmer:innen klar und strukturiert Potenziale der AAS im eigenen Unternehmen identifizieren. Sie nehmen sich am Ende bereits ihr erstes AAS Modell mit, um danach direkt mit der Umsetzung dieser Potenziale starten zu können.
-  <br/><br/>
 </div>
+<div class="col-md-4"> <img src="..\..\assets\img\stockimages\lock.jpg" class="img-fluid" style="max-width: 100%;"></div>
 </div>
+<br/>
 <div class="row">
 <div class="col-md-6">
 <h5><span class="text-success">Termine 2026</span></h5>
