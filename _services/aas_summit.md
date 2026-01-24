@@ -30,7 +30,7 @@ Das Event wird organisiert von <b><span class="text-success"><a href="https:twin
 Die LIT Factory zeigt, wie Datenräume und die AAS in der Praxis zusammenspielen - anhand konkreter Use Cases aus dem AMIDS (Austrian Manufacturing Innovation DataSpace). Neben der Vorstellung der Use Cases und des AMIDS Datenraums gibt es auch Demonstrationen an den Maschinen vor Ort. <br/>
 <br/>
 <br/>
-<b><span class="text-success">Agenda</span></b>
+<b><span class="text-success">Was erwartet dich?</span></b>
 <ul>
 <li>14:45 - 15:00 Uhr: Get-Together + Anmeldung</li>
 <li>15:00 - 15:30 Uhr: Begrüßung und Keynote (TBA)</li>
@@ -51,7 +51,7 @@ Die LIT Factory zeigt, wie Datenräume und die AAS in der Praxis zusammenspielen
 Der zweite Tag startet mit einer Reihe an Vorträgen, die zeigen, welche Möglichkeiten sich heute schon durch die Interoperabilität in der Produktion mit der AAS ergeben. Am Nachmittag erarbeiten Teilnehmer:innen in 3 parallelen Workshops selbst erste Ergebnisse im Rahmen der AAS.<br/>
 <br/>
 <br/>
-<b><span class="text-success">Agenda</span></b>
+<b><span class="text-success">Was erwartet dich?</span></b>
 <ul>
 <li>08:30 - 09:00 Uhr: Get-Together + Anmeldung</li>
 <li>09:00 - 09:55 Uhr: Begrüßung und Keynote Thomas Sievers (Uhlmann) - Titel TBA</li>
