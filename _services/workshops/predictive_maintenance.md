@@ -37,7 +37,7 @@ Sie erarbeiten Ihr eigenes Beispielprojekt, mit dem Sie im Anschluss an die Schu
 <ul>
 <li>Digitale Zwillinge</li>
 <ul>
-  <li>OPC UA und das OPC UA SDK von Träger für das Konsumieren von Maschinendaten</li>
+  <li>OPC UA und das OPC UA SDK von Traeger für das Konsumieren von Maschinendaten</li>
   <li>Asset Administration Shell (AAS) und die AAS Suite von MetaLevel für die Repräsentation semantischer Daten in der Cloud</li>
 </ul>
 <li>Künstliche Intelligenz</li>

@@ -137,7 +137,7 @@ background: white
                   <div class="entry__choice" style="">
                     <label>
                       <input /type="radio" name="DATEN_WEBINAR_POTENZIALANALYSE_" class="input_replaced" value="1" required>
-                      <span class="radio-button" style="margin-left: "></span><span style="font-size:16px; text-align:left; font-family:Helvetica, sans-serif; color:#3C4858; background-color:transparent;">2. Februar 2026, 11:00 - 11:30</span> </label>
+                      <span class="radio-button" style="margin-left: "></span><span style="font-size:16px; text-align:left; font-family:Helvetica, sans-serif; color:#3C4858; background-color:transparent;">3. Februar 2026, 11:00 - 11:30</span> </label>
                   </div>
                 </div>
               </div>
