@@ -10,20 +10,20 @@ background: white
 <h2 class="section-heading text-left">Potenziale des interoperablen digitalen Zwillings<br/> für Ihre Maschine </h2>
 </div>
 </div>
-
-
-<br/><br/>
-
+<br/>
+<div class="row"><div class="col-md-12 text-left"><h5><span class="text-success">Die Herausforderungen</span></h5></div></div>
+<br/>
 <div class="row">
-<div class="col-md-6"> HIer Bild zu "Kostendruck"</div>
+<div class="col-md-4"> <img alt="Bild eines Workshops mit Thomas Sievers der Firma Uhlmann" src="..\assets\infografiken\potenzialanalyse_kostendruck.png" class="img-fluid" style="max-width: 90%;"/>
+</div>
 
-<div class="col-md-6"> Hier Bild zu MVO/DPP
+<div class="col-md-4"> <img alt="Bild eines Workshops mit Thomas Sievers der Firma Uhlmann" src="..\assets\infografiken\potenzialanalyse_investitionskosten.png" class="img-fluid" style="max-width: 90%;"/>
 </div>
 </div>
 <br/><br/>
 <div class="row"><div class="col-md-12"><h5><span class="text-success">Wie hilft der interoperable digitale Zwilling hier?</span></h5>
 </div></div>
-<br/><br/>
+<br/>
 <div class="row">
 <div class="col-md-5">
 <img alt="Bild eines Workshops mit Thomas Sievers der Firma Uhlmann" src="..\assets\infografiken\potenzialanalyse_sievers.png" class="img-fluid" style="max-width: 100%;"/>
