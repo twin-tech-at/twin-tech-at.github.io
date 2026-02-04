@@ -14,10 +14,10 @@ background: white
 <div class="row"><div class="col-md-12 text-left"><h5><span class="text-success">Die Herausforderungen</span></h5></div></div>
 <br/>
 <div class="row">
-<div class="col-md-4"> <img alt="Bild eines Workshops mit Thomas Sievers der Firma Uhlmann" src="..\assets\infografiken\potenzialanalyse_kostendruck.png" class="img-fluid" style="max-width: 90%;"/>
+<div class="col-md-4"> <img alt="Schaubild: sinkende Nachfrage und steigender Wettbewerb führen unterm Strich zu enormem Kostendruck im Maschinenbau" src="..\assets\infografiken\potenzialanalyse_kostendruck.png" class="img-fluid" style="max-width: 90%;"/>
 </div>
 
-<div class="col-md-4"> <img alt="Bild eines Workshops mit Thomas Sievers der Firma Uhlmann" src="..\assets\infografiken\potenzialanalyse_investitionskosten.png" class="img-fluid" style="max-width: 90%;"/>
+<div class="col-md-4"> <img alt="Schaubild: neue EU-Verordnungen führen unterm Strich zu steigenden Investitionskosten für Maschinenbauer" src="..\assets\infografiken\potenzialanalyse_investitionskosten.png" class="img-fluid" style="max-width: 90%;"/>
 </div>
 </div>
 <br/><br/>
