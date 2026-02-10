@@ -56,7 +56,7 @@ Der zweite Tag startet mit einer Reihe an Vorträgen, die zeigen, welche Möglic
 <b><span class="text-success">Was erwartet dich?</span></b>
 <ul>
 <li>08:30 - 09:00 Uhr: Get-Together + Anmeldung</li>
-<li>09:00 - 10:00 Uhr: Begrüßung und Keynote aus der Anwendung der AAS von Ruth Markut-Kohl (Engel) und Thomas Sievers (Uhlmann)</li>
+<li>09:00 - 10:00 Uhr: Begrüßung und Keynote von Ruth Markut-Kohl (Engel) und Thomas Sievers (Uhlmann) über die Anwendung der AAS in der Praxis</li>
 <li>10:00 - 10:30 Uhr: Use Cases mit dem ClassCOCKPIT und der twinsphere suite</li>
 <li>10:30 - 11:00 Uhr: Kaffeepause + Networking</li>
 <li>11:00 - 11:30 Uhr: Collaborative Engineering mit der AAS (Markus Kiele-Dunsche, Twindustrial, ehem. Lenze)</li>
@@ -67,7 +67,7 @@ Der zweite Tag startet mit einer Reihe an Vorträgen, die zeigen, welche Möglic
 <li>13:00 - 14:00 Uhr: Mittagessen + Networking</li>
 <li>14:00 - 16:00 Uhr: Workshop 1 - AAS Potenzialanalyse im Lebenszyklus einer Maschine (Christian Methe - Twindustrial)</li>
 <li>14:00 - 16:00 Uhr: Workshop 2 - Stragegieworkshop End-to-End Prozess für den DPP (Stefan Huffer - MetaLevel)</li>
-<li>14:00 - 16:00 Uhr: Workshop 3 - In 2 Stunden zum intelligenten Geschäftsprozess: die AAS macht's möglich (Rüdiger Fritz - Open Industry 4.0 Alliance)!</li>
+<li>14:00 - 16:00 Uhr: Workshop 3 - In 2 Stunden zum intelligenten Geschäftsprozess: die AAS macht's möglich (Rüdiger Fritz - Open Industry 4.0 Alliance)</li>
 <li>16:00 - 16:30 Wrap-Up</li>
 </ul><br/>
 </div>
