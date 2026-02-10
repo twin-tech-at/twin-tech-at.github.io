@@ -6,7 +6,7 @@ background: white
 <br/>
 
 <div class="col-lg-12">
-	<h2 class="section-heading">Erste Schritte mit digitalen Zwillingen:</h2><h3>Quick Wins mit der AAS zum Aufbau einer skalierbaren Dateninfrastruktur</h3>
+	<h2 class="section-heading">Erste Schritte mit digitalen Zwillingen:</h2><h3>Quick Wins mit der AAS zum Aufbau einer <br/>skalierbaren Dateninfrastruktur</h3>
 </div>
 
 <div class="container">
