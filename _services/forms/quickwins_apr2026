@@ -127,7 +127,7 @@ background: white
                   <div class="entry__choice" style="">
                     <label>
                       <input /type="radio" name="DATEN_WORKSHOP_QUICKWINS" class="input_replaced" value="1" required>
-                      <span class="radio-button" style="margin-left: "></span><span style="font-size:16px; text-align:left; font-family:Helvetica, sans-serif; color:#3C4858; background-color:transparent;">10. Februar 2026, 09:00 - 12:30</span> </label>
+                      <span class="radio-button" style="margin-left: "></span><span style="font-size:16px; text-align:left; font-family:Helvetica, sans-serif; color:#3C4858; background-color:transparent;">17. Februar 2026, 09:00 - 12:30</span> </label>
                   </div>
                   <div class="entry__choice" style="">
                     <label>
@@ -330,7 +330,7 @@ background: white
               </svg>
             </div>
             <div style="font-size:14px; text-align:left; font-family:Helvetica, sans-serif; color:#687484; background-color:transparent;">
-              <p>Wir verwenden Brevo als unsere Marketing-Plattform. Indem du das Formular absendest, erklärst du dich einverstanden, dass die von dir angegebenen persönlichen Informationen an Brevo zur Bearbeitung übertragen werden gemäß den <a target="_blank" href="https://www.brevo.com/de/legal/privacypolicy/">Datenschutzrichtlinien von Brevo.</a></p>
+              <p>Wir verwenden Brevo als unsere Marketing-Plattform. Indem du das Formular absendest, erklärst du dich einverstanden, dass die von dir angegebenen persönlichen Informationen an Brevo zur Bearbeitung übertragen werden gemäß den <a href="https://www.brevo.com/de/legal/privacypolicy/" target="_blank">Datenschutzrichtlinien von Brevo.</a></p>
             </div>
           </div>
         </div>
