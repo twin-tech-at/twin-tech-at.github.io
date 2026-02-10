@@ -96,7 +96,7 @@ background: white
 <h2><span class="text-success">Interessiert?</span></h2>
 </div>
 <div class="col-md-4">
-<a class="btn align-self-top d-flex align-items-center"  style="background:#28a745!important;max-width: 100%;color:white" href="/forms/newsletter"><i class="fa fa-solid fa-arrow-right pr-3"></i>Buchen Sie hier ein unverbindliches Erstgespräch</a>
+<a class="btn align-self-top d-flex align-items-center"  style="background:#28a745!important;max-width: 100%;color:white" href="https://outlook.office.com/bookwithme/user/a3368793e5a549bca2d7f1589bd9873e@twin-tech.at?anonymous&ismsaljsauthenabled&ep=plink"><i class="fa fa-solid fa-arrow-right pr-3"></i>Buchen Sie hier ein unverbindliches Erstgespräch</a>
 </div></div>
 <br/><br/>
 </div>

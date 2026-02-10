@@ -100,3 +100,49 @@ Der zweite Tag startet mit einer Reihe an Vorträgen, die zeigen, welche Möglic
 </div>
 </div>
 </div>
+
+
+<br/><br/>
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<h5><span class="text-success">Anreise</span></h5>
+Option 1: Anreise mit dem Auto
+<ul>
+<li>Adresse: Altenberger Strasse 69, 4040 Linz</li>
+<li>Am und rund um den Campus befinden sich kostenlose und kostenpflichtige Parkplätze (bitte Parkordnung beachten)</li>
+</ul>
+
+Option 2: Anreise mit dem Zug
+<ul>
+<li>Der Bahnhof Linz Hauptbahnhof liegt auf der Hauptverkehrstrecke (Weststrecke) mit 5 Verbindungen/Stunde Richtung Salzburg oder Wien und ist ca. 1 Stunde vom Grenzbahnhof Passau entfernt.</li>
+<li>Vom Bahnhof Linz fahren die Straßenbahnen 1 und 2 in ca. 30 Minuten direkt zum Veranstaltungsort (Station Johannes Kepler Universität). Alternativ gibt es auch Optionen mit Bus oder Taxi mit ca. 20 Minuten Fahrtzeit.</li>
+</ul>
+
+Option 3: Anreise via Flug
+<ul>
+<li>Vom Flughafen Linz empfehlen wir eine Anreise mit dem Taxi direkt zum Veranstaltungsort (ca. 30 Minuten) oder ins Stadtzentrum (ca. 15 Minuten).</li>
+<li>Der Flughafen Wien ist per Direktverbindung in 2 Stunden mit dem Hauptbahnhof Linz per Zug verbunden</li>
+<li>Anreise vom Flughafen München ca. 4 Stunden.</li>
+</ul>
+
+</div></div>
+<br/>
+<div class="row">
+<div class="col-md-12">
+<h5><span class="text-success">Hotelempfehlungen</span></h5>
+Der Veranstaltungsort befindet sich etwas außerhalt des Stadtkerns von Linz.<br/><br/>
+In der Nähe der Veranstaltung gibt es folgende Unterkünfte
+<ul>
+<li><a href="https://www.sommerhaus-hotel.at/de/linz">https://www.sommerhaus-hotel.at/de/linz</a></li>
+<li><a href="https://linz-urfahr.harrys-home.com/">https://linz-urfahr.harrys-home.com/</a></li>
+</ul>
+<br/>
+Außerdem können wir im Stadtzentrum (ca. 20 Minuten Fahrzeit mit Straßenbahn oder Auto) folgende Hotels empfehlen:
+<ul>
+<li><a href="https://www.leonardo-hotels.de/linz/leonardo-boutique-hotel-linz-city-center">https://www.leonardo-hotels.de/linz/leonardo-boutique-hotel-linz-city-center</a></li>
+<li><a href="https://www.radissonhotels.com/en-us/hotels/park-inn-linz">https://www.radissonhotels.com/en-us/hotels/park-inn-linz</a></li>
+<li><a href="https://www.goldeneradler.at/">https://www.goldeneradler.at/</a></li>
+</ul>
+
+</div></div>
