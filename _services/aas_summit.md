@@ -36,7 +36,7 @@ Die LIT Factory zeigt, wie Datenräume und die AAS in der Praxis zusammenspielen
 <ul>
 <li>14:45 - 15:00 Uhr: Get-Together + Anmeldung</li>
 <li>15:00 - 15:30 Uhr: Begrüßung und Keynote (TBA)</li>
-<li>15:30 - 15:50 Uhr: Tool-Vorstellung AAS (TBA)</li>
+<li>15:30 - 15:50 Uhr: Vorstellung der Open-Source AAS.TwinEngine</li>
 <li>15:50 - 16:20 Uhr: Datenraum AMIDS</li>
 <li>16:20 - 16:30 Uhr: Teilnahmemöglichkeiten am Datenraum AMIDS</li>
 <li>16:30 - 16:50 Uhr: Kaffee und Netzwerken</li>
@@ -56,16 +56,17 @@ Der zweite Tag startet mit einer Reihe an Vorträgen, die zeigen, welche Möglic
 <b><span class="text-success">Was erwartet dich?</span></b>
 <ul>
 <li>08:30 - 09:00 Uhr: Get-Together + Anmeldung</li>
-<li>09:00 - 09:55 Uhr: Begrüßung und Keynote Thomas Sievers (Uhlmann) - Titel TBA</li>
-<li>09:55 - 10:10 Uhr: Tool-Vorstellung AAS (TBA)</li>
-<li>10:10 - 10:30 Uhr: Collaborative Engineering mit der AAS (Markus Kiele-Dunsche, Twindustrial, ehem. Lenze)</li>
+<li>09:00 - 10:00 Uhr: Begrüßung und Keynote aus der Anwendung der AAS von Ruth Markut-Kohl (Engel) und Thomas Sievers (Uhlmann)</li>
+<li>10:00 - 10:30 Uhr: Use Cases mit dem ClassCOCKPIT und der twinsphere suite</li>
 <li>10:30 - 11:00 Uhr: Kaffeepause + Networking</li>
-<li>11:00 - 11:30 Uhr: DPP - Aktueller Stand und Umsetzung mit der AAS (Andreas Herbst - Plattform Industrie 4.0)</li>
-<li>11:30 - 12:00 Uhr: Vom System-Design zum lauffähigen digitalen Zwilling (Thomas Gross - Linz Center of Mechatronics)</li>
-<li>12:00 - 12:30 Uhr: Vom Design-Modell zum Zwilling: Das AAS Exporter Plugin des Enterprise Architect (Philippe Barbie - Fraunhofer IESE) </li>
+<li>11:00 - 11:30 Uhr: Collaborative Engineering mit der AAS (Markus Kiele-Dunsche, Twindustrial, ehem. Lenze)</li>
+
+<li>11:30 - 12:00 Uhr: DPP - Aktueller Stand und Umsetzung mit der AAS (Andreas Herbst - Plattform Industrie 4.0)</li>
+<li>12:00 - 12:30 Uhr: Vom System-Design zum lauffähigen digitalen Zwilling (Thomas Gross - Linz Center of Mechatronics)</li>
+<li>12:30 - 13:00 Uhr: Vom Design-Modell zum Zwilling: Das AAS Exporter Plugin des Enterprise Architect (Philippe Barbie - Fraunhofer IESE) </li>
 <li>13:00 - 14:00 Uhr: Mittagessen + Networking</li>
-<li>14:00 - 16:00 Uhr: Workshop 1 - AAS Potenzialanalyse im Lebenszyklus einer Maschine (Twindustrial)</li>
-<li>14:00 - 16:00 Uhr: Workshop 2 - Stragegieworkshop End-to-End Prozess für den DPP (MetaLevel)</li>
+<li>14:00 - 16:00 Uhr: Workshop 1 - AAS Potenzialanalyse im Lebenszyklus einer Maschine (Christian Methe - Twindustrial)</li>
+<li>14:00 - 16:00 Uhr: Workshop 2 - Stragegieworkshop End-to-End Prozess für den DPP (Stefan Huffer - MetaLevel)</li>
 <li>14:00 - 16:00 Uhr: Workshop 3 - In 2 Stunden zum intelligenten Geschäftsprozess: die AAS macht's möglich (Rüdiger Fritz - Open Industry 4.0 Alliance)!</li>
 <li>16:00 - 16:30 Wrap-Up</li>
 </ul><br/>
