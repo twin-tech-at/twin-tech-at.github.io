@@ -33,9 +33,9 @@ background: white
    
     <div class="col-md-5">
     <h5 class="text-center"><span class="text-success">Sponsoren</span></h5>
-        <img alt="Logo M&M software" src="./../assets/img/logos/mundm.png" class="img-fluid" style="max-width: 15%;"/>
+        <img alt="Logo M&M software" src="./../assets/img/logos/MundM.png" class="img-fluid" style="max-width: 15%;"/>
         <img alt="Logo conplement AG" src="./../assets/img/logos/conplement.png" class="img-fluid" style="max-width: 40%;"/>
-        <img alt="Logo D&TS" src="./../assets/img/logos/dts.png" class="img-fluid" style="max-width: 40%;"/>
+        <img alt="Logo D&TS" src="./../assets/img/logos/DTS.png" class="img-fluid" style="max-width: 40%;"/>
     </div>
 </div>
 </div>
