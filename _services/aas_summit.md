@@ -6,26 +6,51 @@ background: white
 
 <div class="container">
 <div class="row">
-<div class="col-md-7">
-<h2 class="section-heading text-uppercase">Interoperabilität in der Produktion der Zukunft: <br/>1. AAS Summit Österreich</h2>
+    <div class="col-md-7">
+        <h2 class="section-heading text-uppercase">Interoperabilität in der Produktion der Zukunft: <br/>1. AAS Summit Österreich</h2>
 
-Vom digitalen Produktpass über Predictive Maintenance bis zur digitalen Betriebsanleitung: die Asset Administration Shell (AAS) ist die Basis für effiziente Digitalisierung in der Produktion und im Maschinenbau. <br/><br/>
+        Vom digitalen Produktpass über Predictive Maintenance bis zur digitalen Betriebsanleitung: die Asset Administration Shell (AAS) ist die Basis für effiziente Digitalisierung in der Produktion und im Maschinenbau. <br/><br/>
 
-Der AAS Summit liefert an 1 1/2 Tagen einen Überblick über die Möglichkeiten, die die Asset Administration Shell (AAS) schon heute bietet, um die interoperable Produktion von Morgen zu ermöglichen. Neben Live-Demos in der LIT Factory wird es Vorträge von führenden Expert:innen und Hands-On Workshops geben. <br/>
+        Der AAS Summit liefert an 1 1/2 Tagen einen Überblick über die Möglichkeiten, die die Asset Administration Shell (AAS) schon heute bietet, um die interoperable Produktion von Morgen zu ermöglichen. Neben Live-Demos in der LIT Factory wird es Vorträge von führenden Expert:innen und Hands-On Workshops geben. <br/>
 
-<a class="btn mt-4 align-self-center d-flex align-items-center" href="/forms/aas_summit_registration" style="background:#28a745!important; color:white; width:50%"><i class="fa fa-solid fa-arrow-right pr-3"></i><span class="text">Zur Registrierung<br/>  </span></a><b>Anmeldeschluss: 28. Februar!</b>
-<br/>
-<br/>
-Das Event wird organisiert von <b><span class="text-success"><a href="https:twin-tech.at">TwinTech</a></span></b> und der <b><span class="text-success"><a href="https://openindustry4.com/">Open Industry 4.0 Alliance</a></span></b>, mit der Unterstützung der <b><span class="text-success"><a href="https://www.jku.at/lit-factory/">LIT Factory</a></span></b>, des <b><span class="text-success"><a href="https://www.lcm.at/">Linz Center of Mechatronics</a></span></b>, und des <b><span class="text-success"><a href="https://www.biz-up.at/cluster-kooperationen/mechatronik-cluster">Mechatronik-Clusters</a></span></b>.</div>
+        <a class="btn mt-4 align-self-center d-flex align-items-center" href="/forms/aas_summit_registration" style="background:#28a745!important; color:white; width:50%"><i class="fa fa-solid fa-arrow-right pr-3"></i><span class="text">Zur Registrierung<br/>  </span></a><b>Anmeldeschluss: 28. Februar!</b>
+        <br/>
+        <br/>
+    </div>
 
 
-<div class="col-md-5"><img alt="Beschreibungsbild AAS Summit" src="..\assets\img\aas_summit_bild.png" class="img-fluid" style="max-width: 100%;"/></div>
-
+    <div class="col-md-5">
+        <img alt="Beschreibungsbild AAS Summit" src="..\assets\img\aas_summit_bild.png" class="img-fluid" style="max-width: 100%;"/>
+    </div>
+</div>
+ <br/>
+<div class="row align-center">
+    
+    <div class="col-md-7">
+        <h5 class="text-left"><span class="text-success">Veranstalter</span></h5>
+        Das Event wird organisiert von <b><span class="text-success"><a href="https:twin-tech.at">TwinTech</a></span></b> und der <b><span class="text-success"><a href="https://openindustry4.com/">Open Industry 4.0 Alliance</a></span></b>, mit der Unterstützung der <b><span class="text-success"><a href="https://www.jku.at/lit-factory/">LIT Factory</a></span></b>, des <b><span class="text-success"><a href="https://www.lcm.at/">Linz Center of Mechatronics</a></span></b>, und des <b><span class="text-success"><a href="https://www.biz-up.at/cluster-kooperationen/mechatronik-cluster">Mechatronik-Clusters</a></span></b>.
+    </div>
+   
+    <div class="col-md-5">
+    <h5 class="text-center"><span class="text-success">Sponsoren</span></h5>
+        <img alt="Logo M&M software" src="./../assets/img/logos/mundm.png" class="img-fluid" style="max-width: 15%;"/>
+        <img alt="Logo conplement AG" src="./../assets/img/logos/conplement.png" class="img-fluid" style="max-width: 40%;"/>
+        <img alt="Logo D&TS" src="./../assets/img/logos/dts.png" class="img-fluid" style="max-width: 40%;"/>
+    </div>
 </div>
 </div>
-<br/>
-<br/>
+
+
 <div class="container">
+<div class="row text-center">
+    <div class ="col-md-12">
+        <br/><br/>
+        <h2><span class="text-success">Von Industrieberichten über Hands-On Workshops</span></h2>
+        Was erwartet dich beim 1. AAS Summit?
+        <br/><br/>
+    </div>
+    
+</div>
 <div class="row align-left">
 <div class="col-md-6">
 <h5><span class="text-success">Tag 1 (25. März) @ LIT Factory Linz</span></h5>
