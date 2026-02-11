@@ -32,10 +32,16 @@ background: white
     </div>
    
     <div class="col-md-5">
-    <h5 class="text-center"><span class="text-success">Sponsoren</span></h5>
-        <img alt="Logo M&M software" src="./../assets/img/logos/MundM.png" class="img-fluid" style="max-width: 15%;"/>
-        <img alt="Logo conplement AG" src="./../assets/img/logos/conplement.png" class="img-fluid" style="max-width: 40%;"/>
-        <img alt="Logo D&TS" src="./../assets/img/logos/DTS.png" class="img-fluid" style="max-width: 40%;"/>
+        <h5 class="text-center"><span class="text-success">Sponsoren</span></h5>
+        <a href="https://www.mm-software.com/" target="_blank">
+            <img alt="Logo M&M software" src="./../assets/img/logos/MundM.png" class="img-fluid" style="max-width: 15%;"/>
+        </a>
+        <a href="https://conplement.de/" target="_blank">
+            <img alt="Logo conplement AG" src="./../assets/img/logos/conplement.png" class="img-fluid" style="max-width: 40%;"/>
+        </a>
+        <a href="https://dundts.com/" target="_blank">
+            <img alt="Logo D&TS" src="./../assets/img/logos/DTS.png" class="img-fluid" style="max-width: 40%;"/>
+        </a>
     </div>
 </div>
 </div>
