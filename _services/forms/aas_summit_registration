@@ -137,27 +137,6 @@ background: white
           </div>
         </div>
         <div style="padding: 8px 0;">
-          <div class="sib-optin sib-form-block">
-            <div class="form__entry entry_mcq">
-              <div class="form__label-row ">
-                <label class="entry__label" style="font-weight: 700; text-align:left; font-size:16px; text-align:left; font-weight:700; font-family:Helvetica, sans-serif; color:#3c4858;" for="OPT_IN">Rechnung an Privatperson?</label>
-                <div class="entry__choice" style="">
-                  <label>
-                    <input type="checkbox" class="input_replaced" value="1" id="OPT_IN" name="OPT_IN" />
-                    <span class="checkbox checkbox_tick_positive"
-            style="margin-left:"
-            ></span><span style="font-size:14px; text-align:left; font-family:Helvetica, sans-serif; color:#3C4858; background-color:transparent;"><p>Bitte stellt die Rechnung auf mich als Privatperson aus</p></span> </label>
-                </div>
-              </div>
-              <label class="entry__error entry__error--primary" style="font-size:16px; text-align:left; font-family:Helvetica, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;">
-              </label>
-              <label class="entry__specification" style="font-size:12px; text-align:left; font-family:Helvetica, sans-serif; color:#8390A4; text-align:left">
-                Wähle diese Option, falls die Rechnung auf dich als Privatperson ausgestellt werden soll (in diesem Fall kannst du die nächsten 3 Felder leer lassen)
-              </label>
-            </div>
-          </div>
-        </div>
-        <div style="padding: 8px 0;">
           <div class="sib-input sib-form-block">
             <div class="form__entry entry_block">
               <div class="form__label-row ">
@@ -196,20 +175,39 @@ background: white
           </div>
         </div>
         <div style="padding: 8px 0;">
-          <div class="sib-input sib-form-block">
-            <div class="form__entry entry_block">
+          <div class="sib-radiobutton-group sib-form-block" data-required="true">
+            <div class="form__entry entry_mcq">
               <div class="form__label-row ">
-                <label class="entry__label" style="font-weight: 700; text-align:left; font-size:16px; text-align:left; font-weight:700; font-family:Helvetica, sans-serif; color:#3c4858;" for="UID">Umsatzsteuer-Identifikationsnummer</label>
-
-                <div class="entry__field">
-                  <input class="input " maxlength="200" type="text" id="UID" name="UID" autocomplete="off" placeholder="UID" />
+                <label class="entry__label" style="font-weight: 700; text-align:left; font-size:16px; text-align:left; font-weight:700; font-family:Helvetica, sans-serif; color:#3c4858;" for="AAS_SUMMIT_TAG" data-required="*">Bitte wählen Sie das gewünschte Ticket</label>
+                <div>
+                  <div class="entry__choice" style="">
+                    <label>
+                      <input /type="radio" name="AAS_SUMMIT_TAG" class="input_replaced" value="1" required>
+                      <span class="radio-button" style="margin-left: "></span><span style="font-size:16px; text-align:left; font-family:Helvetica, sans-serif; color:#3C4858; background-color:transparent;">Reguläres Ticket für Tag 1 (25. März) um € 50</span> </label>
+                  </div>
+                  <div class="entry__choice" style="">
+                    <label>
+                      <input /type="radio" name="AAS_SUMMIT_TAG" class="input_replaced" value="2" required>
+                      <span class="radio-button" style="margin-left: "></span><span style="font-size:16px; text-align:left; font-family:Helvetica, sans-serif; color:#3C4858; background-color:transparent;">Reguläres Ticket für Tag 2 (26 März) um € 200</span> </label>
+                  </div>
+                  <div class="entry__choice" style="">
+                    <label>
+                      <input /type="radio" name="AAS_SUMMIT_TAG" class="input_replaced" value="3" required>
+                      <span class="radio-button" style="margin-left: "></span><span style="font-size:16px; text-align:left; font-family:Helvetica, sans-serif; color:#3C4858; background-color:transparent;">Reguläres Ticket für beide Tage (25. und 26. März) um € 250</span> </label>
+                  </div>
+                  <div class="entry__choice" style="">
+                    <label>
+                      <input /type="radio" name="AAS_SUMMIT_TAG" class="input_replaced" value="4" required>
+                      <span class="radio-button" style="margin-left: "></span><span style="font-size:16px; text-align:left; font-family:Helvetica, sans-serif; color:#3C4858; background-color:transparent;">Ermäßigtes Ticket für beide Tage um € 200 (Rabattcode weiter unten eingeben)</span> </label>
+                  </div>
+                  <div class="entry__choice" style="">
+                    <label>
+                      <input /type="radio" name="AAS_SUMMIT_TAG" class="input_replaced" value="5" required>
+                      <span class="radio-button" style="margin-left: "></span><span style="font-size:16px; text-align:left; font-family:Helvetica, sans-serif; color:#3C4858; background-color:transparent;">Kostenloses Ticket für beide Tage (Rabattcode weiter unten eingeben)</span> </label>
+                  </div>
                 </div>
               </div>
-
               <label class="entry__error entry__error--primary" style="font-size:16px; text-align:left; font-family:Helvetica, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;">
-              </label>
-              <label class="entry__specification" style="font-size:12px; text-align:left; font-family:Helvetica, sans-serif; color:#8390A4; text-align:left">
-                Gib die Umsatzsteuer-Identifikationsnummer (UID) des Unternehmens ein, auf das die Rechnung ausgestellt werden soll
               </label>
             </div>
           </div>
