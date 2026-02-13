@@ -178,32 +178,37 @@ background: white
           <div class="sib-radiobutton-group sib-form-block" data-required="true">
             <div class="form__entry entry_mcq">
               <div class="form__label-row ">
-                <label class="entry__label" style="font-weight: 700; text-align:left; font-size:16px; text-align:left; font-weight:700; font-family:Helvetica, sans-serif; color:#3c4858;" for="AAS_SUMMIT_TAG" data-required="*">Bitte wählen Sie das gewünschte Ticket</label>
+                <label class="entry__label" style="font-weight: 700; text-align:left; font-size:16px; text-align:left; font-weight:700; font-family:Helvetica, sans-serif; color:#3c4858;" for="AAS_SUMMIT_TICKET_TYPES" data-required="*">Bitte wähle das gewünschte Ticket</label>
                 <div>
                   <div class="entry__choice" style="">
                     <label>
-                      <input /type="radio" name="AAS_SUMMIT_TAG" class="input_replaced" value="1" required>
-                      <span class="radio-button" style="margin-left: "></span><span style="font-size:16px; text-align:left; font-family:Helvetica, sans-serif; color:#3C4858; background-color:transparent;">Reguläres Ticket für Tag 1 (25. März) um € 50</span> </label>
-                  </div>
-                  <div class="entry__choice" style="">
-                    <label>
-                      <input /type="radio" name="AAS_SUMMIT_TAG" class="input_replaced" value="2" required>
-                      <span class="radio-button" style="margin-left: "></span><span style="font-size:16px; text-align:left; font-family:Helvetica, sans-serif; color:#3C4858; background-color:transparent;">Reguläres Ticket für Tag 2 (26 März) um € 200</span> </label>
-                  </div>
-                  <div class="entry__choice" style="">
-                    <label>
-                      <input /type="radio" name="AAS_SUMMIT_TAG" class="input_replaced" value="3" required>
+                      <input /type="radio" name="AAS_SUMMIT_TICKET_TYPES" class="input_replaced" value="1" required>
                       <span class="radio-button" style="margin-left: "></span><span style="font-size:16px; text-align:left; font-family:Helvetica, sans-serif; color:#3C4858; background-color:transparent;">Reguläres Ticket für beide Tage (25. und 26. März) um € 250</span> </label>
                   </div>
                   <div class="entry__choice" style="">
                     <label>
-                      <input /type="radio" name="AAS_SUMMIT_TAG" class="input_replaced" value="4" required>
-                      <span class="radio-button" style="margin-left: "></span><span style="font-size:16px; text-align:left; font-family:Helvetica, sans-serif; color:#3C4858; background-color:transparent;">Ermäßigtes Ticket für beide Tage um € 200 (Rabattcode weiter unten eingeben)</span> </label>
+                      <input /type="radio" name="AAS_SUMMIT_TICKET_TYPES" class="input_replaced" value="2" required>
+                      <span class="radio-button" style="margin-left: "></span><span style="font-size:16px; text-align:left; font-family:Helvetica, sans-serif; color:#3C4858; background-color:transparent;">Reguläres Ticket für Tag 1 (25. März) um € 50</span> </label>
                   </div>
                   <div class="entry__choice" style="">
                     <label>
-                      <input /type="radio" name="AAS_SUMMIT_TAG" class="input_replaced" value="5" required>
-                      <span class="radio-button" style="margin-left: "></span><span style="font-size:16px; text-align:left; font-family:Helvetica, sans-serif; color:#3C4858; background-color:transparent;">Kostenloses Ticket für beide Tage (Rabattcode weiter unten eingeben)</span> </label>
+                      <input /type="radio" name="AAS_SUMMIT_TICKET_TYPES" class="input_replaced" value="3" required>
+                      <span class="radio-button" style="margin-left: "></span><span style="font-size:16px; text-align:left; font-family:Helvetica, sans-serif; color:#3C4858; background-color:transparent;">Reguläres Ticket für Tag 2 (26. März) um € 200</span> </label>
+                  </div>
+                  <div class="entry__choice" style="">
+                    <label>
+                      <input /type="radio" name="AAS_SUMMIT_TICKET_TYPES" class="input_replaced" value="4" required>
+                      <span class="radio-button" style="margin-left: "></span><span style="font-size:16px; text-align:left; font-family:Helvetica, sans-serif; color:#3C4858; background-color:transparent;">Ermäßigtes Ticket für beide Tage (Rabattcode weiter unten eingeben)</span> </label>
+                  </div>
+                  <div class="entry__choice" style="">
+                    <label>
+                      <input /type="radio" name="AAS_SUMMIT_TICKET_TYPES" class="input_replaced" value="5" required>
+                      <span class="radio-button" style="margin-left: "></span><span style="font-size:16px; text-align:left; font-family:Helvetica, sans-serif; color:#3C4858; background-color:transparent;">Ermäßigtes Ticket für Tag 1 (Rabattcode weiter unten eingeben)</span> </label>
+                  </div>
+                  <div class="entry__choice" style="">
+                    <label>
+                      <input /type="radio" name="AAS_SUMMIT_TICKET_TYPES" class="input_replaced" value="6" required>
+                      <span class="radio-button" style="margin-left: "></span><span style="font-size:16px; text-align:left; font-family:Helvetica, sans-serif; color:#3C4858; background-color:transparent;">Ermäßigtes Ticket für Tag 2 (Rabattcode weiter unten eingeben)</span> </label>
                   </div>
                 </div>
               </div>
