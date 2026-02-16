@@ -13,13 +13,6 @@ background: white
 Dieses Training bringt dir praxisnah das Thema Predictive Maintenance näher. Neben einer Einführung in das Thema Predictive Maintenance und die nötigen KI-Grundlagen lernen Sie auch, wie Sie mit digitalen Zwillingen Innovationen wie Predictive Maintenance skalierbar betreiben. 
 Sie erarbeiten Ihr eigenes Beispielprojekt, mit dem Sie im Anschluss an die Schulung direkt mit dem Einsatz im eigenen Unternehmen starten können.<br/>
 </div>
-<h5>Predictive Maintenance ermöglicht Ihnen</h5><br/>
-<ul class="list-group">
-  <li class="list-group-item">Frühzeitige Fehlererkennung</li>
-  <li class="list-group-item">Reduzierung von Stillständen</li>
-  <li class="list-group-item">Optimierung von Wartungsintervallen</li>
-  <li class="list-group-item">Effiziente Nutzung von Produktionsanlagen</li>
-</ul>
 <div class="col-md-4">
 <img src="..\..\assets\img\stockimages\chess.jpg" class="img-fluid" style="max-width: 100%;">
 </div>
