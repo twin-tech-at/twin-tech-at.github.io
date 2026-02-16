@@ -62,17 +62,21 @@ background: white
 <h5><span class="text-success">Tag 1 (25. März) @ LIT Factory Linz</span></h5>
 Die LIT Factory zeigt, wie Datenräume und die AAS in der Praxis zusammenspielen - anhand konkreter Use Cases aus dem AMIDS (Austrian Manufacturing Innovation DataSpace). Neben der Vorstellung der Use Cases und des AMIDS Datenraums gibt es auch Demonstrationen an den Maschinen vor Ort. <br/>
 <br/>
-<br/>
-<b><span class="text-success">Was erwartet dich?</span></b>
+
+<h5><span class="text-success">Was erwartet dich?</span></h5>
+<i>14:45 - 15:00 Uhr: Get-Together + Anmeldung</i><br/>
+<b><span class="text-success">15:00 - 16:30 Uhr: Vorträge AAS + Datenräume</span></b>
 <ul>
-<li>14:45 - 15:00 Uhr: Get-Together + Anmeldung</li>
-<li>15:00 - 15:30 Uhr: Begrüßung und Keynote (TBA)</li>
-<li>15:30 - 15:50 Uhr: Vorstellung der Open-Source AAS.TwinEngine</li>
-<li>15:50 - 16:20 Uhr: Datenraum AMIDS</li>
-<li>16:20 - 16:30 Uhr: Teilnahmemöglichkeiten am Datenraum AMIDS</li>
-<li>16:30 - 16:50 Uhr: Kaffee und Netzwerken</li>
-<li>16:50 - 17:15 Uhr: Use Case I: Co-Design und Co-Development</li>
-<li>17:15 - 18:00 Uhr: Use Case II: Datenaustausch entlang der Wertschöpfungskette (Demos in LIT Factory)</li>
+<li>Begrüßung und Keynote (TBA)</li>
+<li>Vorstellung der Open-Source AAS.TwinEngine</li>
+<li>Datenraum AMIDS</li>
+<li>Teilnahmemöglichkeiten am Datenraum AMIDS</li>
+</ul>
+<b><span class="text-success">16:30 - 16:50 Uhr: Kaffee und Netzwerken</span></b><br/><br/>
+<b><span class="text-success">16:50 - 18:00 Uhr: Use Case Demonstrationen</span></b>
+<ul>
+<li>Use Case I: Co-Design und Co-Development</li>
+<li>Use Case II: Datenaustausch entlang der Wertschöpfungskette (Demos in LIT Factory)</li>
 </ul>
 <b><span class="text-success">19:00 - 23:00: Gemeinsames Abendessen</span></b> Wir reservieren einen Tisch für alle Teilnehmer:innen des AAS Summits in der "Grünen Papaya" (ca. 5 Minuten Fußweg von der LIT Factory). Das Essen ist von allen Teilnehmer:innen selbst zu bezahlen.<br/><br/>
 
@@ -83,24 +87,32 @@ Die LIT Factory zeigt, wie Datenräume und die AAS in der Praxis zusammenspielen
 <h5><span class="text-success">Tag 2 (26. März) @ Linz Center of Mechatronics</span></h5>
 Der zweite Tag startet mit einer Reihe an Vorträgen, die zeigen, welche Möglichkeiten sich heute schon durch die Interoperabilität in der Produktion mit der AAS ergeben. Am Nachmittag erarbeiten Teilnehmer:innen in 3 parallelen Workshops selbst erste Ergebnisse im Rahmen der AAS.<br/>
 <br/>
-<br/>
-<b><span class="text-success">Was erwartet dich?</span></b>
+<h5><span class="text-success">Was erwartet dich?</span></h5>
+<i>08:30 - 09:00 Uhr: Get-Together + Anmeldung</i><br/>
+<b><span class="text-success">09:00 - 10:30 Uhr: Was ist heute schon möglich mit der AAS?</span></b>
 <ul>
-<li>08:30 - 09:00 Uhr: Get-Together + Anmeldung</li>
-<li>09:00 - 10:00 Uhr: Begrüßung und Keynote von Ruth Markut-Kohl (Engel) und Thomas Sievers (Uhlmann) über die Anwendung der AAS in der Praxis</li>
-<li>10:00 - 10:30 Uhr: Use Cases mit dem ClassCOCKPIT und der twinsphere suite</li>
-<li>10:30 - 11:00 Uhr: Kaffeepause + Networking</li>
-<li>11:00 - 11:30 Uhr: Collaborative Engineering mit der AAS (Markus Kiele-Dunsche, Twindustrial, ehem. Lenze)</li>
+<li>Begrüßung</li>
+<li>Keynote von Ruth Markut-Kohl (Engel) und Thomas Sievers (Uhlmann) über die Anwendung der AAS in der Praxis</li>
+<li>Use Cases mit dem ClassCOCKPIT und der twinsphere suite</li>
+</ul>
+<b><span class="text-success">10:30 - 11:00 Uhr: Kaffee und Netzwerken</span></b><br/><br/>
 
-<li>11:30 - 12:00 Uhr: DPP - Aktueller Stand und Umsetzung mit der AAS (Andreas Herbst - Plattform Industrie 4.0)</li>
-<li>12:00 - 12:30 Uhr: Vom System-Design zum lauffähigen digitalen Zwilling (Thomas Gross - Linz Center of Mechatronics)</li>
-<li>12:30 - 13:00 Uhr: Vom Design-Modell zum Zwilling: Das AAS Exporter Plugin des Enterprise Architect (Philippe Barbie - Fraunhofer IESE) </li>
-<li>13:00 - 14:00 Uhr: Mittagessen + Networking</li>
-<li>14:00 - 16:00 Uhr: Workshop 1 - AAS Potenzialanalyse im Lebenszyklus einer Maschine (Christian Methe - Twindustrial)</li>
-<li>14:00 - 16:00 Uhr: Workshop 2 - Stragegieworkshop End-to-End Prozess für den DPP (Stefan Huffer - MetaLevel)</li>
-<li>14:00 - 16:00 Uhr: Workshop 3 - In 2 Stunden zum intelligenten Geschäftsprozess: die AAS macht's möglich (Rüdiger Fritz - Open Industry 4.0 Alliance)</li>
-<li>16:00 - 16:30 Wrap-Up</li>
-</ul><br/>
+<b><span class="text-success">11:00 - 12:30 Uhr: Datendurchgängigkeit mit der AAS</span></b>
+<ul>
+<li>Collaborative Engineering mit der AAS (Markus Kiele-Dunsche, Twindustrial, ehem. Lenze)</li>
+<li>DPP - Aktueller Stand und Umsetzung mit der AAS (Andreas Herbst - Plattform Industrie 4.0)</li>
+<li>Vom System-Design zum lauffähigen digitalen Zwilling (Thomas Gross - Linz Center of Mechatronics)</li>
+<li>Vom Design-Modell zum Zwilling: Das AAS Exporter Plugin des Enterprise Architect (Philippe Barbie - Fraunhofer IESE) </li>
+</ul>
+
+<b><span class="text-success">13:00 - 14:00 Uhr: Mittagessen und Netzwerken</span></b><br/><br/>
+<b><span class="text-success">14:00 - 16:00 Uhr: Parallele Workshops</span></b>
+<ul>
+<li>Workshop 1 - AAS Potenzialanalyse im Lebenszyklus einer Maschine (Christian Methe - Twindustrial)</li>
+<li>Workshop 2 - Stragegieworkshop End-to-End Prozess für den DPP (Stefan Huffer - MetaLevel)</li>
+<li>Workshop 3 - In 2 Stunden zum intelligenten Geschäftsprozess: die AAS macht's möglich (Rüdiger Fritz - Open Industry 4.0 Alliance)</li>
+</ul>
+<b><span class="text-success">16:00 - 16:30 Wrap-Up</span></b><br/>
 </div>
 </div>
 
