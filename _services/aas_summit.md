@@ -1,6 +1,6 @@
 ---
 layout: page
-title: aas_summit
+title: 1. AAS Summit Linz | 25. und 26. März 2026
 background: white
 ---
 
