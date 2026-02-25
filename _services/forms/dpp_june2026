@@ -127,11 +127,6 @@ background: white
                   <div class="entry__choice" style="">
                     <label>
                       <input /type="radio" name="DATEN_WORKSHOP_DPP" class="input_replaced" value="1" required>
-                      <span class="radio-button" style="margin-left: "></span><span style="font-size:16px; text-align:left; font-family:Helvetica, sans-serif; color:#3C4858; background-color:transparent;">17. Februar 2026, 09:00 - 12:30</span> </label>
-                  </div>
-                  <div class="entry__choice" style="">
-                    <label>
-                      <input /type="radio" name="DATEN_WORKSHOP_DPP" class="input_replaced" value="2" required>
                       <span class="radio-button" style="margin-left: "></span><span style="font-size:16px; text-align:left; font-family:Helvetica, sans-serif; color:#3C4858; background-color:transparent;">11. Juni 2026, 09:00 - 12:30 Earlybird-Preis €400 statt €600</span> </label>
                   </div>
                 </div>
