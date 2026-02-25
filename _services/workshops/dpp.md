@@ -21,7 +21,6 @@ Sie erhalten eine klare Entscheidungsgrundlage: Welche Daten notwendig sind, wel
 <div class="col-md-6">
 <br/>
 <h5><span class="text-success">Termine 2026</span></h5>
-<a class="btn mt-4 align-self-center d-flex align-items-center" href="/forms/dpp_feb2026" style="background:#28a745!important;color:white"><i class="fa fa-solid fa-arrow-right pr-3"></i>Zur Anmeldung für 17. Februar 2026</a>
 <a class="btn mt-4 align-self-center d-flex align-items-center" href="/forms/dpp_june2026" style="background:#28a745!important;color:white"><i class="fa fa-solid fa-arrow-right pr-3"></i>Zur Anmeldung für 11. Juni 2026</a>
 <br/>
 </div>
