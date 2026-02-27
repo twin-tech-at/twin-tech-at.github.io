@@ -130,12 +130,43 @@ Der zweite Tag startet mit einer Reihe an Vorträgen, die zeigen, welche Möglic
 <div class="row">
 <div class="col-md-12">
 <h2><span class="text-success">Teilnahmegebühr</span></h2>
-<i>Hinweis: alle Preisangaben exkl. USt.</i><br/>
-<ul>
-<li><b>Regulärer Preis für beide Tage: € 250</b><br/></li>
-<li>Sonderpreis für Mitglieder des Mechatronik-Clusters oder der Plattform Industrie 4.0 € 200<br/></li>
-<li>Teilnahme für Mitglieder der Open Industry 4.0 Alliance kostenlos<br/></li>
-</ul>
+<i>Hinweis: alle Preisangaben exkl. USt.</i><br/><br/>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10 30px 5px 0px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-7zrl{text-align:center;vertical-align:bottom}
+</style>
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-7zrl"></th>
+    <th class="tg-7zrl">Standard</th>
+    <th class="tg-7zrl">Ermäßigt*</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-7zrl" style="text-align:left">Beide Tage</td>
+    <td class="tg-7zrl" style="text-align:center">€ 250</td>
+    <td class="tg-7zrl">€ 200</td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl">Tag 2</td>
+    <td class="tg-7zrl">€ 200</td>
+    <td class="tg-7zrl">€ 150</td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl">Tag 1</td>
+    <td class="tg-7zrl">€ 50</td>
+    <td class="tg-7zrl">€ 50</td>
+  </tr>
+</tbody>
+</table>
+<br/>
+* Sonderpreis für Mitglieder des Mechatronik-Clusters oder der Plattform Industrie 4.0 € 200<br/>
+* Teilnahme für Mitglieder der Open Industry 4.0 Alliance kostenlos<br/>
+
 <b>Anmeldeschluss: 2. März 2026</b>
 
 
