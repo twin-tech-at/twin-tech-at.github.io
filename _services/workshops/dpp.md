@@ -17,6 +17,7 @@ Sie erhalten eine klare Entscheidungsgrundlage: Welche Daten notwendig sind, wel
 <br/>
 </div>
 <div class="col-md-4"> <img src="..\..\assets\img\stockimages\workshops.jpg" class="img-fluid" style="max-width: 100%;"></div>
+</div>
 <div class="row">
 <div class="col-md-6">
 <br/>
@@ -29,6 +30,7 @@ Sie erhalten eine klare Entscheidungsgrundlage: Welche Daten notwendig sind, wel
 <h5><span class="text-success">Kein passender Termin dabei?</span></h5>
 <p>Kontaktiere uns gerne für deinen individuellen Inhouse-Termin!</p>
 <p><a href="mailto:office@twin-tech.at"><span class="text-success">office@twin-tech.at</span></a></p>
+</div>
 </div>
 <div class="row">
 <div class="col-md-12">
