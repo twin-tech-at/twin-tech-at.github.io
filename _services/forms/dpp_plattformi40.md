@@ -98,7 +98,8 @@ background: white
         </div>
         <div style="padding: 8px 0;">
           <div class="sib-form-block" style="font-size:16px; text-align:left; font-family:Helvetica, sans-serif; color:#3C4858; background-color:transparent; text-align:left">
-          <b style="color:red">Der Workshop ist ausgebucht - Anmeldung leider nicht mehr möglich"</b>
+          <b style="color:red">Der Workshop ist ausgebucht - Anmeldung leider nicht mehr möglich"</b><br/>
+          <b>Aktuell können Sie sich jedoch noch den Early-Bird Preis für unseren nächsten kostenpflichtigen Termin am 11. Juni sichern: <a href="https://twin-tech.at/workshops/dpp/">https://twin-tech.at/workshops/dpp/</a></b><br/><br/><br/>
             <div class="sib-text-form-block">
               <p>Der Digitale Produktpass (DPP) wird für viele Branchen zum verbindlichen Standard – und damit zum entscheidenden Faktor für Marktzugang, Compliance und Wettbewerbsfähigkeit. In diesem Workshop erarbeiten wir gemeinsam, welche Aspekte Sie auf dem Weg zum DPP in Ihrem Unternehmen beachten müssen.</p>
             </div>
