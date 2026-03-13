@@ -93,7 +93,7 @@ Der zweite Tag startet mit einer Reihe an Vorträgen, die zeigen, welche Möglic
 <ul>
 <li>Begrüßung</li>
 <li>Keynote von Ruth Markut-Kohl (Engel) und Thomas Sievers (Uhlmann) über die Anwendung der AAS in der Praxis</li>
-<li>Use Cases mit dem ClassCOCKPIT und der twinsphere suite</li>
+<li>Ohne saubere Klassifikation kein nutzbarer Digitaler Zwilling: Wie strukturierte Produktdaten mit ClassCOCKPIT und twinsphere suite nutzbar werden</li>
 </ul>
 <b><span class="text-success">10:30 - 11:00 Uhr: Kaffee und Netzwerken</span></b><br/><br/>
 
