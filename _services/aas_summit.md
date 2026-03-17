@@ -67,7 +67,8 @@ Die LIT Factory zeigt, wie Datenräume und die AAS in der Praxis zusammenspielen
 <i>14:45 - 15:00 Uhr: Get-Together + Anmeldung</i><br/>
 <b><span class="text-success">15:00 - 16:30 Uhr: Vorträge AAS + Datenräume</span></b>
 <ul>
-<li>Begrüßung und Keynote (TBA)</li>
+<li>Begrüßung</li>
+<li>Keynote von Mario Drobics (Austrian Institute of Technology) zur Anwendung von Datenräumen für souveräne Künstliche Intelligenz und digitalen Produktpässen</li>
 <li>Vorstellung der Open-Source AAS.TwinEngine</li>
 <li>Datenraum AMIDS</li>
 <li>Teilnahmemöglichkeiten am Datenraum AMIDS</li>
