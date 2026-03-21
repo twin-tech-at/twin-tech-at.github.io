@@ -179,6 +179,26 @@ Der zweite Tag startet mit einer Reihe an Vorträgen, die zeigen, welche Möglic
 
 <br/><br/>
 <div class="container">
+  <div class="row">
+    <div class="col-md-12">
+      <h5><span class="text-success">Veranstaltungsort</span></h5>
+      Beide Tage finden am Campus der Johannes Kepler Universität statt. Adresse: Altenberger Straße 69, 4040 Linz.<br/>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-12">
+      <h6><span class="text-success">Tag 1: Stufensaal des Open Innovation Centers. <br/> Lageplan:</span></h6>
+      <img alt="Beschreibungsbild AAS Summit" src="..\assets\img\directions_tag1.png" class="img-fluid" style="max-width: 100%;"/>
+    </div>
+    <div class="col-md-12">
+      <h6><span class="text-success">Tag 2: Linz Center of Mechatrornics. Science Park 1, 2. Stock. <br/>Lageplan:</span></h6>
+      <img alt="Beschreibungsbild AAS Summit" src="..\assets\img\directions_tag2.png" class="img-fluid" style="max-width: 100%;"/>
+    </div>
+  </div>
+</div>
+
+<br/><br/>
+<div class="container">
 <div class="row">
 <div class="col-md-12">
 <h5><span class="text-success">Anreise</span></h5>
