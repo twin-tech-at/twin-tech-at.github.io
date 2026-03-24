@@ -79,7 +79,7 @@ Die LIT Factory zeigt, wie Datenräume und die AAS in der Praxis zusammenspielen
 <li>Use Case I: Co-Design und Co-Development</li>
 <li>Use Case II: Datenaustausch entlang der Wertschöpfungskette (Demos in LIT Factory)</li>
 </ul>
-<b><span class="text-success">19:00 - 23:00: Gemeinsames Abendessen</span></b> Wir reservieren einen Tisch für alle Teilnehmer:innen des AAS Summits in der "Grünen Papaya" (ca. 5 Minuten Fußweg von der LIT Factory). Das Essen ist von allen Teilnehmer:innen selbst zu bezahlen.<br/><br/>
+<b><span class="text-success">19:00 - 23:00: Gemeinsames Abendessen</span></b> Wir reservieren einen Tisch für alle Teilnehmer:innen des AAS Summits im "Josef" (<a href="https://josef.eu/">https://josef.eu/</a>). Das Essen ist von allen Teilnehmer:innen selbst zu bezahlen.<br/><br/>
 
 
 </div>
