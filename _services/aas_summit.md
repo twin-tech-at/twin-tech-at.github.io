@@ -81,7 +81,6 @@ Die LIT Factory zeigt, wie Datenräume und die AAS in der Praxis zusammenspielen
 </ul>
 <b><span class="text-success">19:00 - 23:00: Gemeinsames Abendessen</span></b> Wir reservieren einen Tisch für alle Teilnehmer:innen des AAS Summits im "Josef" (<a href="https://josef.eu/">https://josef.eu/</a>). Das Essen ist von allen Teilnehmer:innen selbst zu bezahlen.<br/><br/>
 
-
 </div>
 
 <div class="col-md-6">
