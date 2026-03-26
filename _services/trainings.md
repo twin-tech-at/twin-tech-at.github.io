@@ -18,9 +18,9 @@ background: white
 <div class="row align-left">
 <div class="col-md-12">
 <h3>Unsere Trainingsliste</h3>
- <a class="btn mt-4 align-self-center d-flex align-items-center" href="/trainings_management.pdf" style="background:#28a745!important; color:white; width:70%"><i class="fa fa-solid fa-arrow-right pr-3"></i><span class="text">Zu unseren Hands-On Trainings für Software Entwickler:innen<br/>  </span></a>
+ <a class="btn mt-4 align-self-center d-flex align-items-center" href="/trainings_se.pdf" style="background:#28a745!important; color:white; width:70%"><i class="fa fa-solid fa-arrow-right pr-3"></i><span class="text">Zu unseren Hands-On Trainings für Software Entwickler:innen<br/>  </span></a>
 
- <a class="btn mt-4 align-self-center d-flex align-items-center" href="/trainings_se.pdf" style="background:#28a745!important; color:white; width:70%"><i class="fa fa-solid fa-arrow-right pr-3"></i><span class="text">Zu unseren Management Workshops<br/>  </span></a>
+ <a class="btn mt-4 align-self-center d-flex align-items-center" href="/trainings_management.pdf" style="background:#28a745!important; color:white; width:70%"><i class="fa fa-solid fa-arrow-right pr-3"></i><span class="text">Zu unseren Management Workshops<br/>  </span></a>
  <br/><br/>
 </div>
 </div>
