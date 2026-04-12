@@ -22,8 +22,9 @@ In diesem Workshop starten wir gemeinsam mit der Erstellung der ersten AAS. Nebe
 <div class="row">
 <div class="col-md-6">
 <h5><span class="text-success">Termine 2026</span></h5>
-<a class="btn mt-4 align-self-center d-flex align-items-center" href="/forms/quickwins_apr2026" style="background:#28a745!important;color:white"><i class="fa fa-solid fa-arrow-right pr-3"></i>Zur Anmeldung für 28. April 2026<br/>Early-Bird Preis: € 400 statt € 600</a>
+<a class="btn mt-4 align-self-center d-flex align-items-center" href="/forms/quickwins_apr2026" style="background:#28a745!important;color:white"><i class="fa fa-solid fa-arrow-right pr-3"></i>Zur Anmeldung für 17. Juni 2026, Online<br/>Early-Bird Preis: € 400 statt € 600</a>
 <br/>
+<a class="btn mt-4 align-self-center d-flex align-items-center" href="/forms/quickwins_apr2026" style="background:#28a745!important;color:white"><i class="fa fa-solid fa-arrow-right pr-3"></i>Zur Anmeldung für 18. Juni 2026, Linz<br/>Early-Bird Preis: € 400 statt € 600</a>
 </div>
 <div class="col-md-6">
 <h5><span class="text-success">Kein passender Termin dabei?</span></h5>
@@ -33,6 +34,7 @@ In diesem Workshop starten wir gemeinsam mit der Erstellung der ersten AAS. Nebe
 </div>
 <div class="row">
 <div class="col-md-12">
+<br/>
 <h5><span class="text-success">Inhalte</span></h5>
 <ul>
 <li><b><span class="text-success">Was ist die AAS, und warum sollte ich mich damit beschäftigen?</span></b> Einführung in das Thema AAS und Diskussion, warum die AAS die Basis für effiziente Digitalisierung ist.</li>

@@ -165,12 +165,7 @@ background: white
                   <div class="entry__choice" style="">
                     <label>
                       <input /type="radio" name="DATEN_WORKSHOP_PM" class="input_replaced" value="1" required>
-                      <span class="radio-button" style="margin-left: "></span><span style="font-size:16px; text-align:left; font-family:Helvetica, sans-serif; color:#3C4858; background-color:transparent;">25. Februar 2026 09:00 - 17:00</span> </label>
-                  </div>
-                  <div class="entry__choice" style="">
-                    <label>
-                      <input /type="radio" name="DATEN_WORKSHOP_PM" class="input_replaced" value="2" required>
-                      <span class="radio-button" style="margin-left: "></span><span style="font-size:16px; text-align:left; font-family:Helvetica, sans-serif; color:#3C4858; background-color:transparent;">23. Juni 2026 09:00 - 17:00 Early-Bird Preis: €600 statt €900</span> </label>
+                      <span class="radio-button" style="margin-left: "></span><span style="font-size:16px; text-align:left; font-family:Helvetica, sans-serif; color:#3C4858; background-color:transparent;">16. Juni 2026 09:00 - 17:00 Early-Bird Preis: €600 statt €900</span> </label>
                   </div>
                 </div>
               </div>
