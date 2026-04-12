@@ -21,8 +21,7 @@ Sie erarbeiten Ihr eigenes Beispielprojekt, mit dem Sie im Anschluss an die Schu
 <div class="row">
 <div class="col-md-6">
 <h5><span class="text-success">Termine 2026</span></h5>
-<a class="btn mt-4 align-self-center d-flex align-items-center" href="/forms/pm_feb2026" style="background:#28a745!important;color:white"><i class="fa fa-solid fa-arrow-right pr-3"></i>Zur Anmeldung für 25. Februar 2026</a>
-<a class="btn mt-4 align-self-center d-flex align-items-center" href="/forms/pm_jun2026" style="background:#28a745!important;color:white"><i class="fa fa-solid fa-arrow-right pr-3"></i>Zur Anmeldung für 23. Juni 2026</a>
+<a class="btn mt-4 align-self-center d-flex align-items-center" href="/forms/pm_jun2026" style="background:#28a745!important;color:white"><i class="fa fa-solid fa-arrow-right pr-3"></i>Zur Anmeldung für 23. Juni 2026<br/>Early-Bird Preis: € 600 statt € 900</a>
 <br/>
 </div>
 <div class="col-md-6">

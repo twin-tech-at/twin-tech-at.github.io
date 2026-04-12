@@ -22,8 +22,7 @@ In diesem Workshop starten wir gemeinsam mit der Erstellung der ersten AAS. Nebe
 <div class="row">
 <div class="col-md-6">
 <h5><span class="text-success">Termine 2026</span></h5>
-<a class="btn mt-4 align-self-center d-flex align-items-center" href="/forms/quickwins_feb2026" style="background:#28a745!important;color:white"><i class="fa fa-solid fa-arrow-right pr-3"></i>Zur Anmeldung für 10. Februar 2026</a>
-<a class="btn mt-4 align-self-center d-flex align-items-center" href="/forms/quickwins_apr2026" style="background:#28a745!important;color:white"><i class="fa fa-solid fa-arrow-right pr-3"></i>Zur Anmeldung für 28. April 2026</a>
+<a class="btn mt-4 align-self-center d-flex align-items-center" href="/forms/quickwins_apr2026" style="background:#28a745!important;color:white"><i class="fa fa-solid fa-arrow-right pr-3"></i>Zur Anmeldung für 28. April 2026<br/>Early-Bird Preis: € 400 statt € 600</a>
 <br/>
 </div>
 <div class="col-md-6">
