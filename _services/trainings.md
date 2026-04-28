@@ -38,7 +38,10 @@ background: white
 <div class="row align-left">
       <div class="col-md-8 align-middle">
         <h4>Besser und Schneller im IoT mit KI und digitalen Zwillingen</h4>
-<b>Zur Buchung: <a href="https://www.comconsult.com/seminar-iot-ki-digitale-zwillinge/" target="_blank">https://www.comconsult.com/seminar-iot-ki-digitale-zwillinge</a></b><br/>
+        In diesem Seminar vermitteln wir in zwei Tagen die nötigen Grundlagen, um schnell und effizient innovative Lösungen im IoT mithilfe von KI und digitalen Zwillingen zu programmieren.
+Sie lernen dabei hautnah die wichtigsten Technologien kennen und entwickeln selbst erste Anwendungen. Im nächsten Schritt verknüpfen Sie die erstellte Software mit digitalen Zwillingen schnell und einfach mit laufenden IoT-Geräten.
+Außerdem wird es ausreichend Zeit für Fragen sowie individuelle Problemstellungen geben. Als Ergebnis des Workshops nehmen Sie ihr selbst entwickeltes Projekt mit nach Hause, um im Anschluss direkt mit der Umsetzung eigener KI-Anwendungen starten zu können.
+
       </div>
 <div class="col-md-4 text-left">
        <img src="..\assets\img\stockimages\lock.jpg" class="img-fluid" style="max-width: 100%;">
@@ -48,9 +51,7 @@ background: white
 <div class="row align-left">
 <div class="col-md-12 text-left">
 <br/>
-In diesem Seminar vermitteln wir in zwei Tagen die nötigen Grundlagen, um schnell und effizient innovative Lösungen im IoT mithilfe von KI und digitalen Zwillingen zu programmieren.
-Sie lernen dabei hautnah die wichtigsten Technologien kennen und entwickeln selbst erste Anwendungen. Im nächsten Schritt verknüpfen Sie die erstellte Software mit digitalen Zwillingen schnell und einfach mit laufenden IoT-Geräten.
-Außerdem wird es ausreichend Zeit für Fragen sowie individuelle Problemstellungen geben. Als Ergebnis des Workshops nehmen Sie ihr selbst entwickeltes Projekt mit nach Hause, um im Anschluss direkt mit der Umsetzung eigener KI-Anwendungen starten zu können.
+<b>Zur Buchung: <a href="https://www.comconsult.com/seminar-iot-ki-digitale-zwillinge/" target="_blank">https://www.comconsult.com/seminar-iot-ki-digitale-zwillinge</a></b><br/>
 </div>
 </div>
 <br/><br/>
