@@ -5,7 +5,7 @@ background: white
 ---
 
 <div class="col-lg-12 text-center">
-	<h2 class="section-heading text-uppercase">Trainingsprogramm 2025</h2>
+	<h2 class="section-heading text-uppercase">Trainingsprogramm 2026</h2>
 <br/>
 </div>
 
