@@ -1,110 +1,38 @@
 <!-- Team -->
-<section class="px-4 px-md-2 bg-light page-section" id="team">
-<div class="container">
-  <div class="row">
-	<div class="col-lg-12 text-center">
-	  <h2 class="section-heading text-uppercase">{{ site.data.sitetext[site.locale].team.title }}</h2>
-	  <h3 class="section-subheading text-muted">{{ site.data.sitetext[site.locale].team.text }}</h3>
-	</div>
-  </div>
-  <div class="row d-flex justify-content-center">
-  {% for person in site.people %}
-	<div class="col-sm-4">
-	  <div class="team-member">
-		<img class="mx-auto rounded-circle" src="{{ person.image }}" alt="">
-		<h4>{{ person.name }}</h4>
-		<p class="text-muted">{{ person.role }}</p>
-		<ul class="text-left">
-			{% for text in person.cv %}
-			<li>{{ text.text }}</li>
+<section class="px-4 px-md-2 page-section" id="team">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12 text-center">
+				<h2 class="section-heading text-uppercase">Die Personen hinter TwinTech</h2>
+				<h3 class="section-subheading text-muted">Was uns vereint? Die Begeisterung dafür, Innovation greifbar
+					zu
+					machen!</h3>
+			</div>
+		</div>
+		<div class="row d-flex justify-content-center">
+			{% for person in site.people %}
+			<div class="col-sm-4">
+				<div class="team-member">
+					<img class="mx-auto rounded-circle" src="{{ person.image }}" alt="">
+					<h4>{{ person.name }}</h4>
+					<p class="text-muted">{{ person.role }}</p>
+					<ul class="text-left">
+						{% for text in person.cv %}
+						<li>{{ text.text }}</li>
+						{% endfor %}
+					</ul>
+					<ul class="list-inline social-buttons">
+						{% for network in person.social %}
+						<li class="list-inline-item">
+							<a href="{{ network.url }}" target="_blank">
+								<i class="{{ network.icon }}"></i>
+							</a>
+						</li>
+						{% endfor %}
+					</ul>
+				</div>
+			</div>
 			{% endfor %}
-		</ul>
-		<ul class="list-inline social-buttons">
-		{% for network in person.social %}
-		  <li class="list-inline-item">
-			<a href="{{ network.url }}" target="_blank">
-			  <i class="{{ network.icon }}"></i>
-			</a>
-		  </li>
-		{% endfor %}
-		</ul>
-	  </div>
-	</div>
-  {% endfor %}
-  </div>
-  <!-- End Team -->
+		</div>
+		<!-- End Team -->
 </section>
-  <section class="px-4 px-md-2 page-section" id="memberships">
-   <!-- Start Memberships -->
-  <div class="row">
-	<div class="col-lg-12 text-center">
-	  <h2 class="section-heading text-uppercase">Memberships</h2>
-	  <h3 class="section-subheading text-muted">We provide our customers with latest insights and from and connections to the following organizations</h3>
-	</div>
-  </div>
-  <div class="row d-flex justify-content-center">
-	<div class="col-sm-2">
-		<img class="img-fluid" style="max-width: 100%;" src="assets/img/logos/oi.png" alt="Open Industry 4.0 Alliance"/>
-	</div>
-	<div class="col-sm-2">
-		<img class="img-fluid" style="max-width: 100%;" src="assets/img/logos/mc.png" alt="Mechatronikcluster Oberösterreich"/>
-	</div>
-</div>
-<!-- End Memberships -->
-<!-- Start Tool Partners -->
-<div class="row">
-	<div class="col-lg-12 text-center">
-		<br/><br/>
-	  <h2 class="section-heading text-uppercase">Tool Partners</h2>
-	  <h3 class="section-subheading text-muted">We offer direct access, trainings and support in close cooperation with our tool partners.</h3>
-	</div>
-</div>
-<div class="row" id="scrolling-clients">
-	<div class="col-sm-4">
-		<img class="img-fluid" style="max-width: 100%;" src="assets/img/logos/metalevel.png" alt="Meta-Level GmbH"/>
-	</div>
-	<div class="col-sm-4">
-		<img class="img-fluid" style="max-width: 100%;" src="assets/img/logos/lieberlieber.png" alt="LieberLieber Software GmbH"/>
-	</div>
-	<div class="col-sm-4">
-		<img class="img-fluid" style="max-width: 100%;" src="assets/img/logos/traeger.svg" alt="Traeger GmbH"/>
-	</div>
-	<div class="col-sm-4">
-		<img class="img-fluid" style="max-width: 100%;" src="assets/img/logos/conplement.png" alt="Conplement AG"/>
-	</div>
-	<div class="col-sm-4">
-		<img class="img-fluid" style="max-width: 100%;" src="assets/img/logos/twindustrial.png" alt="Twindustrial GmbH"/>
-	</div>
-	<div class="col-sm-4">
-		<img class="img-fluid" style="max-width: 100%;" src="assets/img/logos/tomorrowthings.png" alt="TomorrowThings GmbH"/>
-	</div>
-</div>
-<!-- End Tool Partners -->
-<!-- Start Implementation Partners -->
-<div class="row">
-	<div class="col-lg-12 text-center">
-		<br/><br/>
-	  <h2 class="section-heading text-uppercase">Implementation Partners</h2>
-	  <h3 class="section-subheading text-muted">To scale your ideas to production-ready solutions, we rely on our implementation partners</h3>
-	</div>
-</div>
-<div class="row" id="scrolling-clients" >
-	<div class="col-sm-4">
-		<img class="img-fluid" style="max-width: 100%;" src="assets/img/logos/xitaso.png" alt="XITASO GmbH"/>
-	</div>
-	<div class="col-sm-4">
-		<img class="img-fluid" style="max-width: 100%;" src="assets/img/logos/dtf.svg" alt="Digital Twin Factory GmbH"/>
-	</div>
-	<div class="col-sm-4">
-		<img class="img-fluid" style="max-width: 100%;" src="assets/img/logos/dd.png" alt="Danube Dynamics"/>
-	</div>
-	<div class="col-sm-4">
-		<img class="img-fluid" style="max-width: 100%;" src="assets/img/logos/dccx.png" alt="DCCX GmbH"/>
-	</div>
-	<div class="col-sm-4">
-		<img class="img-fluid" style="max-width: 100%;" src="assets/img/logos/twindustrial.png" alt="Twindustrial GmbH"/>
-	</div>
-</div>
-<!-- End Implementation Partners -->
-</section>
-

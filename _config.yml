@@ -56,9 +56,9 @@ people:
       - url: https://www.linkedin.com/in/daniel-lehner-95710a71/
         icon: fab fa-linkedin-in
     cv:
-      - text: Spent the last 5 years <br/>investigating and developing <br/><b><span class="text-success">Digital Twin platforms</span></b>
-      - text: Organizer of the <br/><b><a href="https://edt.community/"><span class="text-success">Engineering Digital Twins Community</span></a></b>
-      - text: Articles with <b><span class="text-success"> > 150.000 readers</span></b> in heise iX, informatik aktuell, coders kitchen, …
+      - text: Treibt seit über 5 Jahren den aktuellen Stand der <b><span class="text-success">Digitalisierung in Österreich und Deutschland</span></b> voran</b>
+      - text: Co-Organisator der <br/><b><a href="https://edt.community/"><span class="text-success">Engineering Digital Twins Community</span></a></b>
+      - text: Artikel mit <b><span class="text-success"> > 150.000 Leser:innen</span></b> in heise iX, informatik aktuell, coders kitchen, …
   - name: "Dr. Stefan Klikovits"
     role: The Tech Enthusiast
     image: assets/img/team/StefanKlikovits.jpg
@@ -70,9 +70,9 @@ people:
       - url: https://www.linkedin.com/in/stefan.klikovits
         icon: fab fa-linkedin-in
     cv:
-      - text: 15+ years of <b><span class="text-success">V&V</span></b> of <b><span class="text-success">Large, Complex & Distributed CPSs</span></b>
-      - text: Pushing the boundaries of <b><span class="text-success">Digital Twins, MDE, Autonomous Driving</span></b> and <b><span class="text-success">Quantum SE</span></b> research
-      - text: <b><span class="text-success">12+ years of international experience</span></b> at CERN, BBC, and National Institute of Informatics (Tokyo)
+      - text: 15+ Jahre an Erfahrung in <b><span class="text-success">V&V</span></b> von <b><span class="text-success">großen und komplexen cyber-physichen Systemen</span></b>
+      - text: Versetzt täglich die Grenzen zwischen <b><span class="text-success">digitalen Zwillingen, MDE, autonomem Fahren</span></b> und <b><span class="text-success">Quantum SE</span></b> neu
+      - text: <b><span class="text-success">12+ Jahre an internationaler Erfahrung</span></b> an CERN, BBC, und National Institute of Informatics (Tokyo)
   - name: Martin Eisenberg
     role: The AI Guy
     image: assets/img/team/martin_eisenberg.jpeg
@@ -82,8 +82,8 @@ people:
       - url: https://www.linkedin.com/in/martin-eisenberg-45b224245/
         icon: fab fa-linkedin-in
     cv:
-      - text: Worked the last 4 years on implementing AI use cases
-      - text: Tames Neural Networks and Genetic Algorithms for breakfast
+      - text: Implementiert seit <b><span class="text-success">5+ Jahren KI Projekte</span></b>
+      - text: Bändigt <b><span class="text-success">Neuronale Netze und Genetische Algorithmen</span></b> zum Frühstück
   - name: Edvin Herac
     role: Systems and Complexity Manager
     image: assets/img/team/edvin_herac.png
@@ -93,9 +93,9 @@ people:
       - url: https://www.linkedin.com/in/edvin-herac-946b382bb/
         icon: fab fa-linkedin-in
     cv:
-      - text: 5 years of taming complex systems through version and variant management
-      - text: 10+ years of experience in software engineering with ERP, PDM and CAD systems
-      - text: Manages cross-functional teams
+      - text: bändigt seit 5+ Jahren komplexe Systeme durch Versions- und Varianten-Management
+      - text: 10+ Jahre an Erfahrung in Software-Entwicklung mit ERP. PDM und CAP Systemen
+      - text: Managed interdisziplinäre Teams
   - name: Prof. Reinhold Plösch
     role: Innovation and Funding Advisor
     image: assets/img/team/reinhold_ploesch.jpg
@@ -105,9 +105,9 @@ people:
       - url: https://www.linkedin.com/in/reinhold-pl%C3%B6sch-2b969a41/
         icon: fab fa-linkedin-in
     cv:
-     - text: Combines Large Language Models with traditional Quality Assurance techniques in his daily work
-     - text: Academic director of IPO (knowledge transfer hub in Upper Austria)
-     - text: Headed multiple international projects with partners including Siemens, Capgemini, and SAP
+     - text: Kombiniert Large Language Models mit traditioneller Qualitätssicherung in seiner täglichen Arbeit
+     - text: Akademischer Leiter des IPO (Hub für Wissenstransfer in Oberösterreich)
+     - text: Leiter internationaler Projekte mit Partnern wie Siemens, Capgemini und SAP
   - name: "Prof. Dr. Manuel Wimmer"
     role: "Scientific Advisor"
     image: assets/img/team/ManuelWimmer.png
@@ -115,9 +115,9 @@ people:
       - url: https://se.jku.at/manuel-wimmer/
         icon: fa fa-university
     cv: 
-      - text: <b><span class="text-success">20+ years of experience</span></b> in advancing the practice of software engineering through science
-      - text: "publications with <b><span class='text-success'>> 10.000 Citations</span></b>"
-      - text: Author of <b><a href="https://mdse-book.com/"><span class="text-success">"MDSE in Practice"</span></a></b>
+      - text: <b><span class="text-success">20+ Jahre Erfahrung</span></b> in der Weiterentwicklung von Software Engineering Praktiken durch industrienahe Forschung
+      - text: "Publikationen mit <b><span class='text-success'>> 10.000 Zitationen</span></b>"
+      - text: Autor von <b><a href="https://mdse-book.com/"><span class="text-success">"MDSE in Practice"</span></a></b>
 
 memberships:
   - name: "Open Industry 4.0 Alliance"
