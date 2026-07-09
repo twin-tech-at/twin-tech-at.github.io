@@ -10,14 +10,15 @@
 # English (default)
 # -----------------
 en: &DEFAULT_EN
-  mission: "Mission"
-  portfolio: "Services"
-  challenges: "Challenges"
+  mission: "Start"
+  #challenges: ""
+  portfolio: "Was bieten wir?"
+  
 #  about: "About"
 #  timeline: "Timeline"
   team: "Team"
 #  partners: "Partners"
-  contact: "Contact"
+  contact: "Kontakt"
 en-US:
   <<: *DEFAULT_EN
 en-CA:

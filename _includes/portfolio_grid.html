@@ -1,44 +1,59 @@
 <!-- Portfolio Grid -->
-<section class="px-4 px-md-2 page-section" id="portfolio">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12 text-center">
-        <h2 class="section-heading text-uppercase">{{ site.data.sitetext[site.locale].portfolio.title | markdownify | default: "Our Partners" }}</h2>
-        <h3 class="section-subheading text-muted">{{ site.data.sitetext[site.locale].portfolio.text | markdownify }}</h3>
-      </div>
-    </div>
-    <div class="row">
-	{% for project in site.portfolio %}
-      <div class="col-md-4 col-sm-6 portfolio-item">
-        <a class="portfolio-link">
-         <!--<div class="portfolio-hover">
-            <div class="portfolio-hover-content">
-              <i class="{{ site.data.style.portfolio-icon | default: "fas fa-plus fa-3x" }}"></i>
-            </div>
-          </div> -->
-          <img class="img-fluid" src="{{ project.caption.thumbnail }}" alt="">
-        </a>
-        <div class="portfolio-caption">
-          <h4>{{ project.caption.title }}</h4>
-          <p class="text-muted">{{ project.caption.subtitle }}</p>
-          <ul class="fa-ul">
-            {% for item in project.caption.items %}
-            <li><span class="fa-li"><i class="fa fa-solid fa-long-arrow-alt-right"></i></span>{{ item }}</li>
-            {% endfor %}
-          </ul>
-          {% if project.buttons.header%}
-          <h4>{{project.buttons.header}}</h4>
-          {% endif %}
-          {% for item in project.buttons.items %}
-          {{item}}
-          {% endfor %}
+<section class="px-4 px-md-2 bg-light page-section" id="portfolio">
+  <div class="row">
+    <div class="col-md-5">
+      <h2>Unser Angebot für Manager:innen</h2>
+      <div class="row">
+        <div class="col-md-6">
+          <img src=" /workshops/az.png"
+            style="width: 16px; height: 16px; margin-right: 8px; vertical-align: middle;" />Unsere Potenzial-Analyse
+          entlang des Lebenszyklus Deines Produktes zeigt dir, ...
+        </div>
+        <div class="col-md-6 d-flex align-items-center">
+          <a class="btn align-self-center d-flex align-items-center text-left" href="/forms/aas_summit_registration"
+            style="background:#28a745!important;max-width: 100%;color:white;text-align:left;"><i
+              class="fa fa-solid fa-arrow-right pr-3"></i>Details zur Potenzial-Analyse</a>
         </div>
       </div>
-	{% endfor %}
-    </div>
-
+      <br />
+      <div class="row">
+        <div class="col-md-6">
+          <img src=" /workshops/az.png"
+            style="width: 16px; height: 16px; margin-right: 8px; vertical-align: middle;" />Mit unseren
+        </div>
+        <div class="col-md-6 d-flex align-items-center">
+          <a class="btn align-self-center d-flex align-items-center text-left" href="/forms/aas_summit_registration"
+            style="background:#28a745!important;max-width: 100%;color:white;text-align:left;"><i
+              class="fa fa-solid fa-arrow-right pr-3"></i>Details zur Potenzial-Analyse</a>
+        </div>
       </div>
-
+      <br />
+      <div class="row">
+        <div class="col-md-6">
+          <img src=" /workshops/az.png"
+            style="width: 16px; height: 16px; margin-right: 8px; vertical-align: middle;" />Mit unseren
+        </div>
+        <div class="col-md-6 d-flex align-items-center">
+          <a class="btn align-self-center d-flex align-items-center text-left"
+            href="https://tecnovy.com/de/tecnovy/certified-ai-manager"
+            style="background:#28a745!important;max-width: 100%;color:white;text-align:left;"><i
+              class="fa fa-solid fa-arrow-right pr-3"></i>Details zur Potenzial-Analyse</a>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-5">
+      <h2>Unser Angebot für Software Entwickler:innen</h2>
+      <ul style="list-style: none; padding-left: 0; text-align: left; margin-top: 15px;">
+        <li style="margin-bottom: 8px;"><i class="fa fa-solid fa-arrow-right"
+            style="color: #9BC961; margin-right: 8px;"></i>Upcoming Trainings</li>
+        <li style="margin-bottom: 8px;"><i class="fa fa-solid fa-arrow-right"
+            style="color: #9BC961; margin-right: 8px;"></i></li>
+        <li style="margin-bottom: 8px;"><i class="fa fa-solid fa-arrow-right"
+            style="color: #9BC961; margin-right: 8px;"></i></li>
+      </ul>
+    </div>
   </div>
+
+
 </section>
 {% include modals.html %}
