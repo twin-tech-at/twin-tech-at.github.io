@@ -11,8 +11,10 @@
 # -----------------
 en: &DEFAULT_EN
   mission: "Start"
-  #challenges: ""
+  
   portfolio: "Was bieten wir?"
+
+  challenges: "Wofür stehen wir?"
   
 #  about: "About"
 #  timeline: "Timeline"
