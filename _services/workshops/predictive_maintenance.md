@@ -4,82 +4,111 @@ title: workshop_predictivemaintenance
 background: white
 ---
 
-
 <br/>
 <div class="container">
-<div class="row align-left">
-<div class="col-md-8 align-left">
-<h2 class="section-heading">Predictive Maintenance skalieren mit digitalen Zwillingen</h2><br/>
-Dieses Training bringt dir praxisnah das Thema Predictive Maintenance näher. Neben einer Einführung in das Thema Predictive Maintenance und die nötigen KI-Grundlagen lernen Sie auch, wie Sie mit digitalen Zwillingen Innovationen wie Predictive Maintenance skalierbar betreiben. 
-Sie erarbeiten Ihr eigenes Beispielprojekt, mit dem Sie im Anschluss an die Schulung direkt mit dem Einsatz im eigenen Unternehmen starten können.<br/>
-</div>
-<div class="col-md-4">
-<img src="..\..\assets\img\stockimages\chess.jpg" class="img-fluid" style="max-width: 100%;">
-</div>
-</div>
-<br/>
-<div class="row">
-<div class="col-md-6">
-<h5><span class="text-success">Termine 2026</span></h5>
-<a class="btn mt-4 align-self-center d-flex align-items-center" href="/forms/pm_jun2026" style="background:#28a745!important;color:white"><i class="fa fa-solid fa-arrow-right pr-3"></i>Zur Anmeldung für 16. Juni 2026, Online<br/>Early-Bird Preis: € 600 statt € 900</a>
-<br/>
-</div>
-<div class="col-md-6">
-<h5><span class="text-success">Kein passender Termin dabei?</span></h5>
-<p>Kontaktiere uns gerne für deinen individuellen Inhouse-Termin!</p>
-<p><a href="mailto:office@twin-tech.at"><span class="text-success">office@twin-tech.at</span></a></p>
-</div>
-</div>
-<div class="row">
-<div class="col-md-12">
-<h5><span class="text-success">Verwendete Technologien und Tools</span></h5>
-<ul>
-<li>Digitale Zwillinge</li>
-<ul>
-  <li>OPC UA und das OPC UA SDK von Traeger für das Konsumieren von Maschinendaten</li>
-  <li>Asset Administration Shell (AAS) und die AAS Suite von MetaLevel für die Repräsentation semantischer Daten in der Cloud</li>
-</ul>
-<li>Künstliche Intelligenz</li>
-<ul>
-  <li>Unüberwachtes Maschinelles Lernen für Anomalieerkennung</li>
-</ul>
-</ul>
+  <!-- Hero Section -->
+  <section class="px-4 px-md-2 page-section" id="predictive-hero">
+    <div class="row align-items-center mb-5">
+      <div class="col-md-8">
+        <h2 class="section-heading">Predictive Maintenance skalieren mit digitalen Zwillingen</h2>
+        <p class="mt-3">
+          Dieses Training bringt dir praxisnah das Thema Predictive Maintenance näher. Neben einer Einführung in das Thema und den nötigen KI‑Grundlagen lernst du, wie du mit digitalen Zwillingen Innovationen wie Predictive Maintenance skalierbar betreibst.
+        </p>
+        <p>
+          Du erarbeitest dein eigenes Beispielprojekt, sodass du nach dem Workshop sofort im eigenen Unternehmen starten kannst.
+        </p>
+      </div>
+      <div class="col-md-4">
+        <img src="../../assets/img/stockimages/chess.jpg" class="img-fluid rounded" style="max-width:100%;" alt="Predictive Maintenance">
+      </div>
+    </div>
+  </section>
 
-<h5><span class="text-success">Inhalte</span></h5>
-<ul>
-<li>Einführung Predictive Maintenance</li>
-<ul>
-      <li>Anlagenüberwachung</li>
-	<li>Anomaly Detection</li>
-	<li>Automatisiert Gegenmaßnahmen setzen</li>
-</ul>
+  <!-- Dates & Contact Card Row -->
+  <section class="row mb-4">
+    <div class="col-md-6 mb-3">
+      <div class="p-4 shadow-sm rounded bg-white h-100 d-flex flex-column align-items-center justify-content-center" style="transition:transform 0.3s ease, box-shadow 0.3s ease; border:1px solid rgba(0,0,0,0.05);" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 1rem 3rem rgba(0,0,0,0.1)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 .125rem .25rem rgba(0,0,0,0.075)';">
+        <h5 class="text-success">Termine 2026</h5>
+        <a class="btn mt-3" href="/forms/pm_jun2026" style="background:#28a745;color:white;">
+          <i class="fa fa-solid fa-arrow-right pr-3"></i>Zur Anmeldung für 16. Juni 2026, Online<br/>Early‑Bird Preis: € 600 statt € 900
+        </a>
+      </div>
+    </div>
+    <div class="col-md-6 mb-3">
+      <div class="p-4 shadow-sm rounded bg-white h-100 d-flex flex-column align-items-center justify-content-center" style="transition:transform 0.3s ease, box-shadow 0.3s ease; border:1px solid rgba(0,0,0,0.05);" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 1rem 3rem rgba(0,0,0,0.1)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 .125rem .25rem rgba(0,0,0,0.075)';">
+        <h5 class="text-success">Kein passender Termin?</h5>
+        <p>Kontaktiere uns für einen individuellen In‑House‑Termin.</p>
+        <p><a href="mailto:office@twin-tech.at" class="text-success">office@twin-tech.at</a></p>
+      </div>
+    </div>
+  </section>
 
-<li>Nötige KI Grundlagen für Predictive Maintenance</li>
-<ul>
-  <li>Supervised VS unsupervised Learning + deren Anwendung in Predictive Maintenance</li>
-</ul>
-<li>Weitere Potenziale von KI in der Produktion</li>
-<ul>
-  <li>Automatisierte Fehlererkennung mit neuronalen Netzen</li>
-  <li>Reaktive Planung mit genetischen Algorithmen</li>
-</ul>
-<li>Entwicklung eines Predictive Maintenance Service in Python</li>
-<li>Einführung digitale Zwillinge</li>
-<ul>
-  <li>Was ist ein digitaler Zwilling, und warum sollte ich mich damit beschäftigen?</li>
-  <li>Asset Administration Shell zur interoperablen Repräsentation semantischer Daten im digitalen Zwilling</li>
-  <li>OPC UA zur standardisierten Interaktion mit Maschinen</li>
-</ul>
-<li>Entwicklung von digitalen Zwillingen für unser Predictive Maintenance Service</li>
-<li>Anbindung der Predictive Maintenance Service an die digitalen Zwillinge</li>
-</ul>
+  <!-- Technologies Card Grid -->
+  <section class="row" id="technologies">
+    <div class="col-md-12 mb-4">
+      <h5 class="text-success">Verwendete Technologien und Tools</h5>
+    </div>
+    <div class="col-md-4 mb-3">
+      <div class="p-3 shadow-sm rounded bg-white h-100 d-flex flex-column align-items-center justify-content-center" style="transition:transform 0.3s ease, box-shadow 0.3s ease; border:1px solid rgba(0,0,0,0.05);" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 1rem 3rem rgba(0,0,0,0.1)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 .125rem .25rem rgba(0,0,0,0.075)';">
+        <h6 class="font-weight-bold">Digitale Zwillinge</h6>
+        <ul class="list-unstyled">
+          <li>OPC UA &amp; Traeger SDK</li>
+          <li>Asset Administration Shell (AAS) &amp; MetaLevel Suite</li>
+        </ul>
+      </div>
+    </div>
+    <div class="col-md-4 mb-3">
+      <div class="p-3 shadow-sm rounded bg-white h-100 d-flex flex-column align-items-center justify-content-center" style="transition:transform 0.3s ease, box-shadow 0.3s ease; border:1px solid rgba(0,0,0,0.05);" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 1rem 3rem rgba(0,0,0,0.1)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 .125rem .25rem rgba(0,0,0,0.075)';">
+        <h6 class="font-weight-bold">Künstliche Intelligenz</h6>
+        <ul class="list-unstyled">
+          <li>Unüberwachtes Lernen – Anomalieerkennung</li>
+        </ul>
+      </div>
+    </div>
+  </section>
 
-<h5><span class="text-success">Als Ergebnis...</span></h5>
-<ul>
-<li>Verstehen Teilnehmer:innen, was Predictive Maintenance ist, wie sie es in ihrem Kontext verwenden können, und was sie dafür brauchen </li>
-<li>Haben einen Überblick über relevante Methoden (vor allem aus der künstlichen Intelligenz, aber auch für die nötige Skalierung in der Praxis)</li>
-<li>Haben ein eigenes Beispiel-Projekt, mit dem sie direkt im Anschluss im eigenen Unternehmen mit der Umsetzung starten können.</li>
-</ul>
-</div>
-</div>
+  <!-- Workshop Contents -->
+  <section class="mb-5">
+    <h5 class="text-success">Inhalte</h5>
+    <ul>
+      <li>Einführung Predictive Maintenance
+        <ul>
+          <li>Anlagenüberwachung</li>
+          <li>Anomaly Detection</li>
+          <li>Automatisierte Gegenmaßnahmen</li>
+        </ul>
+      </li>
+      <li>Nötige KI‑Grundlagen für Predictive Maintenance
+        <ul>
+          <li>Supervised vs. Unsupervised Learning & ihre Anwendung</li>
+        </ul>
+      </li>
+      <li>Weitere Potenziale von KI in der Produktion
+        <ul>
+          <li>Automatisierte Fehlererkennung mit neuronalen Netzen</li>
+          <li>Reaktive Planung mit genetischen Algorithmen</li>
+        </ul>
+      </li>
+      <li>Entwicklung eines Predictive‑Maintenance‑Service in Python</li>
+      <li>Einführung digitale Zwillinge
+        <ul>
+          <li>Was ist ein digitaler Zwilling?</li>
+          <li>AAS für semantische Daten</li>
+          <li>OPC UA für standardisierte Maschineninteraktion</li>
+        </ul>
+      </li>
+      <li>Entwicklung von digitalen Zwillingen für den Service</li>
+      <li>Anbindung des Services an die Zwillinge</li>
+    </ul>
+  </section>
+
+  <!-- Expected Outcomes -->
+  <section>
+    <h5 class="text-success">Als Ergebnis …</h5>
+    <ul>
+      <li>Verstehen, was Predictive Maintenance ist und wie es im eigenen Kontext eingesetzt wird.</li>
+      <li>Einen Überblick über relevante KI‑Methoden und Skalierungs‑Strategien erhalten.</li>
+      <li>Ein fertiges Beispiel‑Projekt, das sofort im Unternehmen umgesetzt werden kann.</li>
+    </ul>
+  </section>
 </div>
