@@ -4,111 +4,245 @@ title: workshop_predictivemaintenance
 background: white
 ---
 
-<br/>
+
+<br />
+
 <div class="container">
-  <!-- Hero Section -->
-  <section class="px-4 px-md-2 page-section" id="predictive-hero">
-    <div class="row align-items-center mb-5">
-      <div class="col-md-8">
-        <h2 class="section-heading">Predictive Maintenance skalieren mit digitalen Zwillingen</h2>
-        <p class="mt-3">
-          Dieses Training bringt dir praxisnah das Thema Predictive Maintenance näher. Neben einer Einführung in das Thema und den nötigen KI‑Grundlagen lernst du, wie du mit digitalen Zwillingen Innovationen wie Predictive Maintenance skalierbar betreibst.
-        </p>
-        <p>
-          Du erarbeitest dein eigenes Beispielprojekt, sodass du nach dem Workshop sofort im eigenen Unternehmen starten kannst.
-        </p>
-      </div>
-      <div class="col-md-4">
-        <img src="../../assets/img/stockimages/chess.jpg" class="img-fluid rounded" style="max-width:100%;" alt="Predictive Maintenance">
-      </div>
-    </div>
-  </section>
+  <div class="row align-left">
+    <div class="col-md-12">
 
-  <!-- Dates & Contact Card Row -->
-  <section class="row mb-4">
-    <div class="col-md-6 mb-3">
-      <div class="p-4 shadow-sm rounded bg-white h-100 d-flex flex-column align-items-center justify-content-center" style="transition:transform 0.3s ease, box-shadow 0.3s ease; border:1px solid rgba(0,0,0,0.05);" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 1rem 3rem rgba(0,0,0,0.1)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 .125rem .25rem rgba(0,0,0,0.075)';">
-        <h5 class="text-success">Termine 2026</h5>
-        <a class="btn mt-3" href="/forms/pm_jun2026" style="background:#28a745;color:white;">
-          <i class="fa fa-solid fa-arrow-right pr-3"></i>Zur Anmeldung für 16. Juni 2026, Online<br/>Early‑Bird Preis: € 600 statt € 900
-        </a>
+    </div>
+    <div class="col-md-8 align-left">
+      <h2 class="section-heading">Predictive Maintenance skalieren mit digitalen Zwillingen</h2><br />
+      Dieses Training bringt dir praxisnah das Thema Predictive Maintenance näher. Neben einer Einführung in das Thema
+      Predictive Maintenance und die nötigen KI-Grundlagen lernen Sie auch, wie Sie mit digitalen Zwillingen
+      Innovationen wie Predictive Maintenance skalierbar betreiben. Sie erarbeiten Ihr eigenes Beispielprojekt, mit
+      dem Sie im Anschluss an die Schulung direkt mit dem Einsatz im eigenen Unternehmen starten können.
+    </div>
+    <div class="col-md-4">
+      <img src="..\..\assets\img\stockimages\chess.jpg" class="img-fluid rounded shadow-sm mt-3"
+        style="max-width: 90%;">
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-12 mb-3">
+      <br />
+      <h4 class="text-success border-bottom pb-2 mb-3 text-left">Predictive Maintenance ermöglicht Dir</h4>
+    </div>
+    <div class="col-md-5 mb-3">
+      <div class="d-flex align-items-center p-3 shadow-sm rounded bg-white h-100"
+        style="border-top: 4px solid #28a745 !important;">
+        <img src="./../az.png" class="img-fluid mr-3" style="max-width:40px; margin-right:15px;">
+        <h5 class="font-weight-bold mb-0">Frühzeitige Fehlererkennung</h5>
       </div>
     </div>
-    <div class="col-md-6 mb-3">
-      <div class="p-4 shadow-sm rounded bg-white h-100 d-flex flex-column align-items-center justify-content-center" style="transition:transform 0.3s ease, box-shadow 0.3s ease; border:1px solid rgba(0,0,0,0.05);" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 1rem 3rem rgba(0,0,0,0.1)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 .125rem .25rem rgba(0,0,0,0.075)';">
-        <h5 class="text-success">Kein passender Termin?</h5>
-        <p>Kontaktiere uns für einen individuellen In‑House‑Termin.</p>
-        <p><a href="mailto:office@twin-tech.at" class="text-success">office@twin-tech.at</a></p>
+    <div class="col-md-5 mb-3">
+      <div class="d-flex align-items-center p-3 shadow-sm rounded bg-white h-100"
+        style="border-top: 4px solid #28a745 !important;">
+        <img src="./../az.png" class="img-fluid mr-3" style="max-width:40px; margin-right:15px;">
+        <h5 class="font-weight-bold mb-0">Optimierung von Wartungsintervallen</h5>
       </div>
     </div>
-  </section>
+    <div class="col-md-5 mb-3">
+      <div class="d-flex align-items-center p-3 shadow-sm rounded bg-white h-100"
+        style="border-top: 4px solid #28a745 !important;">
+        <img src="./../az.png" class="img-fluid mr-3" style="max-width:40px; margin-right:15px;">
+        <h5 class="font-weight-bold mb-0">Reduzierung von Stillständen</h5>
+      </div>
+    </div>
+    <div class="col-md-5 mb-3">
+      <div class="d-flex align-items-center p-3 shadow-sm rounded bg-white h-100"
+        style="border-top: 4px solid #28a745 !important;">
+        <img src="./../az.png" class="img-fluid mr-3" style="max-width:40px; margin-right:15px;">
+        <h5 class="font-weight-bold mb-0">Effiziente Anlagennutzung</h5>
+      </div>
+    </div>
+  </div>
+  <br />
+  <div class="row">
+    <div class="col-md-12 text-left mb-4">
+      <h4 class="text-success border-bottom pb-2 mb-3 text-left">Bereit?</h3>
+    </div>
+    <div class="col-md-5 mb-4">
+      <div class="card w-100 shadow-sm border-0 rounded bg-white h-100"
+        style="border-top: 4px solid #28a745 !important;">
+        <div class="card-body p-4 text-center d-flex flex-column">
+          <h5 class="card-title font-weight-bold mb-3"> <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"
+              fill="currentColor" class="bi bi-calendar-event text-success mr-2" viewBox="0 0 16 16">
+              <path d="M11 6.5a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1-.5-.5z" />
+              <path
+                d="M3.5 0a.5.5 0 0 1 .5.5V1h8V.5a.5.5 0 0 1 1 0V1h1a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V3a2 2 0 0 1 2-2h1V.5a.5.5 0 0 1 .5-.5M1 4v10a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V4z" />
+            </svg> Nächster Fixtermin</h5>
+          <div class="mb-3"><strong>17. Februar 2026</strong></div>
+          <p class="mb-2"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+              class="bi bi-clock-history mr-2 text-success" viewBox="0 0 16 16">
+              <path
+                d="M8.515 1.019A7 7 0 0 0 8 1V0a8 8 0 0 1 .589.022zm2.004.45a7 7 0 0 0-.985-.299l.219-.976q.576.129 1.126.342zm1.37.71a7 7 0 0 0-.439-.27l.493-.87a8 8 0 0 1 .979.654l-.615.789a7 7 0 0 0-.418-.302zm1.834 1.79a7 7 0 0 0-.653-.796l.724-.69q.406.429.747.91zm.744 1.352a7 7 0 0 0-.214-.468l.893-.45a8 8 0 0 1 .45 1.088l-.95.313a7 7 0 0 0-.179-.483m.53 2.507a7 7 0 0 0-.1-1.025l.985-.17q.1.58.116 1.17zm-.131 1.538q.05-.254.081-.51l.993.123a8 8 0 0 1-.23 1.155l-.964-.267q.069-.247.12-.501m-.952 2.379q.276-.436.486-.908l.914.405q-.24.54-.555 1.038zm-.964 1.205q.183-.183.35-.378l.758.653a8 8 0 0 1-.401.432z" />
+              <path d="M8 1a7 7 0 1 0 4.95 11.95l.707.707A8.001 8.001 0 1 1 8 0z" />
+              <path
+                d="M7.5 3a.5.5 0 0 1 .5.5v5.21l3.248 1.856a.5.5 0 0 1-.496.868l-3.5-2A.5.5 0 0 1 7 9V3.5a.5.5 0 0 1 .5-.5" />
+            </svg> 09:30 - 12:30</p>
+          <p class="mb-4"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+              class="bi bi-currency-euro mr-2 text-success" viewBox="0 0 16 16">
+              <path
+                d="M4 9.42h1.063C5.4 12.323 7.317 14 10.34 14c.622 0 1.167-.068 1.659-.185v-1.3c-.484.119-1.045.17-1.659.17-2.1 0-3.455-1.198-3.775-3.264h4.017v-.928H6.497v-.936q-.002-.165.008-.329h4.078v-.927H6.618c.388-1.898 1.719-2.985 3.723-2.985.614 0 1.175.05 1.659.177V2.194A6.6 6.6 0 0 0 10.341 2c-2.928 0-4.82 1.569-5.244 4.3H4v.928h1.01v1.265H4v.928z" />
+            </svg> € 600/Person</p>
+          <a href="#" class="btn btn-block py-2 text-white font-weight-bold mt-auto"
+            style="background:#28a745!important; border-radius: 30px;">Jetzt anmelden</a>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-5 mb-4">
+      <div class="card w-100 shadow-sm border-0 rounded bg-white h-100"
+        style="border-top: 4px solid #28a745 !important;">
+        <div class="card-body p-4 text-center d-flex flex-column">
+          <h5 class="card-title font-weight-bold mb-3"> <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"
+              fill="currentColor" class="bi bi-building text-success mr-2" viewBox="0 0 16 16">
+              <path fill-rule="evenodd"
+                d="M14.763.075A.5.5 0 0 1 15 .5v15a.5.5 0 0 1-.5.5h-3a.5.5 0 0 1-.5-.5V14h-1v1.5a.5.5 0 0 1-.5.5h-9a.5.5 0 0 1-.5-.5V10a.5.5 0 0 1 .342-.474L6 7.64V4.5a.5.5 0 0 1 .276-.447l8-4a.5.5 0 0 1 .487.022zM6 8.694 1 10.36V15h5V8.694zM7 15h2v-1.5a.5.5 0 0 1 .5-.5h2a.5.5 0 0 1 .5.5V15h2V1.309l-7 3.5V15z" />
+              <path
+                d="M2 11h1v1H2v-1zm2 0h1v1H4v-1zm-2 2h1v1H2v-1zm2 0h1v1H4v-1zm4-4h1v1H8V9zm2 0h1v1h-1V9zm-2 2h1v1H8v-1zm2 0h1v1h-1v-1zm2-2h1v1h-1V9zm0 2h1v1h-1v-1zM8 7h1v1H8V7zm2 0h1v1h-1V7zm2 0h1v1h-1V7zM8 5h1v1H8V5zm2 0h1v1h-1V5zm2 0h1v1h-1V5zm0-2h1v1h-1V3z" />
+            </svg> Inhouse Training</h5>
+          <div class="mb-3"><strong>Kein passender Termin dabei?</strong></div>
+          <p class="mb-4 text-muted">Kontaktiere uns gerne für deinen individuellen Inhouse-Termin, perfekt abgestimmt
+            auf dein Team.</p>
+          <a href="mailto:office@twin-tech.at" class="btn btn-block py-2 text-success font-weight-bold mt-auto"
+            style="background:transparent; border: 2px solid #28a745 !important; border-radius: 30px;">
+            <i class="fa fa-envelope mr-2"></i> office@twin-tech.at
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
 
-  <!-- Technologies Card Grid -->
-  <section class="row" id="technologies">
-    <div class="col-md-12 mb-4">
-      <h5 class="text-success">Verwendete Technologien und Tools</h5>
-    </div>
-    <div class="col-md-4 mb-3">
-      <div class="p-3 shadow-sm rounded bg-white h-100 d-flex flex-column align-items-center justify-content-center" style="transition:transform 0.3s ease, box-shadow 0.3s ease; border:1px solid rgba(0,0,0,0.05);" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 1rem 3rem rgba(0,0,0,0.1)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 .125rem .25rem rgba(0,0,0,0.075)';">
-        <h6 class="font-weight-bold">Digitale Zwillinge</h6>
-        <ul class="list-unstyled">
-          <li>OPC UA &amp; Traeger SDK</li>
-          <li>Asset Administration Shell (AAS) &amp; MetaLevel Suite</li>
-        </ul>
+  <div class="row">
+    <div class="row mt-4">
+      <div class="col-md-12" style="font-size: 1.1rem;">
+        <br />
+        <h4 class="text-success border-bottom pb-2 mb-3">Verwendete Technologien und Tools</h4>
+        <div class="row">
+          <div class="col-md-6 mb-3">
+            <div class="p-3 shadow-sm rounded bg-white h-100" style="border-top: 4px solid #28a745 !important;">
+              <h5 class="font-weight-bold mb-2">Digitale Zwillinge</h5>
+              <ul class="text-muted pl-3 mb-0">
+                <li class="mb-1">OPC UA und das OPC UA SDK von Traeger für das Konsumieren von Maschinendaten</li>
+                <li>Asset Administration Shell (AAS) und die AAS Suite von MetaLevel für die Repräsentation semantischer
+                  Daten in der Cloud</li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-md-6 mb-3">
+            <div class="p-3 shadow-sm rounded bg-white h-100" style="border-top: 4px solid #28a745 !important;">
+              <h5 class="font-weight-bold mb-2">Künstliche Intelligenz</h5>
+              <ul class="text-muted pl-3 mb-0">
+                <li>Unüberwachtes Maschinelles Lernen für Anomalieerkennung</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <br />
+        <h4 class="text-success border-bottom pb-2 mb-3">Das behandeln wir im Ganztages-Workshop</h4>
+        <div class="p-3 shadow-sm rounded bg-white border">
+          <ul class="list-unstyled mb-0">
+            <li class="mb-3">
+              <h6 class="font-weight-bold mb-1"><i class="fa fa-solid fa-chevron-right text-success mr-2"></i>
+                Einführung
+                Predictive Maintenance</h6>
+              <ul class="text-muted pl-4 mt-1 mb-0">
+                <li>Anlagenüberwachung</li>
+                <li>Anomaly Detection</li>
+                <li>Automatisiert Gegenmaßnahmen setzen</li>
+              </ul>
+            </li>
+            <li class="mb-3">
+              <h6 class="font-weight-bold mb-1"><i class="fa fa-solid fa-chevron-right text-success mr-2"></i> Nötige KI
+                Grundlagen für Predictive Maintenance</h6>
+              <ul class="text-muted pl-4 mt-1 mb-0">
+                <li>Supervised VS unsupervised Learning + deren Anwendung in Predictive Maintenance</li>
+              </ul>
+            </li>
+            <li class="mb-3">
+              <h6 class="font-weight-bold mb-1"><i class="fa fa-solid fa-chevron-right text-success mr-2"></i> Weitere
+                Potenziale von KI in der Produktion</h6>
+              <ul class="text-muted pl-4 mt-1 mb-0">
+                <li>Automatisierte Fehlererkennung mit neuronalen Netzen</li>
+                <li>Reaktive Planung mit genetischen Algorithmen</li>
+              </ul>
+            </li>
+            <li class="mb-3">
+              <h6 class="font-weight-bold mb-1"><i class="fa fa-solid fa-chevron-right text-success mr-2"></i>
+                Entwicklung
+                eines Predictive Maintenance Service in Python</h6>
+            </li>
+            <li class="mb-3">
+              <h6 class="font-weight-bold mb-1"><i class="fa fa-solid fa-chevron-right text-success mr-2"></i>
+                Einführung
+                digitale Zwillinge</h6>
+              <ul class="text-muted pl-4 mt-1 mb-0">
+                <li>Was ist ein digitaler Zwilling, und warum sollte ich mich damit beschäftigen?</li>
+                <li>Asset Administration Shell zur interoperablen Repräsentation semantischer Daten im digitalen
+                  Zwilling
+                </li>
+                <li>OPC UA zur standardisierten Interaktion mit Maschinen</li>
+              </ul>
+            </li>
+            <li class="mb-3">
+              <h6 class="font-weight-bold mb-1"><i class="fa fa-solid fa-chevron-right text-success mr-2"></i>
+                Entwicklung
+                von digitalen Zwillingen für unser Predictive Maintenance Service</h6>
+            </li>
+            <li>
+              <h6 class="font-weight-bold mb-0"><i class="fa fa-solid fa-chevron-right text-success mr-2"></i> Anbindung
+                der Predictive Maintenance Service an die digitalen Zwillinge</h6>
+            </li>
+          </ul>
+        </div>
+        <br />
+        <h4 class="text-success border-bottom pb-2 mb-3">Als Ergebnis...</h4>
+        <div class="row">
+          <div class="col-md-4 mb-3">
+            <div class="p-3 shadow-sm rounded bg-white h-100 text-center" style="border: 1px solid #EDF0F4;">
+              <div class="text-success mb-2">
+                <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" fill="currentColor"
+                  class="bi bi-lightbulb" viewBox="0 0 16 16">
+                  <path
+                    d="M2 6a6 6 0 1 1 10.174 4.31c-.203.196-.359.4-.453.619l-.762 1.769A.5.5 0 0 1 10.5 13a.5.5 0 0 1 0 1 .5.5 0 0 1 0 1l-.224.447a1 1 0 0 1-.894.553H6.618a1 1 0 0 1-.894-.553L5.5 15a.5.5 0 0 1 0-1 .5.5 0 0 1 0-1 .5.5 0 0 1-.46-.302l-.761-1.77a1.964 1.964 0 0 0-.453-.618A5.984 5.984 0 0 1 2 6zm6-5a5 5 0 0 0-3.479 8.592c.263.254.514.564.676.941L5.83 12h4.342l.632-1.467c.162-.377.413-.687.676-.941A5 5 0 0 0 8 1z" />
+                </svg>
+              </div>
+              <p class="text-muted mb-0">Verstehen Teilnehmer:innen, was Predictive Maintenance ist, wie sie es in ihrem
+                Kontext verwenden können, und was sie dafür brauchen.</p>
+            </div>
+          </div>
+          <div class="col-md-4 mb-3">
+            <div class="p-3 shadow-sm rounded bg-white h-100 text-center" style="border: 1px solid #EDF0F4;">
+              <div class="text-success mb-2">
+                <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" fill="currentColor"
+                  class="bi bi-graph-up" viewBox="0 0 16 16">
+                  <path fill-rule="evenodd"
+                    d="M0 0h1v15h15v1H0V0Zm14.817 3.113a.5.5 0 0 1 .07.704l-4.5 5.5a.5.5 0 0 1-.74.037L7.06 6.767l-3.656 5.027a.5.5 0 0 1-.808-.588l4-5.5a.5.5 0 0 1 .758-.06l2.609 2.61 4.15-5.073a.5.5 0 0 1 .704-.07Z" />
+                </svg>
+              </div>
+              <p class="text-muted mb-0">Haben einen Überblick über relevante Methoden (aus der KI und für die
+                Skalierung
+                in der Praxis).</p>
+            </div>
+          </div>
+          <div class="col-md-4 mb-3">
+            <div class="p-3 shadow-sm rounded bg-white h-100 text-center" style="border: 1px solid #EDF0F4;">
+              <div class="text-success mb-2">
+                <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" fill="currentColor" class="bi bi-gear"
+                  viewBox="0 0 16 16">
+                  <path
+                    d="M8 4.754a3.246 3.246 0 1 0 0 6.492 3.246 3.246 0 0 0 0-6.492zM5.754 8a2.246 2.246 0 1 1 4.492 0 2.246 2.246 0 0 1-4.492 0z" />
+                  <path
+                    d="M9.796 1.343c-.527-1.79-3.065-1.79-3.592 0l-.094.319a.873.873 0 0 1-1.255.52l-.292-.16c-1.64-.892-3.433.902-2.54 2.541l.159.292a.873.873 0 0 1-.52 1.255l-.319.094c-1.79.527-1.79 3.065 0 3.592l.319.094a.873.873 0 0 1 .52 1.255l-.16.292c-.892 1.64.901 3.434 2.541 2.54l.292-.159a.873.873 0 0 1 1.255.52l.094.319c.527 1.79 3.065 1.79 3.592 0l.094-.319a.873.873 0 0 1 1.255-.52l.292.16c1.64.893 3.434-.902 2.54-2.541l-.159-.292a.873.873 0 0 1 .52-1.255l.319-.094c1.79-.527 1.79-3.065 0-3.592l-.319-.094a.873.873 0 0 1-.52-1.255l.16-.292c.893-1.64-.902-3.433-2.541-2.54l-.292.159a.873.873 0 0 1-1.255-.52l-.094-.319zm-2.633.283c.246-.835 1.428-.835 1.674 0l.094.319a1.873 1.873 0 0 0 2.693 1.115l.291-.16c.764-.415 1.6.42 1.184 1.185l-.159.292a1.873 1.873 0 0 0 1.116 2.692l.318.094c.835.246.835 1.428 0 1.674l-.319.094a1.873 1.873 0 0 0-1.115 2.693l.16.291c.415.764-.42 1.6-1.185 1.184l-.291-.159a1.873 1.873 0 0 0-2.693 1.116l-.094.318c-.246.835-1.428.835-1.674 0l-.094-.319a1.873 1.873 0 0 0-2.692-1.115l-.292.16c-.764.415-1.6-.42-1.184-1.185l.159-.291A1.873 1.873 0 0 0 1.945 8.93l-.319-.094c-.835-.246-.835-1.428 0-1.674l.319-.094A1.873 1.873 0 0 0 3.06 4.377l-.16-.292c-.415-.764.42-1.6 1.185-1.184l.292.159a1.873 1.873 0 0 0 2.692-1.115l.094-.319z" />
+                </svg>
+              </div>
+              <p class="text-muted mb-0">Haben ein eigenes Beispiel-Projekt, mit dem sie direkt im Anschluss im eigenen
+                Unternehmen starten können.</p>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
-    <div class="col-md-4 mb-3">
-      <div class="p-3 shadow-sm rounded bg-white h-100 d-flex flex-column align-items-center justify-content-center" style="transition:transform 0.3s ease, box-shadow 0.3s ease; border:1px solid rgba(0,0,0,0.05);" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 1rem 3rem rgba(0,0,0,0.1)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 .125rem .25rem rgba(0,0,0,0.075)';">
-        <h6 class="font-weight-bold">Künstliche Intelligenz</h6>
-        <ul class="list-unstyled">
-          <li>Unüberwachtes Lernen – Anomalieerkennung</li>
-        </ul>
-      </div>
-    </div>
-  </section>
-
-  <!-- Workshop Contents -->
-  <section class="mb-5">
-    <h5 class="text-success">Inhalte</h5>
-    <ul>
-      <li>Einführung Predictive Maintenance
-        <ul>
-          <li>Anlagenüberwachung</li>
-          <li>Anomaly Detection</li>
-          <li>Automatisierte Gegenmaßnahmen</li>
-        </ul>
-      </li>
-      <li>Nötige KI‑Grundlagen für Predictive Maintenance
-        <ul>
-          <li>Supervised vs. Unsupervised Learning & ihre Anwendung</li>
-        </ul>
-      </li>
-      <li>Weitere Potenziale von KI in der Produktion
-        <ul>
-          <li>Automatisierte Fehlererkennung mit neuronalen Netzen</li>
-          <li>Reaktive Planung mit genetischen Algorithmen</li>
-        </ul>
-      </li>
-      <li>Entwicklung eines Predictive‑Maintenance‑Service in Python</li>
-      <li>Einführung digitale Zwillinge
-        <ul>
-          <li>Was ist ein digitaler Zwilling?</li>
-          <li>AAS für semantische Daten</li>
-          <li>OPC UA für standardisierte Maschineninteraktion</li>
-        </ul>
-      </li>
-      <li>Entwicklung von digitalen Zwillingen für den Service</li>
-      <li>Anbindung des Services an die Zwillinge</li>
-    </ul>
-  </section>
-
-  <!-- Expected Outcomes -->
-  <section>
-    <h5 class="text-success">Als Ergebnis …</h5>
-    <ul>
-      <li>Verstehen, was Predictive Maintenance ist und wie es im eigenen Kontext eingesetzt wird.</li>
-      <li>Einen Überblick über relevante KI‑Methoden und Skalierungs‑Strategien erhalten.</li>
-      <li>Ein fertiges Beispiel‑Projekt, das sofort im Unternehmen umgesetzt werden kann.</li>
-    </ul>
-  </section>
-</div>
+  </div>
